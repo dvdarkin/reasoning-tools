@@ -182,7 +182,7 @@ If you use these reasoning tools in your work, please cite:
 ```
 Reasoning Tools Knowledge Base (2025)
 Extracted reasoning primitives across 32 domains
-Available at: [URL]
+Available at: https://github.com/dvdarkin/reasoning-tools
 ```
 
 ---
