@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.claude
+.obsidian
+
+# Local environment
+.env
+.env.local
