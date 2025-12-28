@@ -22,7 +22,7 @@ These foundational tools help you build and assess sources of information in env
 
 ---
 
-## 1.1 The Three-Source Rule
+## The Three-Source Rule
 
 **What**: Never publish a significant claim based on a single source alone. Corroborate through at least two additional independent sources, or through documentary evidence that doesn't depend on any source's credibility.
 
@@ -40,7 +40,7 @@ These foundational tools help you build and assess sources of information in env
 
 ---
 
-## 1.2 Cultivating Reluctant Sources
+## Cultivating Reluctant Sources
 
 **What**: Systematically build relationships with people who have access to information you need but no initial motivation to share it - through patience, demonstrated trustworthiness, and understanding their constraints.
 
@@ -58,7 +58,7 @@ These foundational tools help you build and assess sources of information in env
 
 ---
 
-## 1.3 Credibility Triangulation
+## Credibility Triangulation
 
 **What**: Assess source credibility by comparing claims across sources with different biases, positions, and motivations - truth is what survives adversarial cross-examination from multiple perspectives.
 
@@ -76,7 +76,7 @@ These foundational tools help you build and assess sources of information in env
 
 ---
 
-## 1.4 Document-First Investigation
+## Document-First Investigation
 
 **What**: Prioritize documentary evidence over testimonial evidence - use documents to find sources and verify claims, not sources to find documents.
 
@@ -100,7 +100,7 @@ These tools help you assemble fragmentary information into coherent, verifiable 
 
 ---
 
-## 2.1 The Reverse Outline
+## The Reverse Outline
 
 **What**: Rather than writing your story as you investigate, periodically outline what you could prove right now with the evidence you currently have - exposing gaps between what you believe and what you can demonstrate.
 
@@ -118,7 +118,7 @@ These tools help you assemble fragmentary information into coherent, verifiable 
 
 ---
 
-## 2.2 Timeline Construction
+## Timeline Construction
 
 **What**: Build a detailed chronology of events from documentary evidence and source testimony, then check for impossibilities, contradictions, and suspicious coincidences that reveal deception or error.
 
@@ -136,7 +136,7 @@ These tools help you assemble fragmentary information into coherent, verifiable 
 
 ---
 
-## 2.3 The Paper Trail Gap Analysis
+## The Paper Trail Gap Analysis
 
 **What**: Identify what documents should exist if a process was followed legitimately, then determine if those documents exist, are credible, or show signs of after-the-fact creation.
 
@@ -154,7 +154,7 @@ These tools help you assemble fragmentary information into coherent, verifiable 
 
 ---
 
-## 2.4 Follow the Money
+## Follow the Money
 
 **What**: Trace financial flows to reveal relationships, motivations, and contradictions that participants want to obscure - money is harder to hide than conversations and reveals actual priorities.
 
@@ -178,7 +178,7 @@ These tools help you structure investigations efficiently and avoid common pitfa
 
 ---
 
-## 3.1 The Hypothesis Ladder
+## The Hypothesis Ladder
 
 **What**: Progress through increasingly specific claims - from "something is wrong" to "specifically X is wrong" to "X is wrong because Y" - gathering appropriate evidence for each level before advancing.
 
@@ -196,7 +196,7 @@ These tools help you structure investigations efficiently and avoid common pitfa
 
 ---
 
-## 3.2 The Deliberate Leak Test
+## The Deliberate Leak Test
 
 **What**: When receiving leaked information, investigate the leak itself - who leaked it, why now, what do they gain - before investigating the leak's content.
 
@@ -214,7 +214,7 @@ These tools help you structure investigations efficiently and avoid common pitfa
 
 ---
 
-## 3.3 Protective Sequencing
+## Protective Sequencing
 
 **What**: Deliberately sequence investigation steps to prevent the subject from destroying evidence, intimidating sources, or crafting false narratives before you've gathered sufficient material.
 
@@ -232,7 +232,7 @@ These tools help you structure investigations efficiently and avoid common pitfa
 
 ---
 
-## 3.4 Parallel Track Investigation
+## Parallel Track Investigation
 
 **What**: Simultaneously pursue multiple independent lines of inquiry into the same question, then compare findings - inconsistencies reveal where truth is being obscured.
 
@@ -256,7 +256,7 @@ These tools navigate the ethical and practical challenges of publishing investig
 
 ---
 
-## 4.1 The Right of Reply Framework
+## The Right of Reply Framework
 
 **What**: Before publication, present subjects with specific allegations and sufficient time and information to respond substantively - both for fairness and because their response often improves or redirects the story.
 
@@ -274,7 +274,7 @@ These tools navigate the ethical and practical challenges of publishing investig
 
 ---
 
-## 4.2 The Harm-Benefit Calculation
+## The Harm-Benefit Calculation
 
 **What**: Explicitly weigh the public benefit of publication against the harm to individuals named in the story - publish when benefit substantially exceeds harm, withhold when it doesn't.
 
@@ -292,7 +292,7 @@ These tools navigate the ethical and practical challenges of publishing investig
 
 ---
 
-## 4.3 The Incremental Publication Strategy
+## The Incremental Publication Strategy
 
 **What**: Rather than waiting for the complete story, publish preliminary findings while continuing investigation - this surfaces new sources, generates follow-up leads, and maintains pressure.
 
@@ -310,7 +310,7 @@ These tools navigate the ethical and practical challenges of publishing investig
 
 ---
 
-## 4.4 Source Protection Under Pressure
+## Source Protection Under Pressure
 
 **What**: Maintain source confidentiality even when threatened with legal consequences, while also being clear with sources about the limits of protection you can offer.
 

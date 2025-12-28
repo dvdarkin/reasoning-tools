@@ -44,7 +44,7 @@ These are the atomic reasoning moves that underlie all persuasive communication.
 
 ---
 
-## 1.1 The Three Appeals (Ethos, Pathos, Logos)
+## The Three Appeals (Ethos, Pathos, Logos)
 
 **What**: Every argument operates through three channels simultaneously: credibility of the speaker (ethos), emotional state of the audience (pathos), and logical structure of the argument itself (logos). Effective persuasion requires all three.
 
@@ -62,7 +62,7 @@ These are the atomic reasoning moves that underlie all persuasive communication.
 
 ---
 
-## 1.2 Stasis Theory (Finding the Point of Disagreement)
+## Stasis Theory (Finding the Point of Disagreement)
 
 **What**: Arguments fail when parties debate different questions. Stasis theory identifies exactly where disagreement exists: fact (did X happen?), definition (what counts as X?), quality (is X good or bad?), or policy (what should we do about X?).
 
@@ -80,7 +80,7 @@ These are the atomic reasoning moves that underlie all persuasive communication.
 
 ---
 
-## 1.3 Kairos (Timing and Context)
+## Kairos (Timing and Context)
 
 **What**: The effectiveness of an argument depends critically on when and where it's made. The same argument can succeed or fail based entirely on timing and situational context.
 
@@ -98,7 +98,7 @@ These are the atomic reasoning moves that underlie all persuasive communication.
 
 ---
 
-## 1.4 Invention (Systematic Argument Discovery)
+## Invention (Systematic Argument Discovery)
 
 **What**: Invention is the systematic process of finding all available arguments for a position. Not just the first argument that comes to mind, but the complete space of possible arguments, using structured exploration.
 
@@ -122,7 +122,7 @@ These tools apply when you need to reason about how arguments will be received.
 
 ---
 
-## 2.1 Audience Modeling (Understanding Starting Beliefs)
+## Audience Modeling (Understanding Starting Beliefs)
 
 **What**: Before you can persuade, you must accurately model what the audience currently believes, values, and takes for granted. Persuasion is movement from their current position, not yours.
 
@@ -140,7 +140,7 @@ These tools apply when you need to reason about how arguments will be received.
 
 ---
 
-## 2.2 Common Ground and Burden of Proof
+## Common Ground and Burden of Proof
 
 **What**: Arguments succeed by building from premises the audience already accepts. The more you ask them to accept on your say-so, the higher your burden of proof. Strategic argumentation minimizes burden by maximizing common ground.
 
@@ -158,7 +158,7 @@ These tools apply when you need to reason about how arguments will be received.
 
 ---
 
-## 2.3 Identification and Division (Us vs Them)
+## Identification and Division (Us vs Them)
 
 **What**: Persuasion often depends on establishing identification - making the audience see the speaker as "one of us" - or creating division - distinguishing in-group from out-group. Shared identity increases receptivity; division decreases it.
 
@@ -176,7 +176,7 @@ These tools apply when you need to reason about how arguments will be received.
 
 ---
 
-## 2.4 Amplification and Minimization (Presence)
+## Amplification and Minimization (Presence)
 
 **What**: Making certain arguments or facts psychologically present (vivid, immediate, emotionally salient) while making others psychologically distant. What is present shapes judgment more than what is logically important.
 
@@ -200,7 +200,7 @@ These tools apply when building specific arguments and refutations.
 
 ---
 
-## 3.1 Enthymeme (Argument from Shared Premises)
+## Enthymeme (Argument from Shared Premises)
 
 **What**: An enthymeme is a syllogism with one premise unstated, left implicit because the audience already accepts it. This makes arguments both more persuasive (by invoking shared beliefs) and more compact (by avoiding unnecessary explicit reasoning).
 
@@ -218,7 +218,7 @@ These tools apply when building specific arguments and refutations.
 
 ---
 
-## 3.2 Example and Precedent (Argument from Particular Cases)
+## Example and Precedent (Argument from Particular Cases)
 
 **What**: Rather than arguing from general principles to specific conclusions (deduction), argue from specific cases to general claims (induction) or from one case to analogous cases (parallel reasoning). People find concrete examples more compelling than abstract principles.
 
@@ -236,7 +236,7 @@ These tools apply when building specific arguments and refutations.
 
 ---
 
-## 3.3 Refutation by Dilemma (Reducing to Exclusive Options)
+## Refutation by Dilemma (Reducing to Exclusive Options)
 
 **What**: Force an opponent's position into a dilemma - two mutually exclusive options, both problematic. If they accept horn A, you've prepared an argument against A. If they accept horn B, you've prepared an argument against B. Either way, they lose.
 
@@ -254,7 +254,7 @@ These tools apply when building specific arguments and refutations.
 
 ---
 
-## 3.4 Concession and Rebuttal (Strategic Yielding)
+## Concession and Rebuttal (Strategic Yielding)
 
 **What**: Preemptively concede minor points or acknowledge the strongest opposing arguments, then show why they don't undermine your conclusion. This builds credibility and disarms opposition.
 
@@ -272,7 +272,7 @@ These tools apply when building specific arguments and refutations.
 
 ---
 
-## 3.5 Definition Control (Defining Terms Strategically)
+## Definition Control (Defining Terms Strategically)
 
 **What**: Many arguments hinge on definitions. Controlling how key terms are defined often determines who wins the argument. Definitions are not neutral - they're strategic moves.
 
@@ -296,7 +296,7 @@ These tools apply to the meta-level - how to frame, sequence, and adapt argument
 
 ---
 
-## 4.1 Arrangement (Strategic Sequencing)
+## Arrangement (Strategic Sequencing)
 
 **What**: The order in which you present arguments matters as much as their content. Different sequences create different psychological effects - primacy (first is strongest), recency (last is strongest), or climactic (build to strongest).
 
@@ -314,7 +314,7 @@ These tools apply to the meta-level - how to frame, sequence, and adapt argument
 
 ---
 
-## 4.2 Style and Code-Switching (Register Matching)
+## Style and Code-Switching (Register Matching)
 
 **What**: The same propositional content can be expressed in different registers - formal/informal, technical/accessible, direct/indirect. Matching register to audience and context increases receptivity; mismatching creates friction.
 
@@ -332,7 +332,7 @@ These tools apply to the meta-level - how to frame, sequence, and adapt argument
 
 ---
 
-## 4.3 Preemptive Framing (Setting the Terms of Debate)
+## Preemptive Framing (Setting the Terms of Debate)
 
 **What**: The first person to frame an issue often wins because they set the terms on which it will be evaluated. Framing isn't spin - it's determining which aspects are salient and which comparison points matter.
 
@@ -350,7 +350,7 @@ These tools apply to the meta-level - how to frame, sequence, and adapt argument
 
 ---
 
-## 4.4 Inoculation (Preempting Counterarguments)
+## Inoculation (Preempting Counterarguments)
 
 **What**: Exposing an audience to weakened forms of opposing arguments builds resistance to stronger versions later. Like medical inoculation, a small dose of the opposition creates immunity.
 
@@ -368,7 +368,7 @@ These tools apply to the meta-level - how to frame, sequence, and adapt argument
 
 ---
 
-## 4.5 Adaptation and Feedback (Real-time Adjustment)
+## Adaptation and Feedback (Real-time Adjustment)
 
 **What**: Effective persuasion requires reading audience response in real-time and adapting. Planned arguments may need to be reordered, expanded, abbreviated, or abandoned based on how the audience is receiving them.
 

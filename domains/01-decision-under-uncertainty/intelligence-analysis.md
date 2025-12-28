@@ -22,7 +22,7 @@ These foundational tools force you to surface and test the implicit beliefs driv
 
 ---
 
-## 1.1 Analysis of Competing Hypotheses (ACH)
+## Analysis of Competing Hypotheses (ACH)
 
 **What**: A systematic method for evaluating multiple explanations by testing them against evidence rather than selecting the most plausible explanation and confirming it.
 
@@ -40,7 +40,7 @@ These foundational tools force you to surface and test the implicit beliefs driv
 
 ---
 
-## 1.2 Key Assumptions Check
+## Key Assumptions Check
 
 **What**: Explicitly identify and test the assumptions underlying your analysis - both assumptions you're aware of and hidden assumptions you haven't articulated.
 
@@ -58,7 +58,7 @@ These foundational tools force you to surface and test the implicit beliefs driv
 
 ---
 
-## 1.3 Devil's Advocacy
+## Devil's Advocacy
 
 **What**: Formally assign someone to make the strongest possible case against your leading hypothesis, using the same evidence and analytical rigor you'd apply to support it.
 
@@ -76,7 +76,7 @@ These foundational tools force you to surface and test the implicit beliefs driv
 
 ---
 
-## 1.4 Pre-mortem Analysis
+## Pre-mortem Analysis
 
 **What**: Assume your analysis or decision has failed catastrophically, then work backward to identify plausible causes of that failure.
 
@@ -100,7 +100,7 @@ These tools help you systematically weigh evidence and assess its diagnostic val
 
 ---
 
-## 2.1 Diagnostic vs. Supportive Evidence
+## Diagnostic vs. Supportive Evidence
 
 **What**: Distinguish evidence that helps discriminate between hypotheses (diagnostic) from evidence consistent with your hypothesis but also consistent with alternatives (supportive).
 
@@ -118,7 +118,7 @@ These tools help you systematically weigh evidence and assess its diagnostic val
 
 ---
 
-## 2.2 Deception Detection
+## Deception Detection
 
 **What**: Systematically assess whether information is the result of deliberate deception rather than accurate reporting or innocent error.
 
@@ -136,7 +136,7 @@ These tools help you systematically weigh evidence and assess its diagnostic val
 
 ---
 
-## 2.3 Inconsistencies Forcing
+## Inconsistencies Forcing
 
 **What**: Actively seek information that contradicts your current assessment rather than information that confirms it.
 
@@ -154,7 +154,7 @@ These tools help you systematically weigh evidence and assess its diagnostic val
 
 ---
 
-## 2.4 Structured Source Evaluation
+## Structured Source Evaluation
 
 **What**: Systematically assess source credibility and information reliability using explicit criteria rather than intuitive judgment.
 
@@ -178,7 +178,7 @@ These tools help generate and evaluate multiple possible outcomes rather than pr
 
 ---
 
-## 3.1 Scenario Analysis
+## Scenario Analysis
 
 **What**: Develop multiple plausible, internally consistent narratives about how the future could unfold, based on different assumptions about key uncertainties.
 
@@ -196,7 +196,7 @@ These tools help generate and evaluate multiple possible outcomes rather than pr
 
 ---
 
-## 3.2 Indicators and Signposts
+## Indicators and Signposts
 
 **What**: Identify specific, observable events or conditions that would signal which hypothesis is correct or which scenario is unfolding.
 
@@ -214,7 +214,7 @@ These tools help generate and evaluate multiple possible outcomes rather than pr
 
 ---
 
-## 3.3 High-Impact/Low-Probability Analysis
+## High-Impact/Low-Probability Analysis
 
 **What**: Systematically identify and plan for events that are unlikely but would have catastrophic consequences if they occurred.
 
@@ -232,7 +232,7 @@ These tools help generate and evaluate multiple possible outcomes rather than pr
 
 ---
 
-## 3.4 Red Team Analysis
+## Red Team Analysis
 
 **What**: Adopt the adversary's perspective to anticipate their actions, identify your vulnerabilities, and test your plans against intelligent opposition.
 
@@ -256,7 +256,7 @@ These tools address systematic errors in human judgment that persist even when r
 
 ---
 
-## 4.1 Outside View / Reference Class Forecasting
+## Outside View / Reference Class Forecasting
 
 **What**: When estimating outcomes for your specific situation (inside view), anchor your estimate on the historical base rate of similar situations (outside view).
 
@@ -274,7 +274,7 @@ These tools address systematic errors in human judgment that persist even when r
 
 ---
 
-## 4.2 Structured Analogies
+## Structured Analogies
 
 **What**: When reasoning by analogy, explicitly identify multiple analogies, evaluate their relevance across multiple dimensions, and synthesize insights rather than anchoring on a single comparison.
 
@@ -292,7 +292,7 @@ These tools address systematic errors in human judgment that persist even when r
 
 ---
 
-## 4.3 Linchpin Analysis
+## Linchpin Analysis
 
 **What**: Identify the critical assumptions or evidence that, if wrong, would fundamentally change your conclusion - then focus analytical effort on testing those linchpins.
 
@@ -310,7 +310,7 @@ These tools address systematic errors in human judgment that persist even when r
 
 ---
 
-## 4.4 Mirror-Imaging Recognition
+## Mirror-Imaging Recognition
 
 **What**: Explicitly identify when you're projecting your own values, reasoning, or constraints onto other actors, then develop actor-specific models of their decision-making.
 
@@ -328,7 +328,7 @@ These tools address systematic errors in human judgment that persist even when r
 
 ---
 
-## 4.5 Confidence Calibration
+## Confidence Calibration
 
 **What**: Explicitly assess and communicate the probability that your judgment is correct, and track those probabilities against outcomes to improve calibration over time.
 

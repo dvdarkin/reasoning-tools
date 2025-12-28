@@ -22,7 +22,7 @@ These tools establish the basic conceptual vocabulary for reasoning about distri
 
 ---
 
-## 1.1 Need vs. Desert vs. Equality vs. Contribution
+## Need vs. Desert vs. Equality vs. Contribution
 
 **What:** Distributive principles cluster into distinct types: distributing according to need, according to what people deserve, according to strict equality, or according to what people have contributed. These often conflict.
 
@@ -44,7 +44,7 @@ These tools establish the basic conceptual vocabulary for reasoning about distri
 
 ---
 
-## 1.2 Procedural vs. Substantive Fairness
+## Procedural vs. Substantive Fairness
 
 **What:** Procedural fairness concerns whether the allocation process is legitimate (everyone had equal voice, rules were followed). Substantive fairness concerns whether the outcome itself is just, regardless of process. They can diverge.
 
@@ -66,7 +66,7 @@ These tools establish the basic conceptual vocabulary for reasoning about distri
 
 ---
 
-## 1.3 Baseline Sensitivity
+## Baseline Sensitivity
 
 **What:** Judgments about fairness depend critically on the baseline: compared to what? Equal division of new value differs from correction of past injustice differs from equal absolute shares.
 
@@ -88,7 +88,7 @@ These tools establish the basic conceptual vocabulary for reasoning about distri
 
 ---
 
-## 1.4 Pattern vs. Process
+## Pattern vs. Process
 
 **What:** Patterned principles specify what the distribution should look like ("to each according to need"); process principles specify legitimate acquisition/transfer rules ("justly acquired, justly yours") without mandating particular patterns.
 
@@ -116,7 +116,7 @@ Tools for understanding the architecture of distributive systems and how differe
 
 ---
 
-## 2.1 Goods Are Different: Rival, Excludable, Divisible
+## Goods Are Different: Rival, Excludable, Divisible
 
 **What:** Resources differ fundamentally in whether one person's use prevents another's (rival), whether access can be restricted (excludable), and whether they can be split into arbitrary portions (divisible). This determines what distributive mechanisms can work.
 
@@ -138,7 +138,7 @@ Tools for understanding the architecture of distributive systems and how differe
 
 ---
 
-## 2.2 Priority Rules and Triage
+## Priority Rules and Triage
 
 **What:** When resources are scarce and needs exceed supply, priority rules determine allocation order. Different priority schemes (first-come-first-served, greatest need, best outcomes, lottery) encode different values and have different properties.
 
@@ -160,7 +160,7 @@ Tools for understanding the architecture of distributive systems and how differe
 
 ---
 
-## 2.3 Envy-Freeness and Fair Division
+## Envy-Freeness and Fair Division
 
 **What:** A distribution is envy-free if no one would prefer someone else's allocation to their own. This is a procedural fairness criterion - even if outcomes are unequal, if no one envies another's bundle, the division has a fairness property.
 
@@ -182,7 +182,7 @@ Tools for understanding the architecture of distributive systems and how differe
 
 ---
 
-## 2.4 Positional Goods and Zero-Sum Components
+## Positional Goods and Zero-Sum Components
 
 **What:** Some goods are positional - their value depends on relative standing, not absolute possession. Status, rank, "being first" are inherently zero-sum. No distribution can make everyone above average.
 
@@ -210,7 +210,7 @@ Tools for reasoning about how distributions change over time and respond to ince
 
 ---
 
-## 3.1 Time-Slice vs. Lifetime Distribution
+## Time-Slice vs. Lifetime Distribution
 
 **What:** A distribution at one moment (time-slice) can look very different from distribution over lifetimes. Young people earn less than old; sick people use more healthcare than healthy. Snapshot inequality may reflect normal life-cycle patterns.
 
@@ -232,7 +232,7 @@ Tools for reasoning about how distributions change over time and respond to ince
 
 ---
 
-## 3.2 Rawlsian Maximin and Risk Position
+## Rawlsian Maximin and Risk Position
 
 **What:** Rawls's "maximin" principle: Evaluate distributions by how well they do for the worst-off position. Choose social arrangements as if you might occupy any position, not knowing which. This models fairness as acceptable risk.
 
@@ -254,7 +254,7 @@ Tools for reasoning about how distributions change over time and respond to ince
 
 ---
 
-## 3.3 Incentive Effects and Productive Inequality
+## Incentive Effects and Productive Inequality
 
 **What:** Redistributive policies face tradeoff: equality vs. incentives to produce. Some inequality may be necessary to motivate productive effort. The question is how much inequality is justified by incentive needs.
 
@@ -276,7 +276,7 @@ Tools for reasoning about how distributions change over time and respond to ince
 
 ---
 
-## 3.4 Starting Gate vs. Outcome Equality
+## Starting Gate vs. Outcome Equality
 
 **What:** Starting-gate equality aims for equal initial conditions (opportunities, resources); outcome equality aims for equal final distributions. These can conflict - equal opportunities can generate unequal outcomes; ensuring equal outcomes may require unequal starting points.
 
@@ -304,7 +304,7 @@ Tools for making concrete allocation decisions in practice.
 
 ---
 
-## 4.1 Difference Principle Application
+## Difference Principle Application
 
 **What:** Rawls's difference principle: Inequalities are just only if they maximally benefit the worst-off position. Not equality, but inequalities arranged to help those at the bottom as much as possible.
 
@@ -326,7 +326,7 @@ Tools for making concrete allocation decisions in practice.
 
 ---
 
-## 4.2 Sufficientarianism and Threshold Principles
+## Sufficientarianism and Threshold Principles
 
 **What:** Sufficientarian view: What matters morally is whether everyone has "enough," not whether inequality exists above the threshold. Once everyone meets the sufficiency threshold, additional inequality is morally neutral.
 
@@ -348,7 +348,7 @@ Tools for making concrete allocation decisions in practice.
 
 ---
 
-## 4.3 Compensation vs. Rewarding Choice
+## Compensation vs. Rewarding Choice
 
 **What:** Luck egalitarianism distinguishes brute luck (unchosen circumstances: genetics, family, accidents) from option luck (consequences of chosen risks). Justice requires compensating for brute luck disadvantages, but not insuring against option luck outcomes.
 
@@ -370,7 +370,7 @@ Tools for making concrete allocation decisions in practice.
 
 ---
 
-## 4.4 Pareto Improvements and Baseline Preservation
+## Pareto Improvements and Baseline Preservation
 
 **What:** A Pareto improvement makes at least one person better off without making anyone worse off. Pareto improvements are unambiguously good - they increase welfare without tradeoffs. But Pareto criterion is silent on distributions where helping some requires harming others.
 

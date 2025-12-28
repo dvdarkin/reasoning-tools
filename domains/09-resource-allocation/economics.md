@@ -30,7 +30,7 @@ These are the atomic reasoning moves. Everything else builds on them.
 
 ---
 
-## 1.1 Opportunity Cost
+## Opportunity Cost
 
 **What**: The true cost of any choice is the value of the best alternative you gave up. Not what you paid - what you forwent.
 
@@ -51,7 +51,7 @@ These are the atomic reasoning moves. Everything else builds on them.
 
 ---
 
-## 1.2 Marginal Thinking
+## Marginal Thinking
 
 **What**: Decisions happen at the margin. Not "is X good" but "is one more unit of X worth the cost of one more unit, given current levels."
 
@@ -72,7 +72,7 @@ These are the atomic reasoning moves. Everything else builds on them.
 
 ---
 
-## 1.3 Trade-offs and Constraints
+## Trade-offs and Constraints
 
 **What**: Scarcity forces choice. You can't have everything. Every system operates within constraints - budgets, time, physics, attention, political capital.
 
@@ -93,7 +93,7 @@ These are the atomic reasoning moves. Everything else builds on them.
 
 ---
 
-## 1.4 Comparative Advantage
+## Comparative Advantage
 
 **What**: Efficient allocation depends on relative productivity, not absolute. You should specialize in tasks where your opportunity cost is lowest relative to others - even if you're not the best in absolute terms.
 
@@ -114,7 +114,7 @@ These are the atomic reasoning moves. Everything else builds on them.
 
 ---
 
-## 1.5 Equilibrium as Analytical Tool
+## Equilibrium as Analytical Tool
 
 **What**: A situation is in equilibrium when no agent has incentive to unilaterally change their behavior. Not a prediction that systems reach equilibrium - a consistency check on your reasoning.
 
@@ -141,7 +141,7 @@ These tools apply when your outcomes depend on what others do - and they're reas
 
 ---
 
-## 2.1 Incentive Mapping
+## Incentive Mapping
 
 **What**: Agents respond to actual incentives, not intended ones. The behavior a system produces is the behavior it rewards.
 
@@ -162,7 +162,7 @@ These tools apply when your outcomes depend on what others do - and they're reas
 
 ---
 
-## 2.2 Game Structures
+## Game Structures
 
 **What**: Strategic situations have structure - who moves when, who knows what, how payoffs relate. Recognizing the structure points to likely dynamics.
 
@@ -195,7 +195,7 @@ These tools apply when your outcomes depend on what others do - and they're reas
 
 ---
 
-## 2.3 Commitment and Credibility
+## Commitment and Credibility
 
 **What**: Sometimes you benefit from limiting your own options. A credible commitment to a future action changes what others do now.
 
@@ -216,7 +216,7 @@ These tools apply when your outcomes depend on what others do - and they're reas
 
 ---
 
-## 2.4 Repeated Games and Reputation
+## Repeated Games and Reputation
 
 **What**: When interactions repeat, the future casts a shadow on the present. Reputation becomes an asset. Cooperation can emerge even among self-interested agents.
 
@@ -239,7 +239,7 @@ These tools apply when your outcomes depend on what others do - and they're reas
 
 ---
 
-## 2.5 Mechanism Design
+## Mechanism Design
 
 **What**: If you can design the rules, you can shape outcomes. Work backward from desired behavior to incentive structures that produce it.
 
@@ -260,7 +260,7 @@ These tools apply when your outcomes depend on what others do - and they're reas
 
 ---
 
-## 2.6 Principal-Agent Problems
+## Principal-Agent Problems
 
 **What**: When one party (agent) acts on behalf of another (principal), their interests may diverge. The agent has information or actions the principal can't observe.
 
@@ -287,7 +287,7 @@ These tools apply when you don't know everything - and neither does anyone else.
 
 ---
 
-## 3.1 Adverse Selection
+## Adverse Selection
 
 **What**: When one party has private information about quality before a transaction, the uninformed party can't distinguish good from bad. This can collapse markets.
 
@@ -314,7 +314,7 @@ These tools apply when you don't know everything - and neither does anyone else.
 
 ---
 
-## 3.2 Moral Hazard
+## Moral Hazard
 
 **What**: When one party's actions affect outcomes but can't be observed, they have incentive to act differently than they would under observation.
 
@@ -341,7 +341,7 @@ These tools apply when you don't know everything - and neither does anyone else.
 
 ---
 
-## 3.3 Signaling
+## Signaling
 
 **What**: When you have private information others care about, you can take costly actions to credibly reveal it - but only if the cost differs by type.
 
@@ -367,7 +367,7 @@ These tools apply when you don't know everything - and neither does anyone else.
 
 ---
 
-## 3.4 Risk vs Uncertainty
+## Risk vs Uncertainty
 
 **What**: Risk is quantifiable - you know the probability distribution. Uncertainty is not - you don't even know the distribution. They require different reasoning.
 
@@ -394,7 +394,7 @@ These tools apply when you don't know everything - and neither does anyone else.
 
 ---
 
-## 3.5 Option Value
+## Option Value
 
 **What**: The ability to choose later, after learning more, has value independent of which choice you'll make. Optionality is an asset.
 
@@ -420,7 +420,7 @@ These tools apply when you don't know everything - and neither does anyone else.
 
 ---
 
-## 3.6 Expected Value vs Expected Utility
+## Expected Value vs Expected Utility
 
 **What**: Rational choice under risk isn't about maximizing expected value - it's about maximizing expected utility. And utility isn't linear in wealth.
 
@@ -446,7 +446,7 @@ These tools apply when you don't know everything - and neither does anyone else.
 
 ---
 
-## 3.7 Bayesian Updating
+## Bayesian Updating
 
 **What**: When you get new information, update your beliefs proportionally to how much that information should surprise you under each hypothesis.
 
@@ -478,7 +478,7 @@ These tools apply to systems that change over time and produce aggregate pattern
 
 ---
 
-## 4.1 Externalities
+## Externalities
 
 **What**: When an action imposes costs or benefits on parties not involved in the decision, private optimization diverges from social optimum.
 
@@ -505,7 +505,7 @@ These tools apply to systems that change over time and produce aggregate pattern
 
 ---
 
-## 4.2 Public Goods and Collective Action
+## Public Goods and Collective Action
 
 **What**: When goods are non-excludable (can't prevent non-payers from enjoying) and non-rival (one person's use doesn't reduce another's), private provision fails.
 
@@ -531,7 +531,7 @@ These tools apply to systems that change over time and produce aggregate pattern
 
 ---
 
-## 4.3 Network Effects and Tipping Points
+## Network Effects and Tipping Points
 
 **What**: When the value of something depends on how many others use it, you get feedback loops, winner-take-all dynamics, and tipping points.
 
@@ -557,7 +557,7 @@ These tools apply to systems that change over time and produce aggregate pattern
 
 ---
 
-## 4.4 Reflexivity
+## Reflexivity
 
 **What**: When beliefs affect reality, and reality affects beliefs, you get feedback loops where cause and effect become circular.
 
@@ -582,7 +582,7 @@ These tools apply to systems that change over time and produce aggregate pattern
 
 ---
 
-## 4.5 Time Discounting and Intertemporal Choice
+## Time Discounting and Intertemporal Choice
 
 **What**: Future costs and benefits are weighted differently than present ones. How agents trade off now versus later determines saving, investment, and long-term behavior.
 
@@ -607,7 +607,7 @@ These tools apply to systems that change over time and produce aggregate pattern
 
 ---
 
-## 4.6 Evolution and Selection
+## Evolution and Selection
 
 **What**: When entities vary, face selection pressure, and propagate differentially based on fitness, evolutionary dynamics emerge. This applies beyond biology.
 
@@ -638,7 +638,7 @@ Standard tools assume agents are rational optimizers. These tools model systemat
 
 ---
 
-## 5.1 Loss Aversion and Reference Dependence
+## Loss Aversion and Reference Dependence
 
 **What**: Losses loom larger than equivalent gains. Evaluation is relative to a reference point, not absolute.
 
@@ -654,7 +654,7 @@ Standard tools assume agents are rational optimizers. These tools model systemat
 
 ---
 
-## 5.2 Framing and Mental Accounting
+## Framing and Mental Accounting
 
 **What**: How choices are described affects decisions, even when the underlying options are identical. People maintain separate mental accounts that violate fungibility.
 
@@ -668,7 +668,7 @@ Standard tools assume agents are rational optimizers. These tools model systemat
 
 ---
 
-## 5.3 Anchoring
+## Anchoring
 
 **What**: Numerical judgments are pulled toward arbitrary starting points, even irrelevant ones.
 
@@ -680,7 +680,7 @@ Standard tools assume agents are rational optimizers. These tools model systemat
 
 ---
 
-## 5.4 Status Quo Bias and Default Effects
+## Status Quo Bias and Default Effects
 
 **What**: The current state is privileged. Changing requires justification; maintaining doesn't.
 

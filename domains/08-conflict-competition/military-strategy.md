@@ -34,7 +34,7 @@ These are the irreducible dynamics underlying all strategic situations. Everythi
 
 ---
 
-## 1.1 Fog of War
+## Fog of War
 
 **What**: Uncertainty is structural, not incidental. In conflict, you never have complete information about the enemy, the environment, or even your own forces. This isn't a bug to be fixed - it's a permanent feature.
 
@@ -57,7 +57,7 @@ These are the irreducible dynamics underlying all strategic situations. Everythi
 
 ---
 
-## 1.2 Friction
+## Friction
 
 **What**: In theory, execution is trivial once you have a good plan. In practice, everything is harder than it looks. Small errors compound. Simple operations become difficult. This resistance is called friction.
 
@@ -80,7 +80,7 @@ These are the irreducible dynamics underlying all strategic situations. Everythi
 
 ---
 
-## 1.3 The Culminating Point
+## The Culminating Point
 
 **What**: Every offensive has a point beyond which it cannot continue - where strength is exhausted, supply lines are stretched, and the attacker becomes weaker than the defender. This is the culminating point.
 
@@ -103,7 +103,7 @@ These are the irreducible dynamics underlying all strategic situations. Everythi
 
 ---
 
-## 1.4 Defense vs Offense
+## Defense vs Offense
 
 **What**: Defense is inherently stronger than offense, all else equal. The defender chooses ground, uses prepared positions, and makes the attacker pay the cost of initiative. But defense cannot achieve decisive results - only offense can.
 
@@ -126,7 +126,7 @@ These are the irreducible dynamics underlying all strategic situations. Everythi
 
 ---
 
-## 1.5 Destruction vs Exhaustion
+## Destruction vs Exhaustion
 
 **What**: Wars can be won by destroying the enemy's forces (annihilation) or by exhausting their will and resources (attrition/exhaustion). These require different strategies.
 
@@ -155,7 +155,7 @@ These tools reason about the relationship between your capabilities and your opp
 
 ---
 
-## 2.1 Concentration of Force
+## Concentration of Force
 
 **What**: Mass strength at the decisive point. Being stronger everywhere is impossible; being stronger where it matters is achievable. Victory goes to whoever concentrates effectively.
 
@@ -178,7 +178,7 @@ These tools reason about the relationship between your capabilities and your opp
 
 ---
 
-## 2.2 Economy of Force
+## Economy of Force
 
 **What**: Allocate minimum necessary resources to secondary objectives. Every resource spent on the secondary is unavailable for the primary. Efficiency on the margins enables concentration at the focus.
 
@@ -201,7 +201,7 @@ These tools reason about the relationship between your capabilities and your opp
 
 ---
 
-## 2.3 Interior vs Exterior Lines
+## Interior vs Exterior Lines
 
 **What**: Operating on interior lines means being in the center, able to shift forces between threats faster than enemies can coordinate. Exterior lines means surrounding the enemy but requiring coordination across distance.
 
@@ -224,7 +224,7 @@ These tools reason about the relationship between your capabilities and your opp
 
 ---
 
-## 2.4 Center of Gravity
+## Center of Gravity
 
 **What**: The source of power that enables the enemy to fight. Not necessarily the strongest point - the point whose defeat causes systemic collapse. Strike the center of gravity and the whole system fails.
 
@@ -247,7 +247,7 @@ These tools reason about the relationship between your capabilities and your opp
 
 ---
 
-## 2.5 Asymmetric Advantage
+## Asymmetric Advantage
 
 **What**: When directly inferior, compete on different terms. Find dimensions where your characteristics become advantages rather than disadvantages.
 
@@ -276,7 +276,7 @@ These tools reason about knowledge, time, and the decision cycle.
 
 ---
 
-## 3.1 OODA Loop
+## OODA Loop
 
 **What**: Observe-Orient-Decide-Act. The decision cycle. Competitive advantage comes from cycling through this loop faster than the opponent - acting on newer information while they're still responding to old.
 
@@ -299,7 +299,7 @@ These tools reason about knowledge, time, and the decision cycle.
 
 ---
 
-## 3.2 Initiative
+## Initiative
 
 **What**: The ability to dictate the terms of engagement - when, where, and how competition occurs. Having initiative means the opponent must react to you rather than execute their plan.
 
@@ -322,7 +322,7 @@ These tools reason about knowledge, time, and the decision cycle.
 
 ---
 
-## 3.3 Surprise
+## Surprise
 
 **What**: Acting where and when the enemy doesn't expect, creating a window of advantage before they can adjust. Surprise multiplies force effectiveness.
 
@@ -345,7 +345,7 @@ These tools reason about knowledge, time, and the decision cycle.
 
 ---
 
-## 3.4 Deception
+## Deception
 
 **What**: Causing the enemy to believe something false, leading them to misallocate resources, position incorrectly, or act on wrong assumptions.
 
@@ -369,7 +369,7 @@ These tools reason about knowledge, time, and the decision cycle.
 
 ---
 
-## 3.5 Intelligence and Reconnaissance
+## Intelligence and Reconnaissance
 
 **What**: Systematic efforts to reduce uncertainty about the enemy, terrain, and situation. Not eliminating fog of war but reducing it at crucial moments and places.
 
@@ -393,7 +393,7 @@ These tools reason about knowledge, time, and the decision cycle.
 
 ---
 
-## 3.6 Tempo
+## Tempo
 
 **What**: The rate of activity relative to the opponent. Not absolute speed but relative speed. Controlling tempo means the opponent is always operating on stale information and disrupted plans.
 
@@ -423,7 +423,7 @@ These tools reason about how to prepare for and respond to unfolding reality.
 
 ---
 
-## 4.1 Commander's Intent
+## Commander's Intent
 
 **What**: Clear statement of the desired end state and purpose that enables subordinates to act appropriately when plans fail. Not detailed instructions but the "why" that allows adaptation.
 
@@ -447,7 +447,7 @@ These tools reason about how to prepare for and respond to unfolding reality.
 
 ---
 
-## 4.2 Mission Analysis
+## Mission Analysis
 
 **What**: Systematic process to understand what you're actually being asked to do, the constraints, the available resources, and the relationship to higher purpose.
 
@@ -471,7 +471,7 @@ These tools reason about how to prepare for and respond to unfolding reality.
 
 ---
 
-## 4.3 Branches and Sequels
+## Branches and Sequels
 
 **What**: Planned alternatives (branches) for different contingencies during execution, and follow-on operations (sequels) for after initial objectives are achieved.
 
@@ -495,7 +495,7 @@ These tools reason about how to prepare for and respond to unfolding reality.
 
 ---
 
-## 4.4 Reserve
+## Reserve
 
 **What**: Forces held back from initial commitment, available to exploit success, reinforce failure, or respond to surprise. Uncommitted capability that preserves options.
 
@@ -519,7 +519,7 @@ These tools reason about how to prepare for and respond to unfolding reality.
 
 ---
 
-## 4.5 Logistics as Strategy
+## Logistics as Strategy
 
 **What**: Amateurs talk tactics, professionals talk logistics. Operational reach, sustainment, and supply determine what strategies are feasible, often more than combat capability.
 
@@ -543,7 +543,7 @@ These tools reason about how to prepare for and respond to unfolding reality.
 
 ---
 
-## 4.6 Culmination Recognition
+## Culmination Recognition
 
 **What**: The ability to recognize when an operation has reached its culminating point - when to stop, consolidate, and prepare for the next phase rather than pushing until collapse.
 
@@ -567,7 +567,7 @@ These tools reason about how to prepare for and respond to unfolding reality.
 
 ---
 
-## 4.7 After-Action Review
+## After-Action Review
 
 **What**: Systematic review after operations to capture what happened, why, and what to do differently. Learning institutionalized.
 
