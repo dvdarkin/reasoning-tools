@@ -28,13 +28,13 @@ Each tool follows the same format: What, Why it matters, The key move, Classic a
 
 ---
 
-# Tier 1: Flow and Constraint
+## Tier 1: Flow and Constraint
 
 These tools apply whenever things move through systems - materials, information, people, money, attention.
 
 ---
 
-## Bottleneck Identification (Theory of Constraints)
+### Bottleneck Identification (Theory of Constraints)
 
 **What**: System throughput is determined by its tightest constraint. Improving non-bottlenecks doesn't improve the system; it just creates inventory buildup.
 
@@ -58,7 +58,7 @@ These tools apply whenever things move through systems - materials, information,
 
 ---
 
-## Little's Law
+### Little's Law
 
 **What**: The average number of items in a system equals the arrival rate times the average time in system. L = lambda * W. This is a law, not an approximation - it holds universally for stable systems.
 
@@ -81,7 +81,7 @@ These tools apply whenever things move through systems - materials, information,
 
 ---
 
-## Queuing Intuitions
+### Queuing Intuitions
 
 **What**: When arrivals are variable and service is variable, queues form even when average capacity exceeds average demand. Utilization above ~80% causes wait times to explode non-linearly.
 
@@ -104,7 +104,7 @@ These tools apply whenever things move through systems - materials, information,
 
 ---
 
-## Stock and Flow Reasoning
+### Stock and Flow Reasoning
 
 **What**: Systems contain stocks (accumulations) and flows (rates of change). Stocks buffer flows. Confusing stocks with flows leads to systematic errors.
 
@@ -127,7 +127,7 @@ These tools apply whenever things move through systems - materials, information,
 
 ---
 
-## Inventory as Buffer and Liability
+### Inventory as Buffer and Liability
 
 **What**: Inventory decouples stages of a process, absorbing variability. But it also hides problems, ties up capital, and can become obsolete.
 
@@ -150,13 +150,13 @@ These tools apply whenever things move through systems - materials, information,
 
 ---
 
-# Tier 2: Feedback and Control
+## Tier 2: Feedback and Control
 
 These tools apply to systems that self-regulate - or fail to.
 
 ---
 
-## Negative Feedback Loops
+### Negative Feedback Loops
 
 **What**: A system where the output feeds back to reduce the input, creating self-correcting behavior toward a target.
 
@@ -179,7 +179,7 @@ These tools apply to systems that self-regulate - or fail to.
 
 ---
 
-## Positive Feedback Loops
+### Positive Feedback Loops
 
 **What**: A system where the output feeds back to amplify the input, creating runaway growth or collapse.
 
@@ -202,7 +202,7 @@ These tools apply to systems that self-regulate - or fail to.
 
 ---
 
-## Delays and Oscillation
+### Delays and Oscillation
 
 **What**: When there's a delay between action and feedback, systems tend to overshoot and oscillate rather than smoothly approach the target.
 
@@ -225,7 +225,7 @@ These tools apply to systems that self-regulate - or fail to.
 
 ---
 
-## Requisite Variety (Ashby's Law)
+### Requisite Variety (Ashby's Law)
 
 **What**: A controller must have at least as much variety (possible states) as the system it's trying to control. You can't regulate what you can't match.
 
@@ -248,7 +248,7 @@ These tools apply to systems that self-regulate - or fail to.
 
 ---
 
-## Homeostasis and Setpoints
+### Homeostasis and Setpoints
 
 **What**: Systems often maintain stable states (setpoints) through automatic regulation. The system "defends" the setpoint against perturbation.
 
@@ -271,13 +271,13 @@ These tools apply to systems that self-regulate - or fail to.
 
 ---
 
-# Tier 3: Optimization and Trade-offs
+## Tier 3: Optimization and Trade-offs
 
 These tools apply when you're trying to find the best achievable outcome under constraints.
 
 ---
 
-## Sensitivity Analysis
+### Sensitivity Analysis
 
 **What**: How much does the output change when you vary an input? Which inputs matter most? Which don't matter at all?
 
@@ -300,7 +300,7 @@ These tools apply when you're trying to find the best achievable outcome under c
 
 ---
 
-## Local vs Global Optima
+### Local vs Global Optima
 
 **What**: Local optima are the best you can do with small moves from where you are. Global optima are the best overall. They're often not the same, and there's no guarantee you can reach global from local.
 
@@ -323,7 +323,7 @@ These tools apply when you're trying to find the best achievable outcome under c
 
 ---
 
-## Convexity and Non-convexity
+### Convexity and Non-convexity
 
 **What**: In convex problems, any local optimum is global, and averaging two good solutions gives a good solution. In non-convex problems, neither holds.
 
@@ -346,7 +346,7 @@ These tools apply when you're trying to find the best achievable outcome under c
 
 ---
 
-## Pareto Efficiency and Trade-off Surfaces
+### Pareto Efficiency and Trade-off Surfaces
 
 **What**: A solution is Pareto efficient if you can't improve on one objective without worsening another. The Pareto frontier is the set of all such solutions.
 
@@ -369,7 +369,7 @@ These tools apply when you're trying to find the best achievable outcome under c
 
 ---
 
-## Diminishing and Increasing Returns
+### Diminishing and Increasing Returns
 
 **What**: Diminishing returns: each additional unit of input yields less additional output. Increasing returns: each additional unit yields more.
 
@@ -392,7 +392,7 @@ These tools apply when you're trying to find the best achievable outcome under c
 
 ---
 
-## Robustness vs Optimality
+### Robustness vs Optimality
 
 **What**: Optimized solutions perform best under expected conditions but may fail badly under unexpected ones. Robust solutions perform adequately across a range of conditions.
 
@@ -415,13 +415,13 @@ These tools apply when you're trying to find the best achievable outcome under c
 
 ---
 
-# Tier 4: Complexity and Emergence
+## Tier 4: Complexity and Emergence
 
 These tools apply to systems too complex for direct control or prediction.
 
 ---
 
-## Emergence and Levels
+### Emergence and Levels
 
 **What**: Macro-level patterns arise from micro-level interactions without any agent intending the macro pattern. Higher levels have properties not predictable from lower levels alone.
 
@@ -444,7 +444,7 @@ These tools apply to systems too complex for direct control or prediction.
 
 ---
 
-## Tight and Loose Coupling
+### Tight and Loose Coupling
 
 **What**: In tightly coupled systems, components have strong, fast, invariant connections - failures cascade quickly. In loosely coupled systems, components have weak, slow, variable connections - failures are contained.
 
@@ -467,7 +467,7 @@ These tools apply to systems too complex for direct control or prediction.
 
 ---
 
-## Failure Mode Analysis
+### Failure Mode Analysis
 
 **What**: Systematically asking how a system can fail, what causes each failure mode, and what the consequences are.
 
@@ -490,7 +490,7 @@ These tools apply to systems too complex for direct control or prediction.
 
 ---
 
-## Redundancy and Degeneracy
+### Redundancy and Degeneracy
 
 **What**: Redundancy: multiple identical components so failure of one doesn't cause system failure. Degeneracy: multiple different components that can perform the same function if needed.
 
@@ -513,7 +513,7 @@ These tools apply to systems too complex for direct control or prediction.
 
 ---
 
-## Heuristics and Satisficing
+### Heuristics and Satisficing
 
 **What**: When optimization is infeasible (too complex, too uncertain, too slow), use heuristics - simple rules that work well enough most of the time. Satisficing: accept "good enough" rather than searching for best.
 
@@ -536,7 +536,7 @@ These tools apply to systems too complex for direct control or prediction.
 
 ---
 
-## Leverage Points
+### Leverage Points
 
 **What**: Places in a system where small interventions produce large effects. Not all points of intervention are equal.
 
@@ -561,7 +561,7 @@ These tools apply to systems too complex for direct control or prediction.
 
 # Appendix: Quick Reference
 
-## Problem Type -> Primary Tool
+### Problem Type -> Primary Tool
 
 | You're facing... | Start with... |
 |------------------|---------------|
@@ -582,7 +582,7 @@ These tools apply to systems too complex for direct control or prediction.
 
 ---
 
-## Reading Path
+### Reading Path
 
 **Foundations (start here)**:
 - Goldratt, "The Goal" - constraints thinking in novel form
@@ -606,7 +606,7 @@ These tools apply to systems too complex for direct control or prediction.
 
 ---
 
-## Usage Notes
+### Usage Notes
 
 These tools are lenses for systems with interconnected parts, flows, and feedback. They apply most directly to:
 - Operations and logistics

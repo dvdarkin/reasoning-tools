@@ -10,7 +10,7 @@ Your goal is to extract **transferable reasoning tools** from the target domain 
 
 ### Target Structure
 
-- **10-15 tools total** - Comprehensive coverage of the domain's key thinking primitives
+- **10-15 tools typical, up to 25 for rich domains** - If exceeding 15, verify each tool maintains 400+ words with all 7 sections complete
 - **3-4 tier organization** - Organized by increasing specificity:
   - Tier 1: Foundational tools that work almost anywhere
   - Tier 2: Structural/analytical tools for understanding system organization
@@ -55,7 +55,7 @@ Address:
 
 **Tone:** Intellectually honest. Acknowledge the domain's limitations while defending its value as a source of reasoning tools. Avoid both uncritical celebration and dismissive skepticism.
 
-### 2. Tiered Organization (10-15 tools, 400-600 words each)
+### 2. Tiered Organization (10-25 tools, 400-600 words each)
 
 For each tier, provide a brief header explaining what distinguishes this level.
 

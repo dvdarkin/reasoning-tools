@@ -5,6 +5,14 @@ All notable changes to the Reasoning Tools Knowledge Base will be documented in 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.3.1] - 2025-12-30
+
+### Fixed
+- **Header normalization** - Standardized tool headings from `## Tool` to `### Tool` in 7 domain files for consistency (military-strategy, mechanism-design, operations-research, intelligence-analysis, classical-rhetoric, distributive-justice, investigative-journalism)
+
+### Changed
+- **Extraction template updated** - Tool count guidance changed from "10-15 tools" to "10-15 typical, up to 25 for rich domains" with quality gate: verify 400+ words and all 7 sections if exceeding 15
+
 ## [1.3.0] - 2025-12-30
 
 ### Changed
