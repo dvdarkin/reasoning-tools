@@ -184,7 +184,8 @@ See [meta/quality-criteria.md](meta/quality-criteria.md) for full checklist.
 
 **Link Format Compatibility:**
 - Internal links use GitHub-style anchors (kebab-case slugs, e.g., `#comparative-advantage` for heading `## Comparative Advantage`)
-- These anchors work on **GitHub**, **Obsidian**, and most markdown renderers
+- These anchors work on **GitHub** and most markdown renderers, but not **Obsidian**
+- Obsidian uses a different anchor format - links will open the file but not scroll to the section ([known incompatibility](https://forum.obsidian.md/t/support-gfm-style-kebab-case-heading-slug-anchor-targets/30350))
 - See [tools/glossary.md](tools/glossary.md) for a complete alphabetical index of all tools with verified links
 
 ## License
