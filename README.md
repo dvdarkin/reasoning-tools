@@ -30,8 +30,11 @@ Browse [domains/](domains/README.md) organized by what you're trying to do:
 - [Resource Allocation](domains/09-resource-allocation/README.md) - Distributing limited resources optimally
 - [Pattern Recognition](domains/10-pattern-recognition/README.md) - Identifying structures and making predictions
 
+### Glossary
+See [tools/glossary.md](tools/glossary.md) for a complete alphabetical index of all 516 tools with direct links to their source domains.
+
 ### By Tool Name
-See [tools/by-tool-name/](tools/by-tool-name/README.md) for alphabetical index of tools that appear across multiple domains.
+See [tools/by-tool-name/](tools/by-tool-name/README.md) for cross-domain tools showing how the same concept appears in different fields.
 
 ### By Application
 See [tools/by-application/](tools/by-application/README.md) for problem-oriented guides (e.g., "How to make predictions", "How to diagnose problems").
@@ -92,6 +95,16 @@ See [matrix.md](matrix.md) for the full hybrid matrix showing problem domains ×
 **Pattern Recognition (2):**
 - Machine Learning - Bias-variance tradeoff, regularization, cross-validation
 - Medical Diagnostics - Differential diagnosis, base rates, likelihood ratios
+
+## Cross-Domain Tools
+
+| Tool | Domains |
+|------|---------|
+| **Base Rate Integration** | [Logic & Critical Thinking](domains/07-truth-seeking/logic-critical-thinking.md#base-rate-integration), [Medical Diagnostics](domains/10-pattern-recognition/medical-diagnostics.md#base-rate-integration) |
+| **Pre-mortem Analysis** | [Intelligence Analysis](domains/01-decision-under-uncertainty/intelligence-analysis.md#pre-mortem-analysis), [Design Thinking](domains/03-creative-generation/design-thinking.md#pre-mortem-analysis), [Logic & Critical Thinking](domains/07-truth-seeking/logic-critical-thinking.md#pre-mortem-analysis) |
+| **Red Team Analysis** | [Intelligence Analysis](domains/01-decision-under-uncertainty/intelligence-analysis.md#red-team-analysis), [Logic & Critical Thinking](domains/07-truth-seeking/logic-critical-thinking.md#red-team-analysis) |
+
+These tools were extracted separately from each domain's literature, yet converged on the same core mental operation—strong evidence they represent genuine reasoning primitives rather than domain-specific techniques.
 
 ## Selection Criteria
 
@@ -167,6 +180,13 @@ See [meta/quality-criteria.md](meta/quality-criteria.md) for full checklist.
 - Sales/Negotiation - BATNA, anchoring, win-win solutions
 - Construction Management - Critical path, float, resource leveling
 
+## Known Limitations
+
+**Link Format Compatibility:**
+- Internal links use GitHub-style anchors (kebab-case slugs, e.g., `#comparative-advantage` for heading `## Comparative Advantage`)
+- These anchors work on **GitHub**, **Obsidian**, and most markdown renderers
+- See [tools/glossary.md](tools/glossary.md) for a complete alphabetical index of all tools with verified links
+
 ## License
 
 This work is licensed under [CC BY 4.0](LICENSE). You are free to share and adapt with attribution.
@@ -187,7 +207,8 @@ Available at: https://github.com/dvdarkin/reasoning-tools
 
 ---
 
-**Last Updated**: 2025-12-27
-**Version**: 1.1.0
+**Last Updated**: 2025-12-29
+**Version**: 1.2.0
 **Total Domains**: 32
-**Estimated Tools**: 320-480 (10-15 per domain)
+**Total Tools**: 516 (see [glossary](tools/glossary.md) for full list)
+**Tools per Domain**: 13-28 (average ~16)

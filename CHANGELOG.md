@@ -5,6 +5,22 @@ All notable changes to the Reasoning Tools Knowledge Base will be documented in 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.2.0] - 2025-12-29
+
+### Added
+- **Glossary** (`tools/glossary.md`) - Complete alphabetical index of all 516 tools with direct anchor links to source domains
+- Glossary links added to all navigation sections (README, domains/README, tools READMEs)
+
+### Changed
+- **Simplified heading format** - Removed numbered prefixes (e.g., `## 1.4 Comparative Advantage` → `## Comparative Advantage`) from 156 headings across 8 domain files for cleaner anchor links
+- **Fixed all navigation links** - All links in `tools/by-application/` and `tools/by-tool-name/` now point to specific tool sections with verified anchors
+- **Removed incorrect domain claims** - Fixed 6 by-tool-name entries that incorrectly listed domains where the concept doesn't appear as a dedicated tool
+- Updated cross-domain tools section in README with correct anchors
+
+### Fixed
+- Anchor links now work in GitHub and other md viewers (not Obsidian though)
+- Links in by-application guides now point to specific tools instead of domain page tops
+
 ## [1.1.0] - 2025-12-27
 
 ### Added

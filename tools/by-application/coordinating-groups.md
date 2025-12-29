@@ -11,67 +11,67 @@ Coordination requires aligning incentives, establishing common knowledge, managi
 ### From Mechanism Design
 
 - **Incentive Compatibility**: Design systems where individuals' best strategies produce desired collective outcomes
-  - Link: [domains/06-coordination-cooperation/mechanism-design.md](../../domains/06-coordination-cooperation/mechanism-design.md)
+  - Link: [domains/06-coordination-cooperation/mechanism-design.md](../../domains/06-coordination-cooperation/mechanism-design.md#incentive-compatibility)
 
 - **Revelation Principle**: Create mechanisms where honest disclosure is in everyone's interest
-  - Link: [domains/06-coordination-cooperation/mechanism-design.md](../../domains/06-coordination-cooperation/mechanism-design.md)
+  - Link: [domains/06-coordination-cooperation/mechanism-design.md](../../domains/06-coordination-cooperation/mechanism-design.md#preference-revelation)
 
 - **Budget Balance**: Design resource allocation that matches contributions to consumption
-  - Link: [domains/06-coordination-cooperation/mechanism-design.md](../../domains/06-coordination-cooperation/mechanism-design.md)
+  - Link: [domains/06-coordination-cooperation/mechanism-design.md](../../domains/06-coordination-cooperation/mechanism-design.md#budget-balance-and-subsidies)
 
 ### From Organizational Behavior
 
 - **Team Formation Principles**: Match team composition to task requirements
-  - Link: [domains/06-coordination-cooperation/organizational-behavior.md](../../domains/06-coordination-cooperation/organizational-behavior.md)
+  - Link: [domains/06-coordination-cooperation/organizational-behavior.md](../../domains/06-coordination-cooperation/organizational-behavior.md#boundary-spanning-role-identification)
 
 - **Psychological Safety**: Create conditions where people can speak up without fear
-  - Link: [domains/06-coordination-cooperation/organizational-behavior.md](../../domains/06-coordination-cooperation/organizational-behavior.md)
+  - Link: [domains/06-coordination-cooperation/organizational-behavior.md](../../domains/06-coordination-cooperation/organizational-behavior.md#psychological-safety-audit)
 
 - **Role Clarity**: Define responsibilities explicitly to prevent gaps and conflicts
-  - Link: [domains/06-coordination-cooperation/organizational-behavior.md](../../domains/06-coordination-cooperation/organizational-behavior.md)
+  - Link: [domains/06-coordination-cooperation/organizational-behavior.md](../../domains/06-coordination-cooperation/organizational-behavior.md#boundary-spanning-role-identification)
 
 ### From Constitutional Design
 
 - **Separation of Powers**: Divide authority to prevent capture and abuse
-  - Link: [domains/06-coordination-cooperation/constitutional-design.md](../../domains/06-coordination-cooperation/constitutional-design.md)
+  - Link: [domains/06-coordination-cooperation/constitutional-design.md](../../domains/06-coordination-cooperation/constitutional-design.md#separation-of-powers)
 
 - **Checks and Balances**: Create mutual veto power to require consensus
-  - Link: [domains/06-coordination-cooperation/constitutional-design.md](../../domains/06-coordination-cooperation/constitutional-design.md)
+  - Link: [domains/06-coordination-cooperation/constitutional-design.md](../../domains/06-coordination-cooperation/constitutional-design.md#checks-and-balances)
 
 - **Amendment Rules**: Make fundamental rules harder to change than ordinary decisions
-  - Link: [domains/06-coordination-cooperation/constitutional-design.md](../../domains/06-coordination-cooperation/constitutional-design.md)
+  - Link: [domains/06-coordination-cooperation/constitutional-design.md](../../domains/06-coordination-cooperation/constitutional-design.md#amendment-procedures-and-constitutional-learning)
 
 ### From Game Theory (Signaling)
 
 - **Costly Signaling**: Require visible commitment that would be irrational without genuine intent
-  - Link: [domains/02-persuasion-influence/game-theory-signaling.md](../../domains/02-persuasion-influence/game-theory-signaling.md)
+  - Link: [domains/02-persuasion-influence/game-theory-signaling.md](../../domains/02-persuasion-influence/game-theory-signaling.md#costly-signal-recognition)
 
 - **Common Knowledge Creation**: Ensure everyone knows that everyone knows the plan
-  - Link: [domains/02-persuasion-influence/game-theory-signaling.md](../../domains/02-persuasion-influence/game-theory-signaling.md)
+  - Link: [domains/06-coordination-cooperation/mechanism-design.md](../../domains/06-coordination-cooperation/mechanism-design.md#common-knowledge-and-coordination)
 
 ### From Military Strategy
 
 - **Unity of Command**: Ensure clear single authority for each decision
-  - Link: [domains/08-conflict-competition/military-strategy.md](../../domains/08-conflict-competition/military-strategy.md)
+  - Link: [domains/08-conflict-competition/military-strategy.md](../../domains/08-conflict-competition/military-strategy.md#fog-of-war)
 
 - **Commander's Intent**: Share purpose and desired end-state, not just orders
-  - Link: [domains/08-conflict-competition/military-strategy.md](../../domains/08-conflict-competition/military-strategy.md)
+  - Link: [domains/08-conflict-competition/military-strategy.md](../../domains/08-conflict-competition/military-strategy.md#commanders-intent)
 
 ### From Operations Research
 
 - **Critical Path Analysis**: Identify sequence of dependent tasks that determines minimum completion time
-  - Link: [domains/09-resource-allocation/operations-research.md](../../domains/09-resource-allocation/operations-research.md)
+  - Link: [domains/09-resource-allocation/operations-research.md](../../domains/09-resource-allocation/operations-research.md#sensitivity-analysis)
 
 - **Resource Leveling**: Smooth resource usage to avoid bottlenecks
-  - Link: [domains/09-resource-allocation/operations-research.md](../../domains/09-resource-allocation/operations-research.md)
+  - Link: [domains/09-resource-allocation/operations-research.md](../../domains/09-resource-allocation/operations-research.md#stock-and-flow-reasoning)
 
 ### From Network Science
 
 - **Centrality Measures**: Identify key coordination nodes in communication networks
-  - Link: [domains/04-complex-systems/network-science.md](../../domains/04-complex-systems/network-science.md)
+  - Link: [domains/04-complex-systems/network-science.md](../../domains/04-complex-systems/network-science.md#centrality-measures-multiple-flavors)
 
 - **Small-World Networks**: Design communication structures with high clustering and short paths
-  - Link: [domains/04-complex-systems/network-science.md](../../domains/04-complex-systems/network-science.md)
+  - Link: [domains/04-complex-systems/network-science.md](../../domains/04-complex-systems/network-science.md#clustering-and-community-detection)
 
 ## Recommended Workflow
 

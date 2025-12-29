@@ -17,5 +17,6 @@ Reasoning tools organized by problem type.
 
 ## Other Ways to Navigate
 
-- [By tool name](../tools/by-tool-name/README.md) - Alphabetical index of cross-domain tools
+- [Glossary](../tools/glossary.md) - Complete alphabetical index of all 516 tools with direct links
+- [By tool name](../tools/by-tool-name/README.md) - Cross-domain tools with variations
 - [By application](../tools/by-application/README.md) - Problem-oriented guides

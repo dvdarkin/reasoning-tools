@@ -11,73 +11,73 @@ Verification requires distinguishing evidence from assertion, checking sources, 
 ### From Experimental Design
 
 - **Randomized Controlled Trials**: Eliminate confounding by randomizing treatment assignment
-  - Link: [domains/07-truth-seeking/experimental-design.md](../../domains/07-truth-seeking/experimental-design.md)
+  - Link: [domains/07-truth-seeking/experimental-design.md](../../domains/07-truth-seeking/experimental-design.md#controlled-comparison)
 
 - **Blinding**: Prevent expectation effects by concealing treatment from subjects and evaluators
-  - Link: [domains/07-truth-seeking/experimental-design.md](../../domains/07-truth-seeking/experimental-design.md)
+  - Link: [domains/07-truth-seeking/experimental-design.md](../../domains/07-truth-seeking/experimental-design.md#blinding)
 
 - **Replication**: Verify findings by repeating under independent conditions
-  - Link: [domains/07-truth-seeking/experimental-design.md](../../domains/07-truth-seeking/experimental-design.md)
+  - Link: [domains/07-truth-seeking/experimental-design.md](../../domains/07-truth-seeking/experimental-design.md#replication-hierarchy)
 
 - **Control Groups**: Compare against baseline to isolate specific causal effects
-  - Link: [domains/07-truth-seeking/experimental-design.md](../../domains/07-truth-seeking/experimental-design.md)
+  - Link: [domains/07-truth-seeking/experimental-design.md](../../domains/07-truth-seeking/experimental-design.md#controlled-comparison)
 
 ### From Investigative Journalism
 
 - **Source Triangulation**: Verify claims through multiple independent sources
-  - Link: [domains/07-truth-seeking/investigative-journalism.md](../../domains/07-truth-seeking/investigative-journalism.md)
+  - Link: [domains/07-truth-seeking/investigative-journalism.md](../../domains/07-truth-seeking/investigative-journalism.md#the-three-source-rule)
 
 - **Document Authentication**: Verify provenance and integrity of evidence
-  - Link: [domains/07-truth-seeking/investigative-journalism.md](../../domains/07-truth-seeking/investigative-journalism.md)
+  - Link: [domains/07-truth-seeking/investigative-journalism.md](../../domains/07-truth-seeking/investigative-journalism.md#document-first-investigation)
 
 - **Follow the Money**: Trace financial flows to reveal hidden relationships
-  - Link: [domains/07-truth-seeking/investigative-journalism.md](../../domains/07-truth-seeking/investigative-journalism.md)
+  - Link: [domains/07-truth-seeking/investigative-journalism.md](../../domains/07-truth-seeking/investigative-journalism.md#follow-the-money)
 
 ### From Logic & Critical Thinking
 
 - **Identifying Logical Fallacies**: Recognize invalid argument structures
-  - Link: [domains/07-truth-seeking/logic-critical-thinking.md](../../domains/07-truth-seeking/logic-critical-thinking.md)
+  - Link: [domains/07-truth-seeking/logic-critical-thinking.md](../../domains/07-truth-seeking/logic-critical-thinking.md#fallacy-pattern-recognition)
 
 - **Necessary vs Sufficient Conditions**: Distinguish what must be true from what guarantees truth
-  - Link: [domains/07-truth-seeking/logic-critical-thinking.md](../../domains/07-truth-seeking/logic-critical-thinking.md)
+  - Link: [domains/07-truth-seeking/logic-critical-thinking.md](../../domains/07-truth-seeking/logic-critical-thinking.md#necessary-vs-sufficient-conditions)
 
 - **Burden of Proof**: Allocate responsibility for providing evidence appropriately
-  - Link: [domains/07-truth-seeking/logic-critical-thinking.md](../../domains/07-truth-seeking/logic-critical-thinking.md)
+  - Link: [domains/07-truth-seeking/logic-critical-thinking.md](../../domains/07-truth-seeking/logic-critical-thinking.md#burden-of-proof-analysis)
 
 ### From Formal Verification
 
 - **Exhaustive Case Analysis**: Verify by checking all possible cases systematically
-  - Link: [domains/07-truth-seeking/formal-verification.md](../../domains/07-truth-seeking/formal-verification.md)
+  - Link: [domains/07-truth-seeking/formal-verification.md](../../domains/07-truth-seeking/formal-verification.md#bounded-verification)
 
 - **Invariant Checking**: Verify that properties hold across all states
-  - Link: [domains/07-truth-seeking/formal-verification.md](../../domains/07-truth-seeking/formal-verification.md)
+  - Link: [domains/07-truth-seeking/formal-verification.md](../../domains/07-truth-seeking/formal-verification.md#invariant-identification)
 
 ### From Bayesian Statistics
 
 - **Prior-Likelihood-Posterior Decomposition**: Separate prior plausibility from evidence strength
-  - Link: [domains/01-decision-under-uncertainty/bayesian-statistics.md](../../domains/01-decision-under-uncertainty/bayesian-statistics.md)
+  - Link: [domains/01-decision-under-uncertainty/bayesian-statistics.md](../../domains/01-decision-under-uncertainty/bayesian-statistics.md#prior-likelihood-posterior-decomposition)
 
 - **Likelihood Ratio Thinking**: Assess how diagnostic evidence is for the claim
-  - Link: [domains/01-decision-under-uncertainty/bayesian-statistics.md](../../domains/01-decision-under-uncertainty/bayesian-statistics.md)
+  - Link: [domains/01-decision-under-uncertainty/bayesian-statistics.md](../../domains/01-decision-under-uncertainty/bayesian-statistics.md#likelihood-ratio-thinking)
 
 - **Base Rate Anchoring**: Start with prior probability before evaluating specific evidence
-  - Link: [domains/01-decision-under-uncertainty/bayesian-statistics.md](../../domains/01-decision-under-uncertainty/bayesian-statistics.md)
+  - Link: [domains/01-decision-under-uncertainty/bayesian-statistics.md](../../domains/01-decision-under-uncertainty/bayesian-statistics.md#base-rate-anchoring)
 
 ### From Intelligence Analysis
 
 - **Source Reliability Assessment**: Evaluate credibility and access of information sources
-  - Link: [domains/01-decision-under-uncertainty/intelligence-analysis.md](../../domains/01-decision-under-uncertainty/intelligence-analysis.md)
+  - Link: [domains/01-decision-under-uncertainty/intelligence-analysis.md](../../domains/01-decision-under-uncertainty/intelligence-analysis.md#structured-source-evaluation)
 
 - **Analysis of Competing Hypotheses**: Test claim against alternative explanations
-  - Link: [domains/01-decision-under-uncertainty/intelligence-analysis.md](../../domains/01-decision-under-uncertainty/intelligence-analysis.md)
+  - Link: [domains/01-decision-under-uncertainty/intelligence-analysis.md](../../domains/01-decision-under-uncertainty/intelligence-analysis.md#analysis-of-competing-hypotheses-ach)
 
 - **Deception Detection**: Look for indicators of deliberate misinformation
-  - Link: [domains/01-decision-under-uncertainty/intelligence-analysis.md](../../domains/01-decision-under-uncertainty/intelligence-analysis.md)
+  - Link: [domains/01-decision-under-uncertainty/intelligence-analysis.md](../../domains/01-decision-under-uncertainty/intelligence-analysis.md#deception-detection)
 
 ### From Medical Diagnostics
 
 - **Test Sensitivity and Specificity**: Understand false positive and false negative rates
-  - Link: [domains/10-pattern-recognition/medical-diagnostics.md](../../domains/10-pattern-recognition/medical-diagnostics.md)
+  - Link: [domains/10-pattern-recognition/medical-diagnostics.md](../../domains/10-pattern-recognition/medical-diagnostics.md#likelihood-ratio-reasoning)
 
 ## Recommended Workflow
 

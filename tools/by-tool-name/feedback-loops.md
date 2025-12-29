@@ -11,27 +11,27 @@ Feedback occurs when a system's output becomes its input, creating either reinfo
 ### In System Dynamics
 - **Context:** Identifying positive (reinforcing) and negative (balancing) feedback loops in interconnected systems
 - **Key operation:** Trace causal chains - does this effect eventually influence its own cause? Count negative links to determine loop polarity
-- **Link:** domains/04-complex-systems/system-dynamics.md#feedback-loop-identification
+- **Link:** [domains/09-resource-allocation/operations-research.md](../../domains/09-resource-allocation/operations-research.md#positive-feedback-loops)
 
 ### In Operations Research
 - **Context:** Negative feedback for control systems, positive feedback for runaway processes
 - **Key operation:** Identify setpoints, sensors, comparators, and effectors in self-regulating systems
-- **Link:** domains/09-resource-allocation/operations-research.md#negative-feedback-loops
+- **Link:** [domains/09-resource-allocation/operations-research.md](../../domains/09-resource-allocation/operations-research.md#negative-feedback-loops)
 
 ### In Ecology
 - **Context:** Population dynamics, predator-prey relationships, ecosystem regulation
 - **Key operation:** Map how population changes feed back through resource availability and predation
-- **Link:** domains/04-complex-systems/ecology.md
+- **Link:** [domains/04-complex-systems/ecology.md](../../domains/04-complex-systems/ecology.md#trophic-cascade-tracing)
 
 ### In Network Science
 - **Context:** Preferential attachment (rich-get-richer), viral growth, cascade dynamics
 - **Key operation:** Identify whether network growth mechanisms create self-amplifying or self-limiting processes
-- **Link:** domains/04-complex-systems/network-science.md#preferential-attachment-and-growth-dynamics
+- **Link:** [domains/04-complex-systems/network-science.md](../../domains/04-complex-systems/network-science.md#cascade-and-percolation-dynamics)
 
 ### In Organizational Behavior
 - **Context:** Culture reinforcement, performance spirals, organizational inertia
 - **Key operation:** Trace how current behavior creates conditions that reinforce or undermine that same behavior
-- **Link:** domains/06-coordination-cooperation/organizational-behavior.md
+- **Link:** [domains/06-coordination-cooperation/organizational-behavior.md](../../domains/06-coordination-cooperation/organizational-behavior.md#psychological-safety-audit)
 
 ## When to Use This Tool
 

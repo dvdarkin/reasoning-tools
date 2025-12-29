@@ -11,53 +11,53 @@ Persuasion requires understanding audience beliefs, framing arguments strategica
 ### From Classical Rhetoric
 
 - **Ethos-Pathos-Logos**: Combine credibility (ethos), emotional resonance (pathos), and logical argument (logos)
-  - Link: [domains/02-persuasion-influence/classical-rhetoric.md](../../domains/02-persuasion-influence/classical-rhetoric.md)
+  - Link: [domains/02-persuasion-influence/classical-rhetoric.md](../../domains/02-persuasion-influence/classical-rhetoric.md#the-three-appeals-ethos-pathos-logos)
 
 - **Stasis Theory**: Identify the core point of disagreement (fact, definition, quality, policy)
-  - Link: [domains/02-persuasion-influence/classical-rhetoric.md](../../domains/02-persuasion-influence/classical-rhetoric.md)
+  - Link: [domains/02-persuasion-influence/classical-rhetoric.md](../../domains/02-persuasion-influence/classical-rhetoric.md#stasis-theory-finding-the-point-of-disagreement)
 
 - **Kairos**: Time arguments to match audience readiness and contextual opportunity
-  - Link: [domains/02-persuasion-influence/classical-rhetoric.md](../../domains/02-persuasion-influence/classical-rhetoric.md)
+  - Link: [domains/02-persuasion-influence/classical-rhetoric.md](../../domains/02-persuasion-influence/classical-rhetoric.md#kairos-timing-and-context)
 
 ### From Social Psychology
 
 - **Reciprocity Principle**: People feel obligated to return favors and concessions
-  - Link: [domains/02-persuasion-influence/social-psychology.md](../../domains/02-persuasion-influence/social-psychology.md)
+  - Link: [domains/02-persuasion-influence/social-psychology.md](../../domains/02-persuasion-influence/social-psychology.md#commitment-and-consistency-escalation)
 
 - **Social Proof**: People look to others' behavior to guide their own
-  - Link: [domains/02-persuasion-influence/social-psychology.md](../../domains/02-persuasion-influence/social-psychology.md)
+  - Link: [domains/02-persuasion-influence/social-psychology.md](../../domains/02-persuasion-influence/social-psychology.md#social-proof-dependency-recognition)
 
 - **Foot-in-the-Door**: Secure small commitments before requesting larger ones
-  - Link: [domains/02-persuasion-influence/social-psychology.md](../../domains/02-persuasion-influence/social-psychology.md)
+  - Link: [domains/02-persuasion-influence/social-psychology.md](../../domains/02-persuasion-influence/social-psychology.md#commitment-and-consistency-escalation)
 
 - **Framing Effects**: How options are presented dramatically affects choices
-  - Link: [domains/02-persuasion-influence/social-psychology.md](../../domains/02-persuasion-influence/social-psychology.md)
+  - Link: [domains/09-resource-allocation/economics.md](../../domains/09-resource-allocation/economics.md#framing-and-mental-accounting)
 
 ### From Game Theory (Signaling)
 
 - **Costly Signaling**: Demonstrate commitment through actions that would be irrational if you didn't believe your claims
-  - Link: [domains/02-persuasion-influence/game-theory-signaling.md](../../domains/02-persuasion-influence/game-theory-signaling.md)
+  - Link: [domains/02-persuasion-influence/game-theory-signaling.md](../../domains/02-persuasion-influence/game-theory-signaling.md#costly-signal-recognition)
 
 - **Separating Equilibrium**: Structure communication so only those with genuine quality can afford to signal
-  - Link: [domains/02-persuasion-influence/game-theory-signaling.md](../../domains/02-persuasion-influence/game-theory-signaling.md)
+  - Link: [domains/02-persuasion-influence/game-theory-signaling.md](../../domains/02-persuasion-influence/game-theory-signaling.md#the-separating-equilibrium-test)
 
 ### From Bayesian Statistics
 
 - **Prior-Likelihood-Posterior Decomposition**: Help audience distinguish their prior beliefs from new evidence you're providing
-  - Link: [domains/01-decision-under-uncertainty/bayesian-statistics.md](../../domains/01-decision-under-uncertainty/bayesian-statistics.md)
+  - Link: [domains/01-decision-under-uncertainty/bayesian-statistics.md](../../domains/01-decision-under-uncertainty/bayesian-statistics.md#prior-likelihood-posterior-decomposition)
 
 - **Likelihood Ratio Thinking**: Frame your evidence in terms of how diagnostic it is
-  - Link: [domains/01-decision-under-uncertainty/bayesian-statistics.md](../../domains/01-decision-under-uncertainty/bayesian-statistics.md)
+  - Link: [domains/01-decision-under-uncertainty/bayesian-statistics.md](../../domains/01-decision-under-uncertainty/bayesian-statistics.md#likelihood-ratio-thinking)
 
 ### From Intelligence Analysis
 
 - **Red Team Analysis**: Anticipate and address the strongest counterarguments
-  - Link: [domains/01-decision-under-uncertainty/intelligence-analysis.md](../../domains/01-decision-under-uncertainty/intelligence-analysis.md)
+  - Link: [domains/07-truth-seeking/logic-critical-thinking.md](../../domains/07-truth-seeking/logic-critical-thinking.md#red-team-analysis)
 
 ### From Experimental Design
 
 - **Randomized Controlled Trials**: Present causal evidence that eliminates alternative explanations
-  - Link: [domains/07-truth-seeking/experimental-design.md](../../domains/07-truth-seeking/experimental-design.md)
+  - Link: [domains/07-truth-seeking/experimental-design.md](../../domains/07-truth-seeking/experimental-design.md#controlled-comparison)
 
 ## Recommended Workflow
 

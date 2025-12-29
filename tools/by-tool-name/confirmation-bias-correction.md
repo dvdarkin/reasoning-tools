@@ -1,6 +1,6 @@
 # Confirmation Bias Correction
 
-**Appears in:** Social Psychology, Experimental Design, Intelligence Analysis, Investigative Journalism, Logic & Critical Thinking
+**Appears in:** Social Psychology, Experimental Design, Intelligence Analysis, Investigative Journalism
 
 ## Core Concept
 
@@ -11,27 +11,22 @@ Systematically seek information that would disconfirm your current hypothesis, n
 ### In Social Psychology
 - **Context:** Wason selection task and hypothesis testing failures
 - **Key operation:** For any belief, explicitly generate "what evidence would convince me I'm wrong?" then seek it
-- **Link:** domains/02-persuasion-influence/social-psychology.md#confirmation-bias-correction
+- **Link:** [domains/02-persuasion-influence/social-psychology.md](../../domains/02-persuasion-influence/social-psychology.md#confirmation-bias-correction)
 
 ### In Experimental Design
 - **Context:** Strong inference and falsificationism
 - **Key operation:** Design experiments that can definitively reject hypotheses, not just support them
-- **Link:** domains/07-truth-seeking/experimental-design.md
+- **Link:** [domains/07-truth-seeking/experimental-design.md](../../domains/07-truth-seeking/experimental-design.md#blinding)
 
 ### In Intelligence Analysis
 - **Context:** Structured analytic techniques like Analysis of Competing Hypotheses
 - **Key operation:** Actively look for evidence that would disprove your leading hypothesis
-- **Link:** domains/01-decision-under-uncertainty/intelligence-analysis.md
+- **Link:** [domains/01-decision-under-uncertainty/intelligence-analysis.md](../../domains/01-decision-under-uncertainty/intelligence-analysis.md#analysis-of-competing-hypotheses-ach)
 
 ### In Investigative Journalism
 - **Context:** Source triangulation and adversarial journalism
 - **Key operation:** Interview sources who would disconfirm your story, not just confirm it
-- **Link:** domains/07-truth-seeking/investigative-journalism.md
-
-### In Logic & Critical Thinking
-- **Context:** Logical fallacies and argument evaluation
-- **Key operation:** Steel-man the opposition - generate their strongest counter-arguments
-- **Link:** domains/07-truth-seeking/logic-critical-thinking.md
+- **Link:** [domains/07-truth-seeking/investigative-journalism.md](../../domains/07-truth-seeking/investigative-journalism.md#the-three-source-rule)
 
 ## When to Use This Tool
 

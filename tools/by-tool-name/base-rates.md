@@ -11,22 +11,22 @@ Before evaluating specific evidence about an individual case, explicitly establi
 ### In Bayesian Statistics
 - **Context:** Prior probability distribution before observing new evidence
 - **Key operation:** Make priors explicit, update proportionally with new evidence, distinguish prior from posterior
-- **Link:** domains/01-decision-under-uncertainty/bayesian-statistics.md#base-rate-anchoring
+- **Link:** [domains/01-decision-under-uncertainty/bayesian-statistics.md](../../domains/01-decision-under-uncertainty/bayesian-statistics.md#base-rate-anchoring)
 
 ### In Intelligence Analysis
 - **Context:** Assessing threat probabilities before analyzing specific intelligence
 - **Key operation:** Establish baseline rates for events in historical reference classes before evaluating current indicators
-- **Link:** domains/01-decision-under-uncertainty/intelligence-analysis.md
+- **Link:** [domains/01-decision-under-uncertainty/intelligence-analysis.md](../../domains/01-decision-under-uncertainty/intelligence-analysis.md#outside-view-reference-class-forecasting)
 
 ### In Medical Diagnostics
 - **Context:** Disease prevalence in the relevant population
 - **Key operation:** Start with population base rate, adjust for risk factors, then update based on test results
-- **Link:** domains/10-pattern-recognition/medical-diagnostics.md
+- **Link:** [domains/10-pattern-recognition/medical-diagnostics.md](../../domains/10-pattern-recognition/medical-diagnostics.md#base-rate-integration)
 
 ### In Investigative Journalism
 - **Context:** How common are false accusations, verified scandals, or errors in the claim type being investigated?
 - **Key operation:** Research historical frequency of similar claims being true/false before assessing current evidence
-- **Link:** domains/07-truth-seeking/investigative-journalism.md
+- **Link:** [domains/07-truth-seeking/investigative-journalism.md](../../domains/07-truth-seeking/investigative-journalism.md#credibility-triangulation)
 
 ## When to Use This Tool
 

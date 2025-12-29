@@ -11,62 +11,62 @@ Resource allocation requires balancing efficiency (maximizing total value), equi
 ### From Economics
 
 - **Opportunity Cost**: For every allocation, identify the value of the next-best alternative forgone
-  - Link: [domains/09-resource-allocation/economics.md](../../domains/09-resource-allocation/economics.md)
+  - Link: [domains/09-resource-allocation/economics.md](../../domains/09-resource-allocation/economics.md#opportunity-cost)
 
 - **Marginal Analysis**: Allocate resources where marginal benefit per unit cost is highest
-  - Link: [domains/09-resource-allocation/economics.md](../../domains/09-resource-allocation/economics.md)
+  - Link: [domains/09-resource-allocation/economics.md](../../domains/09-resource-allocation/economics.md#marginal-thinking)
 
 - **Diminishing Returns**: Recognize that additional units typically yield decreasing incremental value
-  - Link: [domains/09-resource-allocation/economics.md](../../domains/09-resource-allocation/economics.md)
+  - Link: [domains/09-resource-allocation/operations-research.md](../../domains/09-resource-allocation/operations-research.md#diminishing-and-increasing-returns)
 
 - **Price Mechanisms**: Use prices or price-like signals to aggregate distributed information
-  - Link: [domains/09-resource-allocation/economics.md](../../domains/09-resource-allocation/economics.md)
+  - Link: [domains/09-resource-allocation/economics.md](../../domains/09-resource-allocation/economics.md#externalities)
 
 ### From Operations Research
 
 - **Linear Programming**: Optimize allocation subject to multiple constraints
-  - Link: [domains/09-resource-allocation/operations-research.md](../../domains/09-resource-allocation/operations-research.md)
+  - Link: [domains/09-resource-allocation/operations-research.md](../../domains/09-resource-allocation/operations-research.md#convexity-and-non-convexity)
 
 - **Constraint Theory**: Identify and relax the binding constraint to improve overall performance
-  - Link: [domains/09-resource-allocation/operations-research.md](../../domains/09-resource-allocation/operations-research.md)
+  - Link: [domains/09-resource-allocation/operations-research.md](../../domains/09-resource-allocation/operations-research.md#bottleneck-identification-theory-of-constraints)
 
 - **Queueing Theory**: Manage arrival rates and service capacity to minimize wait times
-  - Link: [domains/09-resource-allocation/operations-research.md](../../domains/09-resource-allocation/operations-research.md)
+  - Link: [domains/09-resource-allocation/operations-research.md](../../domains/09-resource-allocation/operations-research.md#queuing-intuitions)
 
 ### From Portfolio Management
 
 - **Diversification**: Spread resources across uncorrelated options to reduce risk
-  - Link: [domains/09-resource-allocation/portfolio-management.md](../../domains/09-resource-allocation/portfolio-management.md)
+  - Link: [domains/09-resource-allocation/portfolio-management.md](../../domains/09-resource-allocation/portfolio-management.md#diversification-logic)
 
 - **Risk-Return Tradeoff**: Accept higher uncertainty only when compensated by higher expected return
-  - Link: [domains/09-resource-allocation/portfolio-management.md](../../domains/09-resource-allocation/portfolio-management.md)
+  - Link: [domains/09-resource-allocation/portfolio-management.md](../../domains/09-resource-allocation/portfolio-management.md#return-risk-trade-off)
 
 - **Rebalancing**: Periodically adjust allocations back to target ratios
-  - Link: [domains/09-resource-allocation/portfolio-management.md](../../domains/09-resource-allocation/portfolio-management.md)
+  - Link: [domains/09-resource-allocation/portfolio-management.md](../../domains/09-resource-allocation/portfolio-management.md#rebalancing-discipline)
 
 ### From Distributive Justice
 
 - **Equity vs Equality**: Choose between proportional allocation (based on contribution/need) vs equal shares
-  - Link: [domains/09-resource-allocation/distributive-justice.md](../../domains/09-resource-allocation/distributive-justice.md)
+  - Link: [domains/09-resource-allocation/distributive-justice.md](../../domains/09-resource-allocation/distributive-justice.md#procedural-vs-substantive-fairness)
 
 - **Maximin Principle**: Prioritize improving the worst-off position
-  - Link: [domains/09-resource-allocation/distributive-justice.md](../../domains/09-resource-allocation/distributive-justice.md)
+  - Link: [domains/09-resource-allocation/distributive-justice.md](../../domains/09-resource-allocation/distributive-justice.md#difference-principle-application)
 
 - **Veil of Ignorance**: Design allocation rules without knowing your position in the distribution
-  - Link: [domains/09-resource-allocation/distributive-justice.md](../../domains/09-resource-allocation/distributive-justice.md)
+  - Link: [domains/09-resource-allocation/distributive-justice.md](../../domains/09-resource-allocation/distributive-justice.md#rawlsian-maximin-and-risk-position)
 
 ### From Mechanism Design
 
 - **Incentive Compatibility**: Design allocation mechanisms where honest reporting is individually rational
-  - Link: [domains/06-coordination-cooperation/mechanism-design.md](../../domains/06-coordination-cooperation/mechanism-design.md)
+  - Link: [domains/06-coordination-cooperation/mechanism-design.md](../../domains/06-coordination-cooperation/mechanism-design.md#incentive-compatibility)
 
 - **Vickrey Auction**: Allocate to highest-value users while eliminating strategic bidding
-  - Link: [domains/06-coordination-cooperation/mechanism-design.md](../../domains/06-coordination-cooperation/mechanism-design.md)
+  - Link: [domains/06-coordination-cooperation/mechanism-design.md](../../domains/06-coordination-cooperation/mechanism-design.md#screening-mechanisms)
 
 ### From System Dynamics
 
 - **Stock-Flow Management**: Balance inflows and outflows to maintain sustainable stocks
-  - Link: [domains/04-complex-systems/system-dynamics.md](../../domains/04-complex-systems/system-dynamics.md)
+  - Link: [domains/04-complex-systems/system-dynamics.md](../../domains/04-complex-systems/system-dynamics.md#stock-flow-distinction)
 
 ## Recommended Workflow
 

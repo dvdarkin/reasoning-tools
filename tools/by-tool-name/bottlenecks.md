@@ -11,22 +11,22 @@ System throughput is determined by its tightest constraint. Improving non-bottle
 ### In Operations Research
 - **Context:** Theory of Constraints in manufacturing and process optimization
 - **Key operation:** Trace flow through the system - where does work pile up? The queue forms before the bottleneck
-- **Link:** domains/09-resource-allocation/operations-research.md#bottleneck-identification
+- **Link:** [domains/09-resource-allocation/operations-research.md](../../domains/09-resource-allocation/operations-research.md#bottleneck-identification-theory-of-constraints)
 
 ### In Network Science
 - **Context:** Flow capacity analysis and minimum cut identification
 - **Key operation:** Calculate maximum flow - edges at full capacity are bottlenecks
-- **Link:** domains/04-complex-systems/network-science.md#bottleneck-and-flow-capacity-analysis
+- **Link:** [domains/04-complex-systems/network-science.md](../../domains/04-complex-systems/network-science.md#bottleneck-and-flow-capacity-analysis)
 
 ### In System Dynamics
 - **Context:** Dominant loop analysis - which constraint currently limits system behavior
 - **Key operation:** Identify which feedback loop or resource constraint is currently binding
-- **Link:** domains/04-complex-systems/system-dynamics.md#dominant-loop-analysis
+- **Link:** [domains/04-complex-systems/system-dynamics.md](../../domains/04-complex-systems/system-dynamics.md#dominant-loop-analysis)
 
 ### In Military Strategy
 - **Context:** Center of gravity analysis and logistics planning
 - **Key operation:** Identify the critical vulnerability or resource that enables enemy operations
-- **Link:** domains/08-conflict-competition/military-strategy.md#center-of-gravity
+- **Link:** [domains/08-conflict-competition/military-strategy.md](../../domains/08-conflict-competition/military-strategy.md#center-of-gravity)
 
 ## When to Use This Tool
 

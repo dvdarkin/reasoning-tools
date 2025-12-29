@@ -11,64 +11,64 @@ Pattern recognition requires distinguishing signal from noise, avoiding overfitt
 ### From Machine Learning
 
 - **Bias-Variance Tradeoff**: Balance between oversimplifying (high bias) and overfitting to noise (high variance)
-  - Link: [domains/10-pattern-recognition/machine-learning.md](../../domains/10-pattern-recognition/machine-learning.md)
+  - Link: [domains/10-pattern-recognition/machine-learning.md](../../domains/10-pattern-recognition/machine-learning.md#the-bias-variance-tradeoff)
 
 - **Cross-Validation**: Test pattern on held-out data to verify generalization
-  - Link: [domains/10-pattern-recognition/machine-learning.md](../../domains/10-pattern-recognition/machine-learning.md)
+  - Link: [domains/10-pattern-recognition/machine-learning.md](../../domains/10-pattern-recognition/machine-learning.md#cross-validation-robust-performance-estimation)
 
 - **Feature Engineering**: Transform raw observations into meaningful predictive variables
-  - Link: [domains/10-pattern-recognition/machine-learning.md](../../domains/10-pattern-recognition/machine-learning.md)
+  - Link: [domains/10-pattern-recognition/machine-learning.md](../../domains/10-pattern-recognition/machine-learning.md#feature-engineering-vs-feature-learning)
 
 - **Regularization**: Penalize overly complex patterns to prefer simpler explanations
-  - Link: [domains/10-pattern-recognition/machine-learning.md](../../domains/10-pattern-recognition/machine-learning.md)
+  - Link: [domains/10-pattern-recognition/machine-learning.md](../../domains/10-pattern-recognition/machine-learning.md#regularization-penalizing-complexity)
 
 ### From Medical Diagnostics
 
 - **Pattern Matching to Syndromes**: Recognize symptom clusters that indicate specific conditions
-  - Link: [domains/10-pattern-recognition/medical-diagnostics.md](../../domains/10-pattern-recognition/medical-diagnostics.md)
+  - Link: [domains/10-pattern-recognition/medical-diagnostics.md](../../domains/10-pattern-recognition/medical-diagnostics.md#pattern-matching-vs-first-principles)
 
 - **Bayesian Pattern Updating**: Start with base rate frequency of patterns, update with specific observations
-  - Link: [domains/10-pattern-recognition/medical-diagnostics.md](../../domains/10-pattern-recognition/medical-diagnostics.md)
+  - Link: [domains/10-pattern-recognition/medical-diagnostics.md](../../domains/10-pattern-recognition/medical-diagnostics.md#sequential-bayesian-updating)
 
 - **Pathognomonic Signs**: Identify observations that definitively indicate a specific pattern
-  - Link: [domains/10-pattern-recognition/medical-diagnostics.md](../../domains/10-pattern-recognition/medical-diagnostics.md)
+  - Link: [domains/10-pattern-recognition/medical-diagnostics.md](../../domains/10-pattern-recognition/medical-diagnostics.md#pathognomonic-feature-detection)
 
 ### From Bayesian Statistics
 
 - **Base Rate Anchoring**: Start with frequency of pattern in reference class before weighing specific evidence
-  - Link: [domains/01-decision-under-uncertainty/bayesian-statistics.md](../../domains/01-decision-under-uncertainty/bayesian-statistics.md)
+  - Link: [domains/01-decision-under-uncertainty/bayesian-statistics.md](../../domains/01-decision-under-uncertainty/bayesian-statistics.md#base-rate-anchoring)
 
 - **Likelihood Ratio**: Assess how diagnostic an observation is for the pattern
-  - Link: [domains/01-decision-under-uncertainty/bayesian-statistics.md](../../domains/01-decision-under-uncertainty/bayesian-statistics.md)
+  - Link: [domains/01-decision-under-uncertainty/bayesian-statistics.md](../../domains/01-decision-under-uncertainty/bayesian-statistics.md#likelihood-ratio-thinking)
 
 ### From Experimental Design
 
 - **Control Groups**: Compare against baseline to isolate genuine pattern from background variation
-  - Link: [domains/07-truth-seeking/experimental-design.md](../../domains/07-truth-seeking/experimental-design.md)
+  - Link: [domains/07-truth-seeking/experimental-design.md](../../domains/07-truth-seeking/experimental-design.md#controlled-comparison)
 
 - **Multiple Testing Correction**: Adjust for false positives when examining many potential patterns
-  - Link: [domains/07-truth-seeking/experimental-design.md](../../domains/07-truth-seeking/experimental-design.md)
+  - Link: [domains/07-truth-seeking/experimental-design.md](../../domains/07-truth-seeking/experimental-design.md#multiple-measurement)
 
 ### From Expertise Studies
 
 - **Chunking**: Organize observations into meaningful higher-level patterns
-  - Link: [domains/05-skill-mastery/expertise-studies.md](../../domains/05-skill-mastery/expertise-studies.md)
+  - Link: [domains/05-skill-mastery/expertise-studies.md](../../domains/05-skill-mastery/expertise-studies.md#chunking-analysis)
 
 - **Mental Models**: Build causal understanding of why patterns occur, not just correlation
-  - Link: [domains/05-skill-mastery/expertise-studies.md](../../domains/05-skill-mastery/expertise-studies.md)
+  - Link: [domains/05-skill-mastery/expertise-studies.md](../../domains/05-skill-mastery/expertise-studies.md#mental-model-extraction)
 
 ### From Evolutionary Biology
 
 - **Convergent Evolution**: Same pattern arising independently suggests adaptive pressure, not accident
-  - Link: [domains/03-creative-generation/evolutionary-biology.md](../../domains/03-creative-generation/evolutionary-biology.md)
+  - Link: [domains/03-creative-generation/evolutionary-biology.md](../../domains/03-creative-generation/evolutionary-biology.md#adaptive-radiation)
 
 ### From Network Science
 
 - **Motif Detection**: Identify recurring small-scale network structures
-  - Link: [domains/04-complex-systems/network-science.md](../../domains/04-complex-systems/network-science.md)
+  - Link: [domains/04-complex-systems/network-science.md](../../domains/04-complex-systems/network-science.md#clustering-and-community-detection)
 
 - **Scale-Free Patterns**: Recognize power-law distributions across many contexts
-  - Link: [domains/04-complex-systems/network-science.md](../../domains/04-complex-systems/network-science.md)
+  - Link: [domains/04-complex-systems/network-science.md](../../domains/04-complex-systems/network-science.md#degree-distribution-analysis)
 
 ## Recommended Workflow
 

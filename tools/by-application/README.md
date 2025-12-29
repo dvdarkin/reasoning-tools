@@ -110,8 +110,9 @@ How to assess the truth or reliability of assertions and evidence.
 
 ## Relationship to Other Indexes
 
+- **[Glossary](../glossary.md)**: Complete alphabetical index of all 516 tools with direct links
 - **[By Domain](../../domains/)**: Organized by field of origin (Economics, Psychology, etc.)
-- **[By Tool Name](../by-tool-name/)**: Alphabetical index of individual tools
+- **[By Tool Name](../by-tool-name/)**: Cross-domain tools showing variations across fields
 - **[Matrix View](../../matrix.md)**: Visual map of problem domains × disciplinary approaches
 
 ## Contributing

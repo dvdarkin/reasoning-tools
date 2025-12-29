@@ -1,6 +1,6 @@
 # Randomization
 
-**Appears in:** Experimental Design, Bayesian Statistics, Machine Learning, Formal Verification
+**Appears in:** Experimental Design, Bayesian Statistics, Machine Learning
 
 ## Core Concept
 
@@ -11,22 +11,17 @@ Random assignment of subjects to conditions ensures that groups are statisticall
 ### In Experimental Design
 - **Context:** Gold standard for causal inference in clinical trials and experiments
 - **Key operation:** Use a random number generator to assign treatments, not alternation or judgment
-- **Link:** domains/07-truth-seeking/experimental-design.md#randomization
+- **Link:** [domains/07-truth-seeking/experimental-design.md](../../domains/07-truth-seeking/experimental-design.md#randomization)
 
 ### In Bayesian Statistics
 - **Context:** Monte Carlo methods for sampling from posterior distributions
 - **Key operation:** Generate random samples to approximate intractable probability distributions
-- **Link:** domains/01-decision-under-uncertainty/bayesian-statistics.md
+- **Link:** [domains/01-decision-under-uncertainty/bayesian-statistics.md](../../domains/01-decision-under-uncertainty/bayesian-statistics.md#prior-sensitivity-analysis)
 
 ### In Machine Learning
 - **Context:** Random initialization, stochastic gradient descent, random forests
 - **Key operation:** Use randomization to escape local optima and explore solution space
-- **Link:** domains/10-pattern-recognition/machine-learning.md
-
-### In Formal Verification
-- **Context:** Randomized testing and property-based testing
-- **Key operation:** Generate random test cases to find edge cases that structured testing misses
-- **Link:** domains/07-truth-seeking/formal-verification.md
+- **Link:** [domains/10-pattern-recognition/machine-learning.md](../../domains/10-pattern-recognition/machine-learning.md#data-augmentation-artificial-data-expansion)
 
 ## When to Use This Tool
 

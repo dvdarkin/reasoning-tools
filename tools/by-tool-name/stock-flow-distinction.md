@@ -11,22 +11,22 @@ Stocks are accumulations at a point in time (bathtub water level, bank balance, 
 ### In System Dynamics
 - **Context:** Fundamental building block for modeling change over time
 - **Key operation:** Ask "is this a stock or a flow?" Force accounting to balance - stocks integrate flows over time
-- **Link:** domains/04-complex-systems/system-dynamics.md#stock-flow-distinction
+- **Link:** [domains/04-complex-systems/system-dynamics.md](../../domains/04-complex-systems/system-dynamics.md#stock-flow-distinction)
 
 ### In Operations Research
 - **Context:** Inventory as buffer between production and demand
 - **Key operation:** Inventory (stock) changes through production rate (inflow) and sales rate (outflow)
-- **Link:** domains/09-resource-allocation/operations-research.md#stock-and-flow-reasoning
+- **Link:** [domains/09-resource-allocation/operations-research.md](../../domains/09-resource-allocation/operations-research.md#stock-and-flow-reasoning)
 
 ### In Economics
 - **Context:** Wealth vs. income, capital vs. investment, debt vs. deficit
 - **Key operation:** Distinguish accumulated quantities from flow rates to avoid confusion in policy debates
-- **Link:** domains/09-resource-allocation/economics.md
+- **Link:** [domains/09-resource-allocation/economics.md](../../domains/09-resource-allocation/economics.md#time-discounting-and-intertemporal-choice)
 
 ### In Ecology
 - **Context:** Population levels vs. birth/death rates, biomass vs. productivity
 - **Key operation:** Population (stock) changes through births and immigration (inflows) minus deaths and emigration (outflows)
-- **Link:** domains/04-complex-systems/ecology.md
+- **Link:** [domains/04-complex-systems/ecology.md](../../domains/04-complex-systems/ecology.md#energy-flow-tracking)
 
 ## When to Use This Tool
 

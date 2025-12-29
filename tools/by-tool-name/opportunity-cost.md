@@ -1,6 +1,6 @@
 # Opportunity Cost
 
-**Appears in:** Economics, Operations Research, Resource Allocation, Portfolio Management, Military Strategy
+**Appears in:** Economics, Operations Research, Military Strategy
 
 ## Core Concept
 
@@ -11,27 +11,17 @@ The true cost of any choice is the value of the best alternative you gave up - n
 ### In Economics
 - **Context:** Foundational concept for understanding trade-offs and allocation decisions
 - **Key operation:** For any choice, identify the realistic next-best use of the same resources as your benchmark
-- **Link:** domains/09-resource-allocation/economics.md#opportunity-cost
+- **Link:** [domains/09-resource-allocation/economics.md](../../domains/09-resource-allocation/economics.md#opportunity-cost)
 
 ### In Operations Research
 - **Context:** Bottleneck analysis and constraint optimization
 - **Key operation:** Identify binding constraints where opportunity cost is highest - what else could these limited resources accomplish?
-- **Link:** domains/09-resource-allocation/operations-research.md#bottleneck-identification
-
-### In Portfolio Management
-- **Context:** Capital allocation across investment opportunities
-- **Key operation:** The cost of holding Asset A is the return foregone from the next-best Asset B
-- **Link:** domains/09-resource-allocation/portfolio-management.md
+- **Link:** [domains/09-resource-allocation/operations-research.md](../../domains/09-resource-allocation/operations-research.md#sensitivity-analysis)
 
 ### In Military Strategy
 - **Context:** Force deployment and economy of force principle
 - **Key operation:** Every unit committed to a secondary objective is unavailable for the primary effort
-- **Link:** domains/08-conflict-competition/military-strategy.md#economy-of-force
-
-### In Distributive Justice
-- **Context:** Resource allocation in conditions of scarcity
-- **Key operation:** Allocating resources to one group means foregoing allocation to other groups
-- **Link:** domains/09-resource-allocation/distributive-justice.md
+- **Link:** [domains/08-conflict-competition/military-strategy.md](../../domains/08-conflict-competition/military-strategy.md#economy-of-force)
 
 ## When to Use This Tool
 

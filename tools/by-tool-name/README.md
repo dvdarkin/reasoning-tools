@@ -7,24 +7,24 @@ Alphabetical index of reasoning tools that appear across multiple domains.
 - [Bottleneck Identification](bottlenecks.md) - Domains: 4 (Operations Research, Network Science, System Dynamics, Military Strategy)
 
 ## C
-- [Comparative Advantage](comparative-advantage.md) - Domains: 4 (Economics, Organizational Behavior, Military Strategy, Sports Science)
-- [Confirmation Bias Correction](confirmation-bias-correction.md) - Domains: 5 (Social Psychology, Experimental Design, Intelligence Analysis, Investigative Journalism, Logic & Critical Thinking)
+- [Comparative Advantage](comparative-advantage.md) - Domains: 3 (Economics, Organizational Behavior, Military Strategy)
+- [Confirmation Bias Correction](confirmation-bias-correction.md) - Domains: 4 (Social Psychology, Experimental Design, Intelligence Analysis, Investigative Journalism)
 - [Controlled Comparison](controlled-comparison.md) - Domains: 5 (Experimental Design, Medical Diagnostics, Intelligence Analysis, Investigative Journalism, Operations Research)
 
 ## F
 - [Feedback Loops](feedback-loops.md) - Domains: 5 (System Dynamics, Operations Research, Ecology, Network Science, Organizational Behavior)
 
 ## M
-- [Mental Models / Mental Simulation](mental-models.md) - Domains: 4 (System Dynamics, Intelligence Analysis, Military Strategy, Design Thinking)
+- [Mental Models / Mental Simulation](mental-models.md) - Domains: 3 (System Dynamics, Military Strategy, Design Thinking)
 
 ## O
-- [Opportunity Cost](opportunity-cost.md) - Domains: 5 (Economics, Operations Research, Portfolio Management, Military Strategy, Distributive Justice)
+- [Opportunity Cost](opportunity-cost.md) - Domains: 3 (Economics, Operations Research, Military Strategy)
 
 ## P
 - [Power Law / Heavy-Tailed Distributions](power-law-distributions.md) - Domains: 4 (Network Science, Economics, Evolutionary Biology, System Dynamics)
 
 ## R
-- [Randomization](randomization.md) - Domains: 4 (Experimental Design, Bayesian Statistics, Machine Learning, Formal Verification)
+- [Randomization](randomization.md) - Domains: 3 (Experimental Design, Bayesian Statistics, Machine Learning)
 
 ## S
 - [Stock-Flow Distinction](stock-flow-distinction.md) - Domains: 4 (System Dynamics, Operations Research, Economics, Ecology)
@@ -34,13 +34,12 @@ Alphabetical index of reasoning tools that appear across multiple domains.
 ## Summary Statistics
 
 - **Total cross-domain tools identified:** 10
-- **Tools appearing in 5+ domains:** 3
-  - Feedback Loops (5 domains)
-  - Confirmation Bias Correction (5 domains)
-  - Controlled Comparison (5 domains)
-  - Opportunity Cost (5 domains)
-- **Tools appearing in 4 domains:** 7
-- **Average domains per tool:** 4.4
+- **Tools appearing in 5 domains:** 2 (Feedback Loops, Controlled Comparison)
+- **Tools appearing in 4 domains:** 4 (Base Rates, Bottlenecks, Confirmation Bias Correction, Power Law)
+- **Tools appearing in 3 domains:** 4 (Comparative Advantage, Mental Models, Opportunity Cost, Randomization, Stock-Flow)
+- **Average domains per tool:** 3.8
+
+See [glossary.md](../glossary.md) for the complete index of all 516 tools.
 
 ## Notes
 

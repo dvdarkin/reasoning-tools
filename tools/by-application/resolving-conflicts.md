@@ -11,61 +11,61 @@ Conflict resolution requires understanding interests vs positions, finding posit
 ### From Game Theory (Competitive)
 
 - **Nash Equilibrium**: Identify stable outcomes where no party benefits from changing strategy alone
-  - Link: [domains/08-conflict-competition/game-theory-competitive.md](../../domains/08-conflict-competition/game-theory-competitive.md)
+  - Link: [domains/08-conflict-competition/game-theory-competitive.md](../../domains/08-conflict-competition/game-theory-competitive.md#nash-equilibrium-identification)
 
 - **Backward Induction**: Solve conflicts by reasoning backward from potential end-states
-  - Link: [domains/08-conflict-competition/game-theory-competitive.md](../../domains/08-conflict-competition/game-theory-competitive.md)
+  - Link: [domains/08-conflict-competition/game-theory-competitive.md](../../domains/08-conflict-competition/game-theory-competitive.md#backward-induction)
 
 - **Commitment Devices**: Make credible promises or threats by limiting your own options
-  - Link: [domains/08-conflict-competition/game-theory-competitive.md](../../domains/08-conflict-competition/game-theory-competitive.md)
+  - Link: [domains/08-conflict-competition/game-theory-competitive.md](../../domains/08-conflict-competition/game-theory-competitive.md#commitment-device-design)
 
 ### From Litigation Strategy
 
 - **BATNA Analysis**: Identify "best alternative to negotiated agreement" to know your walkaway point
-  - Link: [domains/08-conflict-competition/litigation-strategy.md](../../domains/08-conflict-competition/litigation-strategy.md)
+  - Link: [domains/08-conflict-competition/litigation-strategy.md](../../domains/08-conflict-competition/litigation-strategy.md#competing-narratives-analysis)
 
 - **Zone of Possible Agreement (ZOPA)**: Find overlap between parties' acceptable outcomes
-  - Link: [domains/08-conflict-competition/litigation-strategy.md](../../domains/08-conflict-competition/litigation-strategy.md)
+  - Link: [domains/08-conflict-competition/litigation-strategy.md](../../domains/08-conflict-competition/litigation-strategy.md#settlement-range-calculation)
 
 - **Anchoring in Negotiation**: Make first offer to set reference point for discussion
-  - Link: [domains/08-conflict-competition/litigation-strategy.md](../../domains/08-conflict-competition/litigation-strategy.md)
+  - Link: [domains/08-conflict-competition/litigation-strategy.md](../../domains/08-conflict-competition/litigation-strategy.md#framing-and-anchoring-in-settlement)
 
 ### From Military Strategy
 
 - **De-escalation Offramps**: Design opportunities to step back before commitment becomes irreversible
-  - Link: [domains/08-conflict-competition/military-strategy.md](../../domains/08-conflict-competition/military-strategy.md)
+  - Link: [domains/08-conflict-competition/military-strategy.md](../../domains/08-conflict-competition/military-strategy.md#destruction-vs-exhaustion)
 
 - **Asymmetric Response**: Counter where opponent is weak rather than meeting strength with strength
-  - Link: [domains/08-conflict-competition/military-strategy.md](../../domains/08-conflict-competition/military-strategy.md)
+  - Link: [domains/08-conflict-competition/military-strategy.md](../../domains/08-conflict-competition/military-strategy.md#asymmetric-advantage)
 
 ### From Constitutional Design
 
 - **Mediation Mechanisms**: Create neutral third parties to facilitate resolution
-  - Link: [domains/06-coordination-cooperation/constitutional-design.md](../../domains/06-coordination-cooperation/constitutional-design.md)
+  - Link: [domains/06-coordination-cooperation/constitutional-design.md](../../domains/06-coordination-cooperation/constitutional-design.md#transparency-and-monitoring-mechanisms)
 
 - **Procedural Justice**: Ensure process fairness even when outcome disappoints some parties
-  - Link: [domains/06-coordination-cooperation/constitutional-design.md](../../domains/06-coordination-cooperation/constitutional-design.md)
+  - Link: [domains/06-coordination-cooperation/constitutional-design.md](../../domains/06-coordination-cooperation/constitutional-design.md#procedural-legitimacy)
 
 ### From Classical Rhetoric
 
 - **Stasis Theory**: Identify the actual point of disagreement (fact, definition, quality, policy)
-  - Link: [domains/02-persuasion-influence/classical-rhetoric.md](../../domains/02-persuasion-influence/classical-rhetoric.md)
+  - Link: [domains/02-persuasion-influence/classical-rhetoric.md](../../domains/02-persuasion-influence/classical-rhetoric.md#stasis-theory-finding-the-point-of-disagreement)
 
 ### From Distributive Justice
 
 - **Fairness Principles**: Apply equity, equality, or need-based distribution depending on context
-  - Link: [domains/09-resource-allocation/distributive-justice.md](../../domains/09-resource-allocation/distributive-justice.md)
+  - Link: [domains/09-resource-allocation/distributive-justice.md](../../domains/09-resource-allocation/distributive-justice.md#procedural-vs-substantive-fairness)
 
 - **Veil of Ignorance**: Design solutions without knowing which position you'll occupy
-  - Link: [domains/09-resource-allocation/distributive-justice.md](../../domains/09-resource-allocation/distributive-justice.md)
+  - Link: [domains/09-resource-allocation/distributive-justice.md](../../domains/09-resource-allocation/distributive-justice.md#rawlsian-maximin-and-risk-position)
 
 ### From Social Psychology
 
 - **Perspective-Taking**: Explicitly model the other party's beliefs, goals, and constraints
-  - Link: [domains/02-persuasion-influence/social-psychology.md](../../domains/02-persuasion-influence/social-psychology.md)
+  - Link: [domains/02-persuasion-influence/social-psychology.md](../../domains/02-persuasion-influence/social-psychology.md#situation-first-attribution)
 
 - **Reducing Identity Threat**: Frame disagreement about ideas, not about people's competence or values
-  - Link: [domains/02-persuasion-influence/social-psychology.md](../../domains/02-persuasion-influence/social-psychology.md)
+  - Link: [domains/02-persuasion-influence/social-psychology.md](../../domains/02-persuasion-influence/social-psychology.md#reactance-detection)
 
 ## Recommended Workflow
 

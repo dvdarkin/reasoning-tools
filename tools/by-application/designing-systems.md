@@ -11,78 +11,78 @@ System design requires anticipating failure modes, managing complexity, aligning
 ### From System Dynamics
 
 - **Feedback Loop Design**: Architect reinforcing loops for growth and balancing loops for stability
-  - Link: [domains/04-complex-systems/system-dynamics.md](../../domains/04-complex-systems/system-dynamics.md)
+  - Link: [domains/09-resource-allocation/operations-research.md](../../domains/09-resource-allocation/operations-research.md#positive-feedback-loops)
 
 - **Stock-Flow Distinction**: Design for accumulation dynamics, not just instantaneous flows
-  - Link: [domains/04-complex-systems/system-dynamics.md](../../domains/04-complex-systems/system-dynamics.md)
+  - Link: [domains/04-complex-systems/system-dynamics.md](../../domains/04-complex-systems/system-dynamics.md#stock-flow-distinction)
 
 - **Delays and Buffering**: Build in buffers and anticipate time lags between action and effect
-  - Link: [domains/04-complex-systems/system-dynamics.md](../../domains/04-complex-systems/system-dynamics.md)
+  - Link: [domains/09-resource-allocation/operations-research.md](../../domains/09-resource-allocation/operations-research.md#delays-and-oscillation)
 
 ### From Network Science
 
 - **Preferential Attachment**: Understand how small initial advantages compound through network effects
-  - Link: [domains/04-complex-systems/network-science.md](../../domains/04-complex-systems/network-science.md)
+  - Link: [domains/04-complex-systems/network-science.md](../../domains/04-complex-systems/network-science.md#preferential-attachment-and-growth-dynamics)
 
 - **Small-World Architecture**: Design for high clustering with short path lengths
-  - Link: [domains/04-complex-systems/network-science.md](../../domains/04-complex-systems/network-science.md)
+  - Link: [domains/04-complex-systems/network-science.md](../../domains/04-complex-systems/network-science.md#clustering-and-community-detection)
 
 - **Robustness Through Redundancy**: Add redundant paths to prevent single-point failures
-  - Link: [domains/04-complex-systems/network-science.md](../../domains/04-complex-systems/network-science.md)
+  - Link: [domains/04-complex-systems/accident-investigation.md](../../domains/04-complex-systems/accident-investigation.md#defense-independence-verification)
 
 ### From Mechanism Design
 
 - **Incentive Compatibility**: Align individual incentives with desired collective outcomes
-  - Link: [domains/06-coordination-cooperation/mechanism-design.md](../../domains/06-coordination-cooperation/mechanism-design.md)
+  - Link: [domains/06-coordination-cooperation/mechanism-design.md](../../domains/06-coordination-cooperation/mechanism-design.md#incentive-compatibility)
 
 - **Revelation Principle**: Design mechanisms where truth-telling is individually rational
-  - Link: [domains/06-coordination-cooperation/mechanism-design.md](../../domains/06-coordination-cooperation/mechanism-design.md)
+  - Link: [domains/06-coordination-cooperation/mechanism-design.md](../../domains/06-coordination-cooperation/mechanism-design.md#preference-revelation)
 
 - **Vickrey Auction Logic**: Use second-price logic to eliminate strategic bidding
-  - Link: [domains/06-coordination-cooperation/mechanism-design.md](../../domains/06-coordination-cooperation/mechanism-design.md)
+  - Link: [domains/06-coordination-cooperation/mechanism-design.md](../../domains/06-coordination-cooperation/mechanism-design.md#screening-mechanisms)
 
 ### From Accident Investigation
 
 - **Defense in Depth**: Layer multiple independent safeguards so single failures don't cascade
-  - Link: [domains/04-complex-systems/accident-investigation.md](../../domains/04-complex-systems/accident-investigation.md)
+  - Link: [domains/04-complex-systems/accident-investigation.md](../../domains/04-complex-systems/accident-investigation.md#swiss-cheese-model-analysis)
 
 - **Failure Modes and Effects Analysis**: Systematically identify potential failures and their impacts
-  - Link: [domains/04-complex-systems/accident-investigation.md](../../domains/04-complex-systems/accident-investigation.md)
+  - Link: [domains/04-complex-systems/accident-investigation.md](../../domains/04-complex-systems/accident-investigation.md#swiss-cheese-model-analysis)
 
 - **Swiss Cheese Model**: Design assuming multiple failures will occur; prevent alignment
-  - Link: [domains/04-complex-systems/accident-investigation.md](../../domains/04-complex-systems/accident-investigation.md)
+  - Link: [domains/04-complex-systems/accident-investigation.md](../../domains/04-complex-systems/accident-investigation.md#swiss-cheese-model-analysis)
 
 ### From Ecology
 
 - **Niche Construction**: Design systems that create their own supporting conditions
-  - Link: [domains/04-complex-systems/ecology.md](../../domains/04-complex-systems/ecology.md)
+  - Link: [domains/03-creative-generation/evolutionary-biology.md](../../domains/03-creative-generation/evolutionary-biology.md#pre-adaptation-and-niche-construction)
 
 - **Succession Stages**: Plan for how systems evolve through predictable phases
-  - Link: [domains/04-complex-systems/ecology.md](../../domains/04-complex-systems/ecology.md)
+  - Link: [domains/04-complex-systems/ecology.md](../../domains/04-complex-systems/ecology.md#succession-pattern-recognition)
 
 ### From Design Thinking
 
 - **Rapid Prototyping**: Build quick, testable versions to learn before committing
-  - Link: [domains/03-creative-generation/design-thinking.md](../../domains/03-creative-generation/design-thinking.md)
+  - Link: [domains/03-creative-generation/design-thinking.md](../../domains/03-creative-generation/design-thinking.md#rapid-prototyping)
 
 - **User Journey Mapping**: Trace complete user experience to identify pain points
-  - Link: [domains/03-creative-generation/design-thinking.md](../../domains/03-creative-generation/design-thinking.md)
+  - Link: [domains/03-creative-generation/design-thinking.md](../../domains/03-creative-generation/design-thinking.md#journey-mapping)
 
 ### From Constitutional Design
 
 - **Separation of Powers**: Divide authority to prevent concentration and abuse
-  - Link: [domains/06-coordination-cooperation/constitutional-design.md](../../domains/06-coordination-cooperation/constitutional-design.md)
+  - Link: [domains/06-coordination-cooperation/constitutional-design.md](../../domains/06-coordination-cooperation/constitutional-design.md#separation-of-powers)
 
 - **Checks and Balances**: Create mutual veto points between system components
-  - Link: [domains/06-coordination-cooperation/constitutional-design.md](../../domains/06-coordination-cooperation/constitutional-design.md)
+  - Link: [domains/06-coordination-cooperation/constitutional-design.md](../../domains/06-coordination-cooperation/constitutional-design.md#checks-and-balances)
 
 ### From Operations Research
 
 - **Constraint Optimization**: Identify and relax the binding constraint to improve system performance
-  - Link: [domains/09-resource-allocation/operations-research.md](../../domains/09-resource-allocation/operations-research.md)
+  - Link: [domains/09-resource-allocation/portfolio-management.md](../../domains/09-resource-allocation/portfolio-management.md#constraint-optimization)
 
 - **Queueing Theory**: Design service capacity to match arrival rate and desired wait times
-  - Link: [domains/09-resource-allocation/operations-research.md](../../domains/09-resource-allocation/operations-research.md)
+  - Link: [domains/09-resource-allocation/operations-research.md](../../domains/09-resource-allocation/operations-research.md#queuing-intuitions)
 
 ## Recommended Workflow
 

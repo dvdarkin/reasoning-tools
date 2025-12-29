@@ -11,27 +11,27 @@ To determine if X causes Y, you must compare outcomes when X is present versus w
 ### In Experimental Design
 - **Context:** Fundamental principle of causal inference
 - **Key operation:** Ask "compared to what?" - make the counterfactual explicit and concrete
-- **Link:** domains/07-truth-seeking/experimental-design.md#controlled-comparison
+- **Link:** [domains/07-truth-seeking/experimental-design.md](../../domains/07-truth-seeking/experimental-design.md#controlled-comparison)
 
 ### In Medical Diagnostics
 - **Context:** Clinical trials with treatment vs. control groups
 - **Key operation:** Compare patient outcomes receiving treatment vs. placebo, holding all else constant
-- **Link:** domains/10-pattern-recognition/medical-diagnostics.md
+- **Link:** [domains/10-pattern-recognition/medical-diagnostics.md](../../domains/10-pattern-recognition/medical-diagnostics.md#discriminating-test-selection)
 
 ### In Intelligence Analysis
 - **Context:** Structured analytic techniques for hypothesis testing
 - **Key operation:** Compare predictions under different hypotheses - what would we observe if Hypothesis A is true vs. Hypothesis B?
-- **Link:** domains/01-decision-under-uncertainty/intelligence-analysis.md
+- **Link:** [domains/01-decision-under-uncertainty/intelligence-analysis.md](../../domains/01-decision-under-uncertainty/intelligence-analysis.md#analysis-of-competing-hypotheses-ach)
 
 ### In Investigative Journalism
 - **Context:** Verifying claims by comparing similar cases with/without the alleged cause
 - **Key operation:** Find comparison cases that differ only in the variable of interest
-- **Link:** domains/07-truth-seeking/investigative-journalism.md
+- **Link:** [domains/07-truth-seeking/investigative-journalism.md](../../domains/07-truth-seeking/investigative-journalism.md#document-first-investigation)
 
 ### In Operations Research
 - **Context:** A/B testing, simulation studies, process improvement
 - **Key operation:** Test process changes by running controlled comparisons - new process vs. baseline
-- **Link:** domains/09-resource-allocation/operations-research.md
+- **Link:** [domains/09-resource-allocation/operations-research.md](../../domains/09-resource-allocation/operations-research.md#sensitivity-analysis)
 
 ## When to Use This Tool
 

@@ -11,53 +11,53 @@ Skill acquisition requires deliberate practice, structured feedback, mental mode
 ### From Learning Theory
 
 - **Deliberate Practice**: Focus on challenging tasks just beyond current ability with immediate feedback
-  - Link: [domains/05-skill-mastery/learning-theory.md](../../domains/05-skill-mastery/learning-theory.md)
+  - Link: [domains/05-skill-mastery/learning-theory.md](../../domains/05-skill-mastery/learning-theory.md#deliberate-practice-design)
 
 - **Spaced Repetition**: Review material at increasing intervals to optimize retention
-  - Link: [domains/05-skill-mastery/learning-theory.md](../../domains/05-skill-mastery/learning-theory.md)
+  - Link: [domains/05-skill-mastery/learning-theory.md](../../domains/05-skill-mastery/learning-theory.md#spaced-repetition-scheduling)
 
 - **Interleaving**: Mix different types of practice rather than blocking same-type repetitions
-  - Link: [domains/05-skill-mastery/learning-theory.md](../../domains/05-skill-mastery/learning-theory.md)
+  - Link: [domains/05-skill-mastery/sports-science.md](../../domains/05-skill-mastery/sports-science.md#blocked-versus-random-practice)
 
 - **Retrieval Practice**: Test yourself actively rather than passively reviewing
-  - Link: [domains/05-skill-mastery/learning-theory.md](../../domains/05-skill-mastery/learning-theory.md)
+  - Link: [domains/05-skill-mastery/learning-theory.md](../../domains/05-skill-mastery/learning-theory.md#retrieval-practice-emphasis)
 
 ### From Expertise Studies
 
 - **Chunking**: Organize knowledge into meaningful patterns that can be recognized instantly
-  - Link: [domains/05-skill-mastery/expertise-studies.md](../../domains/05-skill-mastery/expertise-studies.md)
+  - Link: [domains/05-skill-mastery/expertise-studies.md](../../domains/05-skill-mastery/expertise-studies.md#chunking-analysis)
 
 - **Mental Model Building**: Develop rich causal models of how the domain works
-  - Link: [domains/05-skill-mastery/expertise-studies.md](../../domains/05-skill-mastery/expertise-studies.md)
+  - Link: [domains/05-skill-mastery/expertise-studies.md](../../domains/05-skill-mastery/expertise-studies.md#mental-model-extraction)
 
 - **Pattern Recognition**: Train to instantly recognize common situations and appropriate responses
-  - Link: [domains/05-skill-mastery/expertise-studies.md](../../domains/05-skill-mastery/expertise-studies.md)
+  - Link: [domains/10-pattern-recognition/medical-diagnostics.md](../../domains/10-pattern-recognition/medical-diagnostics.md#pattern-matching-vs-first-principles)
 
 ### From Sports Science
 
 - **Progressive Overload**: Gradually increase difficulty to drive adaptation
-  - Link: [domains/05-skill-mastery/sports-science.md](../../domains/05-skill-mastery/sports-science.md)
+  - Link: [domains/05-skill-mastery/sports-science.md](../../domains/05-skill-mastery/sports-science.md#progressive-overload)
 
 - **Specificity Principle**: Practice closely matches the target performance context
-  - Link: [domains/05-skill-mastery/sports-science.md](../../domains/05-skill-mastery/sports-science.md)
+  - Link: [domains/05-skill-mastery/sports-science.md](../../domains/05-skill-mastery/sports-science.md#specific-adaptation-to-imposed-demands-said-principle)
 
 - **Recovery Periodization**: Alternate intense practice with recovery to prevent burnout and enable consolidation
-  - Link: [domains/05-skill-mastery/sports-science.md](../../domains/05-skill-mastery/sports-science.md)
+  - Link: [domains/05-skill-mastery/sports-science.md](../../domains/05-skill-mastery/sports-science.md#recovery-as-training-component)
 
 ### From Design Thinking
 
 - **Rapid Prototyping**: Build quick attempts to learn from failure
-  - Link: [domains/03-creative-generation/design-thinking.md](../../domains/03-creative-generation/design-thinking.md)
+  - Link: [domains/03-creative-generation/design-thinking.md](../../domains/03-creative-generation/design-thinking.md#rapid-prototyping)
 
 ### From Bayesian Statistics
 
 - **Proportional Belief Updating**: Update skill understanding based on evidence from practice
-  - Link: [domains/01-decision-under-uncertainty/bayesian-statistics.md](../../domains/01-decision-under-uncertainty/bayesian-statistics.md)
+  - Link: [domains/01-decision-under-uncertainty/bayesian-statistics.md](../../domains/01-decision-under-uncertainty/bayesian-statistics.md#proportional-belief-updating)
 
 ### From Experimental Design
 
 - **Controlled Comparison**: Isolate what works by varying one element at a time
-  - Link: [domains/07-truth-seeking/experimental-design.md](../../domains/07-truth-seeking/experimental-design.md)
+  - Link: [domains/07-truth-seeking/experimental-design.md](../../domains/07-truth-seeking/experimental-design.md#controlled-comparison)
 
 ## Recommended Workflow
 

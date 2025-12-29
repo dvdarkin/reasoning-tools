@@ -1,6 +1,6 @@
 # Comparative Advantage
 
-**Appears in:** Economics, Organizational Behavior, Military Strategy, Sports Science
+**Appears in:** Economics, Organizational Behavior, Military Strategy
 
 ## Core Concept
 
@@ -11,22 +11,17 @@ Efficient allocation depends on relative productivity, not absolute. Specialize 
 ### In Economics
 - **Context:** International trade and specialization patterns
 - **Key operation:** Convert absolute productivity into opportunity cost terms to find comparative advantage
-- **Link:** domains/09-resource-allocation/economics.md#comparative-advantage
+- **Link:** [domains/09-resource-allocation/economics.md](../../domains/09-resource-allocation/economics.md#comparative-advantage)
 
 ### In Organizational Behavior
 - **Context:** Team composition and task allocation
 - **Key operation:** Assign based on relative opportunity costs, not just who's most skilled
-- **Link:** domains/06-coordination-cooperation/organizational-behavior.md
+- **Link:** [domains/06-coordination-cooperation/organizational-behavior.md](../../domains/06-coordination-cooperation/organizational-behavior.md#boundary-spanning-role-identification)
 
 ### In Military Strategy
 - **Context:** Force allocation and economy of force
 - **Key operation:** Deploy units where their relative advantage is greatest, accept weakness elsewhere
-- **Link:** domains/08-conflict-competition/military-strategy.md
-
-### In Sports Science
-- **Context:** Training time allocation across skills
-- **Key operation:** Invest training time where your improvement rate is highest relative to competition
-- **Link:** domains/05-skill-mastery/sports-science.md
+- **Link:** [domains/08-conflict-competition/military-strategy.md](../../domains/08-conflict-competition/military-strategy.md#asymmetric-advantage)
 
 ## When to Use This Tool
 

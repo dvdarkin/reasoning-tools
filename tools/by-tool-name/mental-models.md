@@ -1,6 +1,6 @@
 # Mental Models / Mental Simulation
 
-**Appears in:** System Dynamics, Intelligence Analysis, Military Strategy, Design Thinking
+**Appears in:** System Dynamics, Military Strategy, Design Thinking
 
 ## Core Concept
 
@@ -11,22 +11,17 @@ Before formal modeling or taking action, mentally simulate the system: if this w
 ### In System Dynamics
 - **Context:** Testing causal loop diagrams and system hypotheses
 - **Key operation:** Talk through the system out loud moving through time - where does the narration break down?
-- **Link:** domains/04-complex-systems/system-dynamics.md#mental-simulation
-
-### In Intelligence Analysis
-- **Context:** Analysis of Competing Hypotheses and scenario planning
-- **Key operation:** Simulate forward what would happen under each hypothesis - which predictions align with evidence?
-- **Link:** domains/01-decision-under-uncertainty/intelligence-analysis.md
+- **Link:** [domains/04-complex-systems/system-dynamics.md](../../domains/04-complex-systems/system-dynamics.md#archetypes-as-diagnostic-patterns)
 
 ### In Military Strategy
 - **Context:** Course of action analysis and wargaming
 - **Key operation:** Mentally play out the operation - where do plans break under friction?
-- **Link:** domains/08-conflict-competition/military-strategy.md
+- **Link:** [domains/08-conflict-competition/military-strategy.md](../../domains/08-conflict-competition/military-strategy.md#commanders-intent)
 
 ### In Design Thinking
 - **Context:** User journey mapping and prototype testing
 - **Key operation:** Simulate the user experience step-by-step before building
-- **Link:** domains/03-creative-generation/design-thinking.md
+- **Link:** [domains/03-creative-generation/design-thinking.md](../../domains/03-creative-generation/design-thinking.md#stakeholder-constellation-mapping)
 
 ## When to Use This Tool
 

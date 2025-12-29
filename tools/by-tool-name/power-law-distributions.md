@@ -11,22 +11,22 @@ Many real-world distributions have heavy tails where a few instances account for
 ### In Network Science
 - **Context:** Degree distributions in scale-free networks
 - **Key operation:** Check if removing top 10% most-connected nodes fragments the network
-- **Link:** domains/04-complex-systems/network-science.md#degree-distribution-analysis
+- **Link:** [domains/04-complex-systems/network-science.md](../../domains/04-complex-systems/network-science.md#degree-distribution-analysis)
 
 ### In Economics
 - **Context:** Wealth and income inequality, firm size distributions, city populations
 - **Key operation:** Recognize when systems exhibit increasing returns and preferential attachment
-- **Link:** domains/09-resource-allocation/economics.md
+- **Link:** [domains/09-resource-allocation/economics.md](../../domains/09-resource-allocation/economics.md#network-effects-and-tipping-points)
 
 ### In Evolutionary Biology
 - **Context:** Species abundance distributions, extinction rates, adaptation sizes
 - **Key operation:** Most species are rare specialists; few are abundant generalists
-- **Link:** domains/03-creative-generation/evolutionary-biology.md
+- **Link:** [domains/03-creative-generation/evolutionary-biology.md](../../domains/03-creative-generation/evolutionary-biology.md#adaptive-radiation)
 
 ### In System Dynamics
 - **Context:** Nonlinearity and threshold effects in complex systems
 - **Key operation:** Small changes can have disproportionate effects when near tipping points
-- **Link:** domains/04-complex-systems/system-dynamics.md#nonlinearity-and-threshold-recognition
+- **Link:** [domains/04-complex-systems/system-dynamics.md](../../domains/04-complex-systems/system-dynamics.md#nonlinearity-and-threshold-recognition)
 
 ## When to Use This Tool
 

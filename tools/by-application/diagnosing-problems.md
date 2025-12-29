@@ -11,61 +11,61 @@ Diagnosis requires distinguishing symptoms from causes, generating alternative h
 ### From Medical Diagnostics
 
 - **Differential Diagnosis**: Generate and test multiple competing explanations simultaneously
-  - Link: [domains/10-pattern-recognition/medical-diagnostics.md](../../domains/10-pattern-recognition/medical-diagnostics.md)
+  - Link: [domains/10-pattern-recognition/medical-diagnostics.md](../../domains/10-pattern-recognition/medical-diagnostics.md#differential-diagnosis-generation)
 
 - **Pattern Recognition**: Match symptom clusters to known syndrome patterns
-  - Link: [domains/10-pattern-recognition/medical-diagnostics.md](../../domains/10-pattern-recognition/medical-diagnostics.md)
+  - Link: [domains/10-pattern-recognition/medical-diagnostics.md](../../domains/10-pattern-recognition/medical-diagnostics.md#pattern-matching-vs-first-principles)
 
 - **Test Ordering Strategy**: Sequence diagnostic tests to maximize information gain per cost
-  - Link: [domains/10-pattern-recognition/medical-diagnostics.md](../../domains/10-pattern-recognition/medical-diagnostics.md)
+  - Link: [domains/10-pattern-recognition/medical-diagnostics.md](../../domains/10-pattern-recognition/medical-diagnostics.md#discriminating-test-selection)
 
 ### From Intelligence Analysis
 
 - **Analysis of Competing Hypotheses (ACH)**: Systematically evaluate evidence for and against each hypothesis
-  - Link: [domains/01-decision-under-uncertainty/intelligence-analysis.md](../../domains/01-decision-under-uncertainty/intelligence-analysis.md)
+  - Link: [domains/01-decision-under-uncertainty/intelligence-analysis.md](../../domains/01-decision-under-uncertainty/intelligence-analysis.md#analysis-of-competing-hypotheses-ach)
 
 - **Key Assumptions Check**: Identify and test the assumptions underlying your diagnosis
-  - Link: [domains/01-decision-under-uncertainty/intelligence-analysis.md](../../domains/01-decision-under-uncertainty/intelligence-analysis.md)
+  - Link: [domains/01-decision-under-uncertainty/intelligence-analysis.md](../../domains/01-decision-under-uncertainty/intelligence-analysis.md#key-assumptions-check)
 
 ### From Accident Investigation
 
 - **5 Whys Analysis**: Iteratively ask "why" to trace from symptoms to root causes
-  - Link: [domains/04-complex-systems/accident-investigation.md](../../domains/04-complex-systems/accident-investigation.md)
+  - Link: [domains/04-complex-systems/accident-investigation.md](../../domains/04-complex-systems/accident-investigation.md#contributing-factor-chains)
 
 - **Swiss Cheese Model**: Look for alignment of multiple failures rather than single causes
-  - Link: [domains/04-complex-systems/accident-investigation.md](../../domains/04-complex-systems/accident-investigation.md)
+  - Link: [domains/04-complex-systems/accident-investigation.md](../../domains/04-complex-systems/accident-investigation.md#swiss-cheese-model-analysis)
 
 - **Timeline Reconstruction**: Map events chronologically to reveal causal sequences
-  - Link: [domains/04-complex-systems/accident-investigation.md](../../domains/04-complex-systems/accident-investigation.md)
+  - Link: [domains/07-truth-seeking/investigative-journalism.md](../../domains/07-truth-seeking/investigative-journalism.md#timeline-construction)
 
 ### From Bayesian Statistics
 
 - **Hypothesis Space Partitioning**: Enumerate mutually exclusive, exhaustive possible causes
-  - Link: [domains/01-decision-under-uncertainty/bayesian-statistics.md](../../domains/01-decision-under-uncertainty/bayesian-statistics.md)
+  - Link: [domains/01-decision-under-uncertainty/bayesian-statistics.md](../../domains/01-decision-under-uncertainty/bayesian-statistics.md#hypothesis-space-partitioning)
 
 - **Likelihood Ratio Thinking**: Assess how diagnostic each piece of evidence is
-  - Link: [domains/01-decision-under-uncertainty/bayesian-statistics.md](../../domains/01-decision-under-uncertainty/bayesian-statistics.md)
+  - Link: [domains/01-decision-under-uncertainty/bayesian-statistics.md](../../domains/01-decision-under-uncertainty/bayesian-statistics.md#likelihood-ratio-thinking)
 
 ### From Experimental Design
 
 - **Controlled Comparison**: Isolate variables by comparing cases where problem occurs vs doesn't
-  - Link: [domains/07-truth-seeking/experimental-design.md](../../domains/07-truth-seeking/experimental-design.md)
+  - Link: [domains/07-truth-seeking/experimental-design.md](../../domains/07-truth-seeking/experimental-design.md#controlled-comparison)
 
 - **Ablation Testing**: Remove components one at a time to identify necessary causes
-  - Link: [domains/07-truth-seeking/experimental-design.md](../../domains/07-truth-seeking/experimental-design.md)
+  - Link: [domains/10-pattern-recognition/medical-diagnostics.md](../../domains/10-pattern-recognition/medical-diagnostics.md#discriminating-test-selection)
 
 ### From System Dynamics
 
 - **Feedback Loop Analysis**: Identify whether problem is caused by reinforcing or balancing loops
-  - Link: [domains/04-complex-systems/system-dynamics.md](../../domains/04-complex-systems/system-dynamics.md)
+  - Link: [domains/09-resource-allocation/operations-research.md](../../domains/09-resource-allocation/operations-research.md#positive-feedback-loops)
 
 - **Delays and Lags**: Look for time lags between cause and observed effect
-  - Link: [domains/04-complex-systems/system-dynamics.md](../../domains/04-complex-systems/system-dynamics.md)
+  - Link: [domains/04-complex-systems/system-dynamics.md](../../domains/04-complex-systems/system-dynamics.md#delay-recognition-and-classification)
 
 ### From Network Science
 
 - **Bottleneck Identification**: Find critical nodes whose failure causes system-wide problems
-  - Link: [domains/04-complex-systems/network-science.md](../../domains/04-complex-systems/network-science.md)
+  - Link: [domains/09-resource-allocation/operations-research.md](../../domains/09-resource-allocation/operations-research.md#bottleneck-identification-theory-of-constraints)
 
 ## Recommended Workflow
 
