@@ -71,7 +71,7 @@ Track progress across all domain extractions.
 | # | Domain | Status | Source | Notes |
 |---|--------|--------|--------|-------|
 | - | System Dynamics | 🟢 | seed-docs/conversation.md | 5,720 words, 18 tools |
-| - | Economics | 🟢 | seed-docs/artifacts/economic_reasoning_map.md | 5,694 words, 14* tools |
+| - | Economics | ⚠️ | seed-docs/artifacts/economic_reasoning_map.md | SUPERSEDED: Split into 3 domains 2025-12-30 |
 | - | Military Strategy | 🟢 | seed-docs/artifacts/military_strategy_map.md | 5,580 words, 11* tools |
 | - | Operations Research | 🟢 | seed-docs/artifacts/operations_research_map.md | 5,378 words, 13* tools |
 
@@ -172,8 +172,10 @@ These variations reflect the organic nature of domain-specific extractions and d
 - Competitive Game Theory: 9,211 words, 20 tools
 - Litigation Strategy: 8,978 words, 17 tools
 
-**Resource Allocation (4 domains):** ✅
-- Economics: 5,694 words, 14 tools
+**Resource Allocation (6 domains):** ✅
+- Economics Core: ~4,500 words, 12 tools (split from Economics, 2025-12-30)
+- Information Economics: ~4,500 words, 12 tools (split from Economics, 2025-12-30)
+- Behavioral Economics: ~4,300 words, 11 tools (split from Economics, 2025-12-30)
 - Operations Research: 5,378 words, 13 tools
 - Portfolio Management: 5,957 words, 16 tools
 - Distributive Justice: 5,343 words, 11 tools
@@ -233,3 +235,46 @@ All 32 domain extractions are complete and of high quality. Format variations ar
 - Minor format inconsistencies (section naming, component labels)
 
 **Recommendation:** Proceed with finalization and commit. The variations do not diminish the core value and reflect the reality of extracting from genuinely different domains with different literatures and epistemic structures.
+
+---
+
+## Post-Release Refinements
+
+### Economics Domain Split (2025-12-30)
+
+**Issue Identified:** The original Economics extraction violated template constraints:
+- 28 tools (vs 10-15 target)
+- ~135 words/tool (vs 400-600 target)
+- 4 Tier 5 tools had truncated/missing sections
+
+**Root Cause:** Original extraction from seed-docs predated the formal extraction template.
+
+**Solution:** Split into 3 focused domains:
+
+| New Domain | Tools | Words | Focus |
+|------------|-------|-------|-------|
+| Economics Core | 12 | ~4,500 | Foundational economic reasoning (opportunity cost, marginal thinking, equilibrium, incentives) |
+| Information Economics | 12 | ~4,500 | Asymmetric information and uncertainty (adverse selection, signaling, moral hazard, option value) |
+| Behavioral Economics | 11 | ~4,300 | Systematic deviations from rational model (loss aversion, framing, anchoring, time discounting) |
+
+**New Tools Added (not in original):**
+- Elasticity Thinking
+- Pareto Efficiency
+- Rent-Seeking vs Value Creation
+- Substitutes and Complements
+- Price as Information
+- Screening
+- Winner's Curse
+- Revealed Preference
+- Sunk Cost Fallacy
+- Mental Accounting (split from Framing)
+
+**Files Updated:**
+- Created: economics-core.md, information-economics.md, behavioral-economics.md
+- Deleted: economics.md
+- Updated: README.md (root), domains/README.md, domains/09-resource-allocation/README.md
+- Updated: tools/glossary.md (523 entries, reassigned 25 entries, added 10 new)
+- Updated: 3 by-application files, 4 by-tool-name files
+- Updated: meta/statistics.md, meta/extraction-log.md
+
+**Net Change:** +2 domains (32→34), +7 tools (516→523)

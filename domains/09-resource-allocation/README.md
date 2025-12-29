@@ -4,10 +4,12 @@ Reasoning tools for distributing scarce resources efficiently and equitably.
 
 ## Domains in This Category
 
-1. [Economics](economics.md) - Opportunity cost, comparative advantage, marginal analysis, market mechanisms
-2. [Operations Research](operations-research.md) - Linear programming, optimization, queueing theory, scheduling
-3. [Portfolio Management](portfolio-management.md) - Diversification, risk-return tradeoffs, rebalancing, asset allocation
-4. [Distributive Justice](distributive-justice.md) - Fairness principles, equality vs equity, priority setting
+1. [Economics - Core](economics-core.md) - Opportunity cost, marginal analysis, trade-offs, comparative advantage, incentives
+2. [Information Economics](information-economics.md) - Adverse selection, moral hazard, signaling, screening, mechanism design
+3. [Behavioral Economics](behavioral-economics.md) - Loss aversion, framing, anchoring, time discounting, biases
+4. [Operations Research](operations-research.md) - Linear programming, optimization, queueing theory, scheduling
+5. [Portfolio Management](portfolio-management.md) - Diversification, risk-return tradeoffs, rebalancing, asset allocation
+6. [Distributive Justice](distributive-justice.md) - Fairness principles, equality vs equity, priority setting
 
 ## Common Themes
 

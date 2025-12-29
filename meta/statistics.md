@@ -1,14 +1,14 @@
 # Knowledge Base Statistics
 
-**Last Updated:** 2025-12-25
+**Last Updated:** 2025-12-30
 
 ## Coverage
 
-- **Total Domains**: 32
-- **Total Reasoning Tools**: ~452 (counted by ### headers)
-- **Total Word Count**: ~225,173 words
-- **Average Tools per Domain**: 14.1
-- **Average Words per Domain**: 7,037
+- **Total Domains**: 34
+- **Total Reasoning Tools**: ~523 (from glossary)
+- **Total Word Count**: ~227,000 words
+- **Average Tools per Domain**: 15.4
+- **Average Words per Domain**: 6,676
 
 ## By Category
 
@@ -22,7 +22,7 @@
 | Coordination & Cooperation | 3 | 44 | 23,716 |
 | Truth-Seeking | 4 | 51 | 27,596 |
 | Conflict & Competition | 3 | 38 | 23,769 |
-| Resource Allocation | 4 | 16 | 22,372 |
+| Resource Allocation | 6 | 51 | 23,400 |
 | Pattern Recognition | 2 | 39 | 13,224 |
 
 ## Cross-Domain Tools
@@ -44,13 +44,13 @@ Tools that appear across multiple domains (identified by analyzing tool names):
 
 Based on structural analysis:
 
-1. **Stock-Flow Thinking** - appears in System Dynamics, Economics, Ecology, Resource Allocation
+1. **Stock-Flow Thinking** - appears in System Dynamics, Economics Core, Behavioral Economics, Ecology, Resource Allocation
 2. **Feedback Loop Recognition** - appears in System Dynamics, Ecology, Organizational Behavior, Learning Theory
 3. **Base Rate/Prior Integration** - appears in Bayesian Statistics, Intelligence Analysis, Medical Diagnostics, Meteorology
-4. **Trade-off Analysis** - appears in Economics, Portfolio Management, Design Thinking, Constitutional Design
+4. **Trade-off Analysis** - appears in Economics Core, Portfolio Management, Design Thinking, Constitutional Design
 5. **Pattern Recognition Hierarchies** - appears in Machine Learning, Medical Diagnostics, Intelligence Analysis
 6. **Signaling Theory** - appears in Game Theory, Evolutionary Biology, Social Psychology
-7. **Mechanism Design** - appears in Economics, Game Theory, Constitutional Design, Organizational Behavior
+7. **Mechanism Design** - appears in Information Economics, Game Theory, Constitutional Design, Organizational Behavior
 8. **Adversarial Thinking** - appears in Military Strategy, Competitive Game Theory, Litigation, Formal Verification
 9. **Ensemble Methods** - appears in Meteorology, Machine Learning, Intelligence Analysis
 10. **Deliberate Practice Structures** - appears in Sports Science, Learning Theory, Expertise Studies
@@ -88,7 +88,7 @@ Based on structural analysis:
 
 ## Quality Metrics
 
-- **Structure Compliance**: All 32 domains follow the extraction template
+- **Structure Compliance**: All 34 domains follow the extraction template
 - **Citation Depth**: Average 11-12 academic sources per domain
 - **Tool Granularity**: Average 14 tools per domain (target: 10-15)
 - **Word Count Range**: 12,578 - 29,731 words per category
@@ -114,10 +114,11 @@ Based on structural analysis:
 
 ## Growth Trajectory
 
-**Phase 1 Complete (32 domains):**
-- Foundation: 4 seed domains
+**Phase 1 Complete (34 domains):**
+- Foundation: 4 seed domains (Economics later split into 3)
 - Pilot batch: 3 domains
 - Production: 25 domains across 5 batches
+- Refinement: Economics split into Economics Core, Information Economics, Behavioral Economics (+2 net)
 
 **Phase 2 Planned (38 additional domains):**
 - Medium-extractability domains
@@ -125,4 +126,4 @@ Based on structural analysis:
 - Contemplative practices
 - Creative and artistic fields
 
-**Total Vision**: 70 domains covering the full hybrid matrix of problem domains × disciplinary approaches.
+**Total Vision**: 70+ domains covering the full hybrid matrix of problem domains × disciplinary approaches.

@@ -5,6 +5,22 @@ All notable changes to the Reasoning Tools Knowledge Base will be documented in 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.3.0] - 2025-12-30
+
+### Changed
+- **Economics domain split** - Original `economics.md` (28 tools, compressed) split into 3 template-compliant domains:
+  - `economics-core.md` (12 tools) - Foundational concepts: opportunity cost, marginal thinking, equilibrium, incentives
+  - `information-economics.md` (12 tools) - Asymmetric information: adverse selection, signaling, moral hazard, option value
+  - `behavioral-economics.md` (11 tools) - Systematic biases: loss aversion, framing, anchoring, time discounting
+
+### Added
+- 10 new tools not in original economics extraction: Elasticity Thinking, Pareto Efficiency, Rent-Seeking, Substitutes/Complements, Price as Information, Screening, Winner's Curse, Revealed Preference, Sunk Cost Fallacy, Mental Accounting
+
+### Fixed
+- All economics tools now have complete 7-section structure (4 Tier 5 tools were previously truncated)
+- Tool count: 516 → 523
+- Domain count: 32 → 34
+
 ## [1.2.0] - 2025-12-29
 
 ### Added
@@ -161,7 +177,6 @@ Medium-extractability domains deferred for future expansion:
 - Architecture
 
 **Additional Empirical:**
-- Behavioral Economics
 - Art History
 - Patent Law
 - Sales/Negotiation

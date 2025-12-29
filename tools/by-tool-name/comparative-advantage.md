@@ -1,6 +1,6 @@
 # Comparative Advantage
 
-**Appears in:** Economics, Organizational Behavior, Military Strategy
+**Appears in:** Economics Core, Organizational Behavior, Military Strategy
 
 ## Core Concept
 
@@ -8,10 +8,10 @@ Efficient allocation depends on relative productivity, not absolute. Specialize 
 
 ## Domain-Specific Variations
 
-### In Economics
+### In Economics Core
 - **Context:** International trade and specialization patterns
 - **Key operation:** Convert absolute productivity into opportunity cost terms to find comparative advantage
-- **Link:** [domains/09-resource-allocation/economics.md](../../domains/09-resource-allocation/economics.md#comparative-advantage)
+- **Link:** [domains/09-resource-allocation/economics-core.md](../../domains/09-resource-allocation/economics-core.md#comparative-advantage)
 
 ### In Organizational Behavior
 - **Context:** Team composition and task allocation

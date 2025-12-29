@@ -2,7 +2,7 @@
 
 Alphabetical index of all reasoning tools with links to their domain sources.
 
-**Total: 516 tools across 32 domains**
+**Total: 523 tools across 34 domains**
 
 | Tool Name | Domain | Link |
 |-----------|--------|------|
@@ -13,7 +13,7 @@ Alphabetical index of all reasoning tools with links to their domain sources.
 | Adaptive Management Cycles | Ecology | [Ecology](../domains/04-complex-systems/ecology.md#adaptive-management-cycles) |
 | Adaptive Radiation | Evolutionary Biology | [Evolutionary Biology](../domains/03-creative-generation/evolutionary-biology.md#adaptive-radiation) |
 | Adverse Inference | Litigation Strategy | [Litigation Strategy](../domains/08-conflict-competition/litigation-strategy.md#adverse-inference) |
-| Adverse Selection | Economics | [Economics](../domains/09-resource-allocation/economics.md#adverse-selection) |
+| Adverse Selection | Information Economics | [Information Economics](../domains/09-resource-allocation/information-economics.md#adverse-selection) |
 | Adverse Selection Diagnosis | Game Theory Signaling | [Game Theory Signaling](../domains/02-persuasion-influence/game-theory-signaling.md#adverse-selection-diagnosis) |
 | After-Action Review | Military Strategy | [Military Strategy](../domains/08-conflict-competition/military-strategy.md#after-action-review) |
 | Amendment Procedures and Constitutional Learning | Constitutional Design | [Constitutional Design](../domains/06-coordination-cooperation/constitutional-design.md#amendment-procedures-and-constitutional-learning) |
@@ -22,7 +22,7 @@ Alphabetical index of all reasoning tools with links to their domain sources.
 | Analysis of Competing Hypotheses (ACH) | Intelligence Analysis | [Intelligence Analysis](../domains/01-decision-under-uncertainty/intelligence-analysis.md#analysis-of-competing-hypotheses-ach) |
 | Anatomic/Functional Decomposition | Emergency Medicine | [Emergency Medicine](../domains/01-decision-under-uncertainty/emergency-medicine.md#anatomicfunctional-decomposition) |
 | Anatomical Localization | Medical Diagnostics | [Medical Diagnostics](../domains/10-pattern-recognition/medical-diagnostics.md#anatomical-localization) |
-| Anchoring | Economics | [Economics](../domains/09-resource-allocation/economics.md#anchoring) |
+| Anchoring | Behavioral Economics | [Behavioral Economics](../domains/09-resource-allocation/behavioral-economics.md#anchoring) |
 | Anchoring Detection and Adjustment | Social Psychology | [Social Psychology](../domains/02-persuasion-influence/social-psychology.md#anchoring-detection-and-adjustment) |
 | Approximate Mechanism Design | Mechanism Design | [Mechanism Design](../domains/06-coordination-cooperation/mechanism-design.md#approximate-mechanism-design) |
 | Archetypes as Diagnostic Patterns | System Dynamics | [System Dynamics](../domains/04-complex-systems/system-dynamics.md#archetypes-as-diagnostic-patterns) |
@@ -43,7 +43,7 @@ Alphabetical index of all reasoning tools with links to their domain sources.
 | Base Rate Integration | Medical Diagnostics | [Medical Diagnostics](../domains/10-pattern-recognition/medical-diagnostics.md#base-rate-integration) |
 | Baseline Sensitivity | Distributive Justice | [Distributive Justice](../domains/09-resource-allocation/distributive-justice.md#baseline-sensitivity) |
 | Bayesian Regret Minimization | Bayesian Statistics | [Bayesian Statistics](../domains/01-decision-under-uncertainty/bayesian-statistics.md#bayesian-regret-minimization) |
-| Bayesian Updating | Economics | [Economics](../domains/09-resource-allocation/economics.md#bayesian-updating) |
+| Bayesian Updating | Information Economics | [Information Economics](../domains/09-resource-allocation/information-economics.md#bayesian-updating) |
 | Behavior Over Time Graphs (BOTG) and Causal Loop Diagrams (CLD) | System Dynamics | [System Dynamics](../domains/04-complex-systems/system-dynamics.md#behavior-over-time-graphs-botg-and-causal-loop-diagrams-cld) |
 | Best Response Mapping | Game Theory Competitive | [Game Theory Competitive](../domains/08-conflict-competition/game-theory-competitive.md#best-response-mapping) |
 | Bicameralism and Double Counting | Constitutional Design | [Constitutional Design](../domains/06-coordination-cooperation/constitutional-design.md#bicameralism-and-double-counting) |
@@ -82,13 +82,12 @@ Alphabetical index of all reasoning tools with links to their domain sources.
 | Collusion Resistance | Mechanism Design | [Mechanism Design](../domains/06-coordination-cooperation/mechanism-design.md#collusion-resistance) |
 | Commander's Intent | Military Strategy | [Military Strategy](../domains/08-conflict-competition/military-strategy.md#commanders-intent) |
 | Commitment and Consistency Escalation | Social Psychology | [Social Psychology](../domains/02-persuasion-influence/social-psychology.md#commitment-and-consistency-escalation) |
-| Commitment and Credibility | Economics | [Economics](../domains/09-resource-allocation/economics.md#commitment-and-credibility) |
 | Commitment and Inconsistency Exploitation | Litigation Strategy | [Litigation Strategy](../domains/08-conflict-competition/litigation-strategy.md#commitment-and-inconsistency-exploitation) |
 | Commitment Device Design | Game Theory Competitive | [Game Theory Competitive](../domains/08-conflict-competition/game-theory-competitive.md#commitment-device-design) |
 | Commitment Device Identification | Game Theory Signaling | [Game Theory Signaling](../domains/02-persuasion-influence/game-theory-signaling.md#commitment-device-identification) |
 | Common Ground and Burden of Proof | Classical Rhetoric | [Classical Rhetoric](../domains/02-persuasion-influence/classical-rhetoric.md#common-ground-and-burden-of-proof) |
 | Common Knowledge and Coordination | Mechanism Design | [Mechanism Design](../domains/06-coordination-cooperation/mechanism-design.md#common-knowledge-and-coordination) |
-| Comparative Advantage | Economics | [Economics](../domains/09-resource-allocation/economics.md#comparative-advantage) |
+| Comparative Advantage | Economics Core | [Economics Core](../domains/09-resource-allocation/economics-core.md#comparative-advantage) |
 | Compensation vs. Rewarding Choice | Distributive Justice | [Distributive Justice](../domains/09-resource-allocation/distributive-justice.md#compensation-vs-rewarding-choice) |
 | Competing Narratives Analysis | Litigation Strategy | [Litigation Strategy](../domains/08-conflict-competition/litigation-strategy.md#competing-narratives-analysis) |
 | Complete vs. Incomplete Information Distinction | Game Theory Competitive | [Game Theory Competitive](../domains/08-conflict-competition/game-theory-competitive.md#complete-vs-incomplete-information-distinction) |
@@ -168,6 +167,7 @@ Alphabetical index of all reasoning tools with links to their domain sources.
 | Dynamic Mechanism Design | Mechanism Design | [Mechanism Design](../domains/06-coordination-cooperation/mechanism-design.md#dynamic-mechanism-design) |
 | Economy of Force | Military Strategy | [Military Strategy](../domains/08-conflict-competition/military-strategy.md#economy-of-force) |
 | Elaborative Interrogation | Learning Theory | [Learning Theory](../domains/05-skill-mastery/learning-theory.md#elaborative-interrogation) |
+| Elasticity Thinking | Economics Core | [Economics Core](../domains/09-resource-allocation/economics-core.md#elasticity-thinking) |
 | Electoral System Design | Constitutional Design | [Constitutional Design](../domains/06-coordination-cooperation/constitutional-design.md#electoral-system-design) |
 | Emergence and Levels | Operations Research | [Operations Research](../domains/09-resource-allocation/operations-research.md#emergence-and-levels) |
 | Energy Flow Tracking | Ecology | [Ecology](../domains/04-complex-systems/ecology.md#energy-flow-tracking) |
@@ -175,23 +175,23 @@ Alphabetical index of all reasoning tools with links to their domain sources.
 | Ensemble Thinking | Meteorology | [Meteorology](../domains/01-decision-under-uncertainty/meteorology.md#ensemble-thinking) |
 | Enthymeme (Argument from Shared Premises) | Classical Rhetoric | [Classical Rhetoric](../domains/02-persuasion-influence/classical-rhetoric.md#enthymeme-argument-from-shared-premises) |
 | Envy-Freeness and Fair Division | Distributive Justice | [Distributive Justice](../domains/09-resource-allocation/distributive-justice.md#envy-freeness-and-fair-division) |
-| Equilibrium as Analytical Tool | Economics | [Economics](../domains/09-resource-allocation/economics.md#equilibrium-as-analytical-tool) |
+| Equilibrium as Analytical Tool | Economics Core | [Economics Core](../domains/09-resource-allocation/economics-core.md#equilibrium-as-analytical-tool) |
 | Error Diagnosis and Correction | Expertise Studies | [Expertise Studies](../domains/05-skill-mastery/expertise-studies.md#error-diagnosis-and-correction) |
 | Error Growth Tracking | Meteorology | [Meteorology](../domains/01-decision-under-uncertainty/meteorology.md#error-growth-tracking) |
 | Escalation Threshold Detection | Organizational Behavior | [Organizational Behavior](../domains/06-coordination-cooperation/organizational-behavior.md#escalation-threshold-detection) |
 | Espoused vs. Enacted Values Gap Analysis | Organizational Behavior | [Organizational Behavior](../domains/06-coordination-cooperation/organizational-behavior.md#espoused-vs-enacted-values-gap-analysis) |
 | Evidence Marshaling | Litigation Strategy | [Litigation Strategy](../domains/08-conflict-competition/litigation-strategy.md#evidence-marshaling) |
 | Evidence Strength Calibration | Bayesian Statistics | [Bayesian Statistics](../domains/01-decision-under-uncertainty/bayesian-statistics.md#evidence-strength-calibration) |
-| Evolution and Selection | Economics | [Economics](../domains/09-resource-allocation/economics.md#evolution-and-selection) |
+| Evolution and Selection | Behavioral Economics | [Behavioral Economics](../domains/09-resource-allocation/behavioral-economics.md#evolution-and-selection) |
 | Evolutionary Constraints and Contingency | Evolutionary Biology | [Evolutionary Biology](../domains/03-creative-generation/evolutionary-biology.md#evolutionary-constraints-and-contingency) |
 | Evolutionary Stability Checking | Game Theory Competitive | [Game Theory Competitive](../domains/08-conflict-competition/game-theory-competitive.md#evolutionary-stability-checking) |
 | Evolutionary Tinkering vs. Intelligent Design | Evolutionary Biology | [Evolutionary Biology](../domains/03-creative-generation/evolutionary-biology.md#evolutionary-tinkering-vs-intelligent-design) |
 | Example and Precedent (Argument from Particular Cases) | Classical Rhetoric | [Classical Rhetoric](../domains/02-persuasion-influence/classical-rhetoric.md#example-and-precedent-argument-from-particular-cases) |
 | Exaptation and Functional Shift | Evolutionary Biology | [Evolutionary Biology](../domains/03-creative-generation/evolutionary-biology.md#exaptation-and-functional-shift) |
 | Expected Value Decomposition | Bayesian Statistics | [Bayesian Statistics](../domains/01-decision-under-uncertainty/bayesian-statistics.md#expected-value-decomposition) |
-| Expected Value vs Expected Utility | Economics | [Economics](../domains/09-resource-allocation/economics.md#expected-value-vs-expected-utility) |
+| Expected Value vs Expected Utility | Information Economics | [Information Economics](../domains/09-resource-allocation/information-economics.md#expected-value-vs-expected-utility) |
 | Expert Consultation Strategy | Expertise Studies | [Expertise Studies](../domains/05-skill-mastery/expertise-studies.md#expert-consultation-strategy) |
-| Externalities | Economics | [Economics](../domains/09-resource-allocation/economics.md#externalities) |
+| Externalities | Economics Core | [Economics Core](../domains/09-resource-allocation/economics-core.md#externalities) |
 | Extreme User Analysis | Design Thinking | [Design Thinking](../domains/03-creative-generation/design-thinking.md#extreme-user-analysis) |
 | Factor Exposure Analysis | Portfolio Management | [Portfolio Management](../domains/09-resource-allocation/portfolio-management.md#factor-exposure-analysis) |
 | Failure Mode Analysis | Operations Research | [Operations Research](../domains/09-resource-allocation/operations-research.md#failure-mode-analysis) |
@@ -207,10 +207,10 @@ Alphabetical index of all reasoning tools with links to their domain sources.
 | Forced Probability Estimation | Emergency Medicine | [Emergency Medicine](../domains/01-decision-under-uncertainty/emergency-medicine.md#forced-probability-estimation) |
 | Forecast Value Chain Analysis | Meteorology | [Meteorology](../domains/01-decision-under-uncertainty/meteorology.md#forecast-value-chain-analysis) |
 | Framing and Anchoring in Settlement | Litigation Strategy | [Litigation Strategy](../domains/08-conflict-competition/litigation-strategy.md#framing-and-anchoring-in-settlement) |
-| Framing and Mental Accounting | Economics | [Economics](../domains/09-resource-allocation/economics.md#framing-and-mental-accounting) |
+| Framing Effects | Behavioral Economics | [Behavioral Economics](../domains/09-resource-allocation/behavioral-economics.md#framing-effects) |
+| Mental Accounting | Behavioral Economics | [Behavioral Economics](../domains/09-resource-allocation/behavioral-economics.md#mental-accounting) |
 | Frequency-Dependent Selection | Evolutionary Biology | [Evolutionary Biology](../domains/03-creative-generation/evolutionary-biology.md#frequency-dependent-selection) |
 | Friction | Military Strategy | [Military Strategy](../domains/08-conflict-competition/military-strategy.md#friction) |
-| Game Structures | Economics | [Economics](../domains/09-resource-allocation/economics.md#game-structures) |
 | Generation Effect Exploitation | Learning Theory | [Learning Theory](../domains/05-skill-mastery/learning-theory.md#generation-effect-exploitation) |
 | Goods Are Different: Rival, Excludable, Divisible | Distributive Justice | [Distributive Justice](../domains/09-resource-allocation/distributive-justice.md#goods-are-different-rival-excludable-divisible) |
 | Gradient Descent and Local Optima | Machine Learning | [Machine Learning](../domains/10-pattern-recognition/machine-learning.md#gradient-descent-and-local-optima) |
@@ -228,7 +228,7 @@ Alphabetical index of all reasoning tools with links to their domain sources.
 | Implementation Theory | Mechanism Design | [Mechanism Design](../domains/06-coordination-cooperation/mechanism-design.md#implementation-theory) |
 | Incentive Compatibility | Mechanism Design | [Mechanism Design](../domains/06-coordination-cooperation/mechanism-design.md#incentive-compatibility) |
 | Incentive Effects and Productive Inequality | Distributive Justice | [Distributive Justice](../domains/09-resource-allocation/distributive-justice.md#incentive-effects-and-productive-inequality) |
-| Incentive Mapping | Economics | [Economics](../domains/09-resource-allocation/economics.md#incentive-mapping) |
+| Incentive Mapping | Economics Core | [Economics Core](../domains/09-resource-allocation/economics-core.md#incentive-mapping) |
 | Incentive-Outcome Tracing | Organizational Behavior | [Organizational Behavior](../domains/06-coordination-cooperation/organizational-behavior.md#incentive-outcome-tracing) |
 | Inconsistencies Forcing | Intelligence Analysis | [Intelligence Analysis](../domains/01-decision-under-uncertainty/intelligence-analysis.md#inconsistencies-forcing) |
 | Incubation Period Analysis | Accident Investigation | [Accident Investigation](../domains/04-complex-systems/accident-investigation.md#incubation-period-analysis) |
@@ -271,12 +271,12 @@ Alphabetical index of all reasoning tools with links to their domain sources.
 | Load-Recovery Balance Monitoring | Sports Science | [Sports Science](../domains/05-skill-mastery/sports-science.md#load-recovery-balance-monitoring) |
 | Local vs Global Optima | Operations Research | [Operations Research](../domains/09-resource-allocation/operations-research.md#local-vs-global-optima) |
 | Logistics as Strategy | Military Strategy | [Military Strategy](../domains/08-conflict-competition/military-strategy.md#logistics-as-strategy) |
-| Loss Aversion and Reference Dependence | Economics | [Economics](../domains/09-resource-allocation/economics.md#loss-aversion-and-reference-dependence) |
+| Loss Aversion and Reference Dependence | Behavioral Economics | [Behavioral Economics](../domains/09-resource-allocation/behavioral-economics.md#loss-aversion-and-reference-dependence) |
 | Loss Aversion in Change Management | Organizational Behavior | [Organizational Behavior](../domains/06-coordination-cooperation/organizational-behavior.md#loss-aversion-in-change-management) |
 | Low-Fidelity Thinking | Design Thinking | [Design Thinking](../domains/03-creative-generation/design-thinking.md#low-fidelity-thinking) |
-| Marginal Thinking | Economics | [Economics](../domains/09-resource-allocation/economics.md#marginal-thinking) |
+| Marginal Thinking | Economics Core | [Economics Core](../domains/09-resource-allocation/economics-core.md#marginal-thinking) |
 | Mechanism Composition | Mechanism Design | [Mechanism Design](../domains/06-coordination-cooperation/mechanism-design.md#mechanism-composition) |
-| Mechanism Design | Economics | [Economics](../domains/09-resource-allocation/economics.md#mechanism-design) |
+| Mechanism Design | Information Economics | [Information Economics](../domains/09-resource-allocation/information-economics.md#mechanism-design) |
 | Mechanism Design Inversion | Game Theory Competitive | [Game Theory Competitive](../domains/08-conflict-competition/game-theory-competitive.md#mechanism-design-inversion) |
 | Mental Model Extraction | Expertise Studies | [Expertise Studies](../domains/05-skill-mastery/expertise-studies.md#mental-model-extraction) |
 | Mental Simulation | System Dynamics | [System Dynamics](../domains/04-complex-systems/system-dynamics.md#mental-simulation) |
@@ -288,7 +288,7 @@ Alphabetical index of all reasoning tools with links to their domain sources.
 | Model Skill Assessment | Meteorology | [Meteorology](../domains/01-decision-under-uncertainty/meteorology.md#model-skill-assessment) |
 | Modularity and Evolvability | Evolutionary Biology | [Evolutionary Biology](../domains/03-creative-generation/evolutionary-biology.md#modularity-and-evolvability) |
 | Modus Tollens (Contrapositive Reasoning) | Logic Critical Thinking | [Logic Critical Thinking](../domains/07-truth-seeking/logic-critical-thinking.md#modus-tollens-contrapositive-reasoning) |
-| Moral Hazard | Economics | [Economics](../domains/09-resource-allocation/economics.md#moral-hazard) |
+| Moral Hazard | Information Economics | [Information Economics](../domains/09-resource-allocation/information-economics.md#moral-hazard) |
 | Movement Economy Analysis | Sports Science | [Sports Science](../domains/05-skill-mastery/sports-science.md#movement-economy-analysis) |
 | Multi-Sided Markets and Externalities | Mechanism Design | [Mechanism Design](../domains/06-coordination-cooperation/mechanism-design.md#multi-sided-markets-and-externalities) |
 | Multi-System Review | Emergency Medicine | [Emergency Medicine](../domains/01-decision-under-uncertainty/emergency-medicine.md#multi-system-review) |
@@ -303,7 +303,7 @@ Alphabetical index of all reasoning tools with links to their domain sources.
 | Negative Evidence Weighting | Medical Diagnostics | [Medical Diagnostics](../domains/10-pattern-recognition/medical-diagnostics.md#negative-evidence-weighting) |
 | Negative Feedback Loops | Operations Research | [Operations Research](../domains/09-resource-allocation/operations-research.md#negative-feedback-loops) |
 | Network Design for Desired Properties | Network Science | [Network Science](../domains/04-complex-systems/network-science.md#network-design-for-desired-properties) |
-| Network Effects and Tipping Points | Economics | [Economics](../domains/09-resource-allocation/economics.md#network-effects-and-tipping-points) |
+| Network Effects and Tipping Points | Behavioral Economics | [Behavioral Economics](../domains/09-resource-allocation/behavioral-economics.md#network-effects-and-tipping-points) |
 | Niche Analysis | Ecology | [Ecology](../domains/04-complex-systems/ecology.md#niche-analysis) |
 | Nonlinearity and Threshold Recognition | System Dynamics | [System Dynamics](../domains/04-complex-systems/system-dynamics.md#nonlinearity-and-threshold-recognition) |
 | Norm Construction vs. Discovery | Social Psychology | [Social Psychology](../domains/02-persuasion-influence/social-psychology.md#norm-construction-vs-discovery) |
@@ -313,12 +313,13 @@ Alphabetical index of all reasoning tools with links to their domain sources.
 | OODA Loop | Military Strategy | [Military Strategy](../domains/08-conflict-competition/military-strategy.md#ooda-loop) |
 | Operational Definition | Experimental Design | [Experimental Design](../domains/07-truth-seeking/experimental-design.md#operational-definition) |
 | Operationalization | Logic Critical Thinking | [Logic Critical Thinking](../domains/07-truth-seeking/logic-critical-thinking.md#operationalization) |
-| Opportunity Cost | Economics | [Economics](../domains/09-resource-allocation/economics.md#opportunity-cost) |
-| Option Value | Economics | [Economics](../domains/09-resource-allocation/economics.md#option-value) |
+| Opportunity Cost | Economics Core | [Economics Core](../domains/09-resource-allocation/economics-core.md#opportunity-cost) |
+| Option Value | Information Economics | [Information Economics](../domains/09-resource-allocation/information-economics.md#option-value) |
 | Outcome Bias Resistance | Emergency Medicine | [Emergency Medicine](../domains/01-decision-under-uncertainty/emergency-medicine.md#outcome-bias-resistance) |
 | Outcome-Process Separation | Accident Investigation | [Accident Investigation](../domains/04-complex-systems/accident-investigation.md#outcome-process-separation) |
 | Outside View / Reference Class Forecasting | Intelligence Analysis | [Intelligence Analysis](../domains/01-decision-under-uncertainty/intelligence-analysis.md#outside-view-reference-class-forecasting) |
 | Parallel Track Investigation | Investigative Journalism | [Investigative Journalism](../domains/07-truth-seeking/investigative-journalism.md#parallel-track-investigation) |
+| Pareto Efficiency | Economics Core | [Economics Core](../domains/09-resource-allocation/economics-core.md#pareto-efficiency) |
 | Pareto Efficiency and Trade-off Surfaces | Operations Research | [Operations Research](../domains/09-resource-allocation/operations-research.md#pareto-efficiency-and-trade-off-surfaces) |
 | Pareto Improvements and Baseline Preservation | Distributive Justice | [Distributive Justice](../domains/09-resource-allocation/distributive-justice.md#pareto-improvements-and-baseline-preservation) |
 | Path Dependency Recognition | Portfolio Management | [Portfolio Management](../domains/09-resource-allocation/portfolio-management.md#path-dependency-recognition) |
@@ -357,7 +358,8 @@ Alphabetical index of all reasoning tools with links to their domain sources.
 | Preferential Attachment and Growth Dynamics | Network Science | [Network Science](../domains/04-complex-systems/network-science.md#preferential-attachment-and-growth-dynamics) |
 | Premorbid Probability Anchoring | Emergency Medicine | [Emergency Medicine](../domains/01-decision-under-uncertainty/emergency-medicine.md#premorbid-probability-anchoring) |
 | Principal-Agent Gap Analysis | Organizational Behavior | [Organizational Behavior](../domains/06-coordination-cooperation/organizational-behavior.md#principal-agent-gap-analysis) |
-| Principal-Agent Problems | Economics | [Economics](../domains/09-resource-allocation/economics.md#principal-agent-problems) |
+| Principal-Agent Problems | Information Economics | [Information Economics](../domains/09-resource-allocation/information-economics.md#principal-agent-problems) |
+| Price as Information | Information Economics | [Information Economics](../domains/09-resource-allocation/information-economics.md#price-as-information) |
 | Principle of Charity | Logic Critical Thinking | [Logic Critical Thinking](../domains/07-truth-seeking/logic-critical-thinking.md#principle-of-charity) |
 | Prior Sensitivity Analysis | Bayesian Statistics | [Bayesian Statistics](../domains/01-decision-under-uncertainty/bayesian-statistics.md#prior-sensitivity-analysis) |
 | Prior-Likelihood-Posterior Decomposition | Bayesian Statistics | [Bayesian Statistics](../domains/01-decision-under-uncertainty/bayesian-statistics.md#prior-likelihood-posterior-decomposition) |
@@ -376,7 +378,7 @@ Alphabetical index of all reasoning tools with links to their domain sources.
 | Proportional Belief Updating | Bayesian Statistics | [Bayesian Statistics](../domains/01-decision-under-uncertainty/bayesian-statistics.md#proportional-belief-updating) |
 | Protective Sequencing | Investigative Journalism | [Investigative Journalism](../domains/07-truth-seeking/investigative-journalism.md#protective-sequencing) |
 | Psychological Safety Audit | Organizational Behavior | [Organizational Behavior](../domains/06-coordination-cooperation/organizational-behavior.md#psychological-safety-audit) |
-| Public Goods and Collective Action | Economics | [Economics](../domains/09-resource-allocation/economics.md#public-goods-and-collective-action) |
+| Public Goods and Collective Action | Economics Core | [Economics Core](../domains/09-resource-allocation/economics-core.md#public-goods-and-collective-action) |
 | Quality and Character Specification | Medical Diagnostics | [Medical Diagnostics](../domains/10-pattern-recognition/medical-diagnostics.md#quality-and-character-specification) |
 | Queuing Intuitions | Operations Research | [Operations Research](../domains/09-resource-allocation/operations-research.md#queuing-intuitions) |
 | r/K Selection Strategy Recognition | Ecology | [Ecology](../domains/04-complex-systems/ecology.md#rk-selection-strategy-recognition) |
@@ -393,15 +395,15 @@ Alphabetical index of all reasoning tools with links to their domain sources.
 | Redundancy and Degeneracy | Operations Research | [Operations Research](../domains/09-resource-allocation/operations-research.md#redundancy-and-degeneracy) |
 | Reference Mode Analysis | System Dynamics | [System Dynamics](../domains/04-complex-systems/system-dynamics.md#reference-mode-analysis) |
 | Reference Point Manipulation Detection | Social Psychology | [Social Psychology](../domains/02-persuasion-influence/social-psychology.md#reference-point-manipulation-detection) |
-| Reflexivity | Economics | [Economics](../domains/09-resource-allocation/economics.md#reflexivity) |
+| Reflexivity | Behavioral Economics | [Behavioral Economics](../domains/09-resource-allocation/behavioral-economics.md#reflexivity) |
 | Reflexivity and Feedback Loops | Portfolio Management | [Portfolio Management](../domains/09-resource-allocation/portfolio-management.md#reflexivity-and-feedback-loops) |
 | Refutation by Dilemma (Reducing to Exclusive Options) | Classical Rhetoric | [Classical Rhetoric](../domains/02-persuasion-influence/classical-rhetoric.md#refutation-by-dilemma-reducing-to-exclusive-options) |
 | Regime Detection | Portfolio Management | [Portfolio Management](../domains/09-resource-allocation/portfolio-management.md#regime-detection) |
 | Regime Shift Detection | Ecology | [Ecology](../domains/04-complex-systems/ecology.md#regime-shift-detection) |
 | Regularization (Penalizing Complexity) | Machine Learning | [Machine Learning](../domains/10-pattern-recognition/machine-learning.md#regularization-penalizing-complexity) |
+| Rent-Seeking vs Value Creation | Economics Core | [Economics Core](../domains/09-resource-allocation/economics-core.md#rent-seeking-vs-value-creation) |
 | Reliability and Validity Distinction | Experimental Design | [Experimental Design](../domains/07-truth-seeking/experimental-design.md#reliability-and-validity-distinction) |
 | Repeated Game Recognition and Grim Trigger Analysis | Game Theory Competitive | [Game Theory Competitive](../domains/08-conflict-competition/game-theory-competitive.md#repeated-game-recognition-and-grim-trigger-analysis) |
-| Repeated Games and Reputation | Economics | [Economics](../domains/09-resource-allocation/economics.md#repeated-games-and-reputation) |
 | Replication Hierarchy | Experimental Design | [Experimental Design](../domains/07-truth-seeking/experimental-design.md#replication-hierarchy) |
 | Reputation as Iterated Signaling | Game Theory Signaling | [Game Theory Signaling](../domains/02-persuasion-influence/game-theory-signaling.md#reputation-as-iterated-signaling) |
 | Requisite Variety (Ashby's Law) | Operations Research | [Operations Research](../domains/09-resource-allocation/operations-research.md#requisite-variety-ashbys-law) |
@@ -412,9 +414,10 @@ Alphabetical index of all reasoning tools with links to their domain sources.
 | Retrieval Practice Design | Expertise Studies | [Expertise Studies](../domains/05-skill-mastery/expertise-studies.md#retrieval-practice-design) |
 | Retrieval Practice Emphasis | Learning Theory | [Learning Theory](../domains/05-skill-mastery/learning-theory.md#retrieval-practice-emphasis) |
 | Return-Risk Trade-Off | Portfolio Management | [Portfolio Management](../domains/09-resource-allocation/portfolio-management.md#return-risk-trade-off) |
+| Revealed Preference | Behavioral Economics | [Behavioral Economics](../domains/09-resource-allocation/behavioral-economics.md#revealed-preference) |
 | Reversibility Assessment | Emergency Medicine | [Emergency Medicine](../domains/01-decision-under-uncertainty/emergency-medicine.md#reversibility-assessment) |
 | Rights as Pre-Commitments | Constitutional Design | [Constitutional Design](../domains/06-coordination-cooperation/constitutional-design.md#rights-as-pre-commitments) |
-| Risk vs Uncertainty | Economics | [Economics](../domains/09-resource-allocation/economics.md#risk-vs-uncertainty) |
+| Risk vs Uncertainty | Information Economics | [Information Economics](../domains/09-resource-allocation/information-economics.md#risk-vs-uncertainty) |
 | Ritual vs. Function Separation | Organizational Behavior | [Organizational Behavior](../domains/06-coordination-cooperation/organizational-behavior.md#ritual-vs-function-separation) |
 | Robustness to Strategic Sophistication | Mechanism Design | [Mechanism Design](../domains/06-coordination-cooperation/mechanism-design.md#robustness-to-strategic-sophistication) |
 | Robustness vs Optimality | Operations Research | [Operations Research](../domains/09-resource-allocation/operations-research.md#robustness-vs-optimality) |
@@ -425,6 +428,7 @@ Alphabetical index of all reasoning tools with links to their domain sources.
 | Satisficing Versus Optimizing | Emergency Medicine | [Emergency Medicine](../domains/01-decision-under-uncertainty/emergency-medicine.md#satisficing-versus-optimizing) |
 | Scenario Analysis | Intelligence Analysis | [Intelligence Analysis](../domains/01-decision-under-uncertainty/intelligence-analysis.md#scenario-analysis) |
 | Schema Construction and Chunking | Learning Theory | [Learning Theory](../domains/05-skill-mastery/learning-theory.md#schema-construction-and-chunking) |
+| Screening | Information Economics | [Information Economics](../domains/09-resource-allocation/information-economics.md#screening) |
 | Screening Mechanism Design | Game Theory Signaling | [Game Theory Signaling](../domains/02-persuasion-influence/game-theory-signaling.md#screening-mechanism-design) |
 | Screening Mechanisms | Mechanism Design | [Mechanism Design](../domains/06-coordination-cooperation/mechanism-design.md#screening-mechanisms) |
 | Selection Pressure Identification | Evolutionary Biology | [Evolutionary Biology](../domains/03-creative-generation/evolutionary-biology.md#selection-pressure-identification) |
@@ -438,7 +442,7 @@ Alphabetical index of all reasoning tools with links to their domain sources.
 | Sexual Selection and Signaling | Evolutionary Biology | [Evolutionary Biology](../domains/03-creative-generation/evolutionary-biology.md#sexual-selection-and-signaling) |
 | Signal Degradation Over Time | Game Theory Signaling | [Game Theory Signaling](../domains/02-persuasion-influence/game-theory-signaling.md#signal-degradation-over-time) |
 | Signal Jamming and Obfuscation | Game Theory Signaling | [Game Theory Signaling](../domains/02-persuasion-influence/game-theory-signaling.md#signal-jamming-and-obfuscation) |
-| Signaling | Economics | [Economics](../domains/09-resource-allocation/economics.md#signaling) |
+| Signaling | Information Economics | [Information Economics](../domains/09-resource-allocation/information-economics.md#signaling) |
 | Signaling Arms Races | Game Theory Signaling | [Game Theory Signaling](../domains/02-persuasion-influence/game-theory-signaling.md#signaling-arms-races) |
 | Signaling Structures | Mechanism Design | [Mechanism Design](../domains/06-coordination-cooperation/mechanism-design.md#signaling-structures) |
 | Situation-First Attribution | Social Psychology | [Social Psychology](../domains/02-persuasion-influence/social-psychology.md#situation-first-attribution) |
@@ -454,7 +458,7 @@ Alphabetical index of all reasoning tools with links to their domain sources.
 | Stasis Theory (Finding the Point of Disagreement) | Classical Rhetoric | [Classical Rhetoric](../domains/02-persuasion-influence/classical-rhetoric.md#stasis-theory-finding-the-point-of-disagreement) |
 | State Space Partitioning | Formal Verification | [Formal Verification](../domains/07-truth-seeking/formal-verification.md#state-space-partitioning) |
 | Statistical Power Analysis | Experimental Design | [Experimental Design](../domains/07-truth-seeking/experimental-design.md#statistical-power-analysis) |
-| Status Quo Bias and Default Effects | Economics | [Economics](../domains/09-resource-allocation/economics.md#status-quo-bias-and-default-effects) |
+| Status Quo Bias and Default Effects | Behavioral Economics | [Behavioral Economics](../domains/09-resource-allocation/behavioral-economics.md#status-quo-bias-and-default-effects) |
 | Steel-Manning | Logic Critical Thinking | [Logic Critical Thinking](../domains/07-truth-seeking/logic-critical-thinking.md#steel-manning) |
 | Stock and Flow Reasoning | Operations Research | [Operations Research](../domains/09-resource-allocation/operations-research.md#stock-and-flow-reasoning) |
 | Stock-Flow Distinction | System Dynamics | [System Dynamics](../domains/04-complex-systems/system-dynamics.md#stock-flow-distinction) |
@@ -468,7 +472,9 @@ Alphabetical index of all reasoning tools with links to their domain sources.
 | Structured Source Evaluation | Intelligence Analysis | [Intelligence Analysis](../domains/01-decision-under-uncertainty/intelligence-analysis.md#structured-source-evaluation) |
 | Style and Code-Switching (Register Matching) | Classical Rhetoric | [Classical Rhetoric](../domains/02-persuasion-influence/classical-rhetoric.md#style-and-code-switching-register-matching) |
 | Subgame Perfect Equilibrium Identification | Game Theory Competitive | [Game Theory Competitive](../domains/08-conflict-competition/game-theory-competitive.md#subgame-perfect-equilibrium-identification) |
+| Substitutes and Complements | Economics Core | [Economics Core](../domains/09-resource-allocation/economics-core.md#substitutes-and-complements) |
 | Succession Pattern Recognition | Ecology | [Ecology](../domains/04-complex-systems/ecology.md#succession-pattern-recognition) |
+| Sunk Cost Fallacy | Behavioral Economics | [Behavioral Economics](../domains/09-resource-allocation/behavioral-economics.md#sunk-cost-fallacy) |
 | Sufficientarianism and Threshold Principles | Distributive Justice | [Distributive Justice](../domains/09-resource-allocation/distributive-justice.md#sufficientarianism-and-threshold-principles) |
 | Sunset Clauses and Temporary Authority | Constitutional Design | [Constitutional Design](../domains/06-coordination-cooperation/constitutional-design.md#sunset-clauses-and-temporary-authority) |
 | Surprise | Military Strategy | [Military Strategy](../domains/08-conflict-competition/military-strategy.md#surprise) |
@@ -499,13 +505,13 @@ Alphabetical index of all reasoning tools with links to their domain sources.
 | Threshold-Based Decision Rules | Emergency Medicine | [Emergency Medicine](../domains/01-decision-under-uncertainty/emergency-medicine.md#threshold-based-decision-rules) |
 | Tight and Loose Coupling | Operations Research | [Operations Research](../domains/09-resource-allocation/operations-research.md#tight-and-loose-coupling) |
 | Tight Coupling Cascade Analysis | Accident Investigation | [Accident Investigation](../domains/04-complex-systems/accident-investigation.md#tight-coupling-cascade-analysis) |
-| Time Discounting and Intertemporal Choice | Economics | [Economics](../domains/09-resource-allocation/economics.md#time-discounting-and-intertemporal-choice) |
+| Time Discounting and Present Bias | Behavioral Economics | [Behavioral Economics](../domains/09-resource-allocation/behavioral-economics.md#time-discounting-and-present-bias) |
 | Time Horizon Extension | System Dynamics | [System Dynamics](../domains/04-complex-systems/system-dynamics.md#time-horizon-extension) |
 | Time Horizon Matching | Portfolio Management | [Portfolio Management](../domains/09-resource-allocation/portfolio-management.md#time-horizon-matching) |
 | Time-Slice vs. Lifetime Distribution | Distributive Justice | [Distributive Justice](../domains/09-resource-allocation/distributive-justice.md#time-slice-vs-lifetime-distribution) |
 | Time-to-Maximal-Harm Analysis | Emergency Medicine | [Emergency Medicine](../domains/01-decision-under-uncertainty/emergency-medicine.md#time-to-maximal-harm-analysis) |
 | Timeline Construction | Investigative Journalism | [Investigative Journalism](../domains/07-truth-seeking/investigative-journalism.md#timeline-construction) |
-| Trade-offs and Constraints | Economics | [Economics](../domains/09-resource-allocation/economics.md#trade-offs-and-constraints) |
+| Trade-offs and Constraints | Economics Core | [Economics Core](../domains/09-resource-allocation/economics-core.md#trade-offs-and-constraints) |
 | Tradeoff Detection | Evolutionary Biology | [Evolutionary Biology](../domains/03-creative-generation/evolutionary-biology.md#tradeoff-detection) |
 | Train-Test Separation | Machine Learning | [Machine Learning](../domains/10-pattern-recognition/machine-learning.md#train-test-separation) |
 | Transfer Assessment and Adjustment | Sports Science | [Sports Science](../domains/05-skill-mastery/sports-science.md#transfer-assessment-and-adjustment) |
@@ -520,5 +526,6 @@ Alphabetical index of all reasoning tools with links to their domain sources.
 | Verification and Calibration Loops | Meteorology | [Meteorology](../domains/01-decision-under-uncertainty/meteorology.md#verification-and-calibration-loops) |
 | Veto Points and Policy Stability | Constitutional Design | [Constitutional Design](../domains/06-coordination-cooperation/constitutional-design.md#veto-points-and-policy-stability) |
 | Whole-Part-Whole Practice Structure | Sports Science | [Sports Science](../domains/05-skill-mastery/sports-science.md#whole-part-whole-practice-structure) |
+| Winner's Curse | Information Economics | [Information Economics](../domains/09-resource-allocation/information-economics.md#winners-curse) |
 | Zebra Hunting vs. Common Things | Medical Diagnostics | [Medical Diagnostics](../domains/10-pattern-recognition/medical-diagnostics.md#zebra-hunting-vs-common-things) |
 | Zero-Sum vs. Positive-Sum Recognition | Game Theory Competitive | [Game Theory Competitive](../domains/08-conflict-competition/game-theory-competitive.md#zero-sum-vs-positive-sum-recognition) |

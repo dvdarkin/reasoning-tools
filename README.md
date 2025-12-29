@@ -1,6 +1,6 @@
 # Reasoning Tools Knowledge Base
 
-A comprehensive, structured library of transferable reasoning tools extracted from 32 high-value domains.
+A comprehensive, structured library of transferable reasoning tools extracted from 34 high-value domains.
 
 ## What This Is
 
@@ -31,7 +31,7 @@ Browse [domains/](domains/README.md) organized by what you're trying to do:
 - [Pattern Recognition](domains/10-pattern-recognition/README.md) - Identifying structures and making predictions
 
 ### Glossary
-See [tools/glossary.md](tools/glossary.md) for a complete alphabetical index of all 516 tools with direct links to their source domains.
+See [tools/glossary.md](tools/glossary.md) for a complete alphabetical index of all 523 tools with direct links to their source domains.
 
 ### By Tool Name
 See [tools/by-tool-name/](tools/by-tool-name/README.md) for cross-domain tools showing how the same concept appears in different fields.
@@ -42,7 +42,7 @@ See [tools/by-application/](tools/by-application/README.md) for problem-oriented
 ### Visual Map
 See [matrix.md](matrix.md) for the full hybrid matrix showing problem domains × disciplinary approaches.
 
-## What's Included (32 Domains)
+## What's Included (34 Domains)
 
 **Decision Under Uncertainty (4):**
 - [Bayesian Statistics](domains/01-decision-under-uncertainty/bayesian-statistics.md) - Rigorous framework for updating beliefs with evidence
@@ -86,8 +86,10 @@ See [matrix.md](matrix.md) for the full hybrid matrix showing problem domains ×
 - [Competitive Game Theory](domains/08-conflict-competition/game-theory-competitive.md) - Nash equilibrium, minimax, backward induction
 - [Litigation Strategy](domains/08-conflict-competition/litigation-strategy.md) - Discovery, burden of proof, adversarial system
 
-**Resource Allocation (4):**
-- [Economics](domains/09-resource-allocation/economics.md) - Opportunity cost, marginal analysis, comparative advantage
+**Resource Allocation (6):**
+- [Economics - Core](domains/09-resource-allocation/economics-core.md) - Opportunity cost, marginal analysis, comparative advantage, incentives
+- [Information Economics](domains/09-resource-allocation/information-economics.md) - Adverse selection, moral hazard, signaling, mechanism design
+- [Behavioral Economics](domains/09-resource-allocation/behavioral-economics.md) - Loss aversion, framing, anchoring, time discounting
 - [Operations Research](domains/09-resource-allocation/operations-research.md) - Optimization, queuing theory, linear programming
 - [Portfolio Management](domains/09-resource-allocation/portfolio-management.md) - Diversification, risk-adjusted returns, rebalancing
 - [Distributive Justice](domains/09-resource-allocation/distributive-justice.md) - Fairness principles, allocation criteria, trade-offs
@@ -202,14 +204,14 @@ If you use these reasoning tools in your work, please cite:
 
 ```
 Reasoning Tools Knowledge Base (2025)
-Extracted reasoning primitives across 32 domains
+Extracted reasoning primitives across 34 domains
 Available at: https://github.com/dvdarkin/reasoning-tools
 ```
 
 ---
 
-**Last Updated**: 2025-12-29
-**Version**: 1.2.0
-**Total Domains**: 32
-**Total Tools**: 516 (see [glossary](tools/glossary.md) for full list)
-**Tools per Domain**: 13-28 (average ~16)
+**Last Updated**: 2025-12-30
+**Version**: 1.3.0
+**Total Domains**: 34
+**Total Tools**: 523 (see [glossary](tools/glossary.md) for full list)
+**Tools per Domain**: 11-23 (average ~15)

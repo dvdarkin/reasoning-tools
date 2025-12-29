@@ -1,6 +1,6 @@
 # Stock-Flow Distinction
 
-**Appears in:** System Dynamics, Operations Research, Economics, Ecology
+**Appears in:** System Dynamics, Operations Research, Behavioral Economics, Ecology
 
 ## Core Concept
 
@@ -18,10 +18,10 @@ Stocks are accumulations at a point in time (bathtub water level, bank balance, 
 - **Key operation:** Inventory (stock) changes through production rate (inflow) and sales rate (outflow)
 - **Link:** [domains/09-resource-allocation/operations-research.md](../../domains/09-resource-allocation/operations-research.md#stock-and-flow-reasoning)
 
-### In Economics
+### In Behavioral Economics
 - **Context:** Wealth vs. income, capital vs. investment, debt vs. deficit
 - **Key operation:** Distinguish accumulated quantities from flow rates to avoid confusion in policy debates
-- **Link:** [domains/09-resource-allocation/economics.md](../../domains/09-resource-allocation/economics.md#time-discounting-and-intertemporal-choice)
+- **Link:** [domains/09-resource-allocation/behavioral-economics.md](../../domains/09-resource-allocation/behavioral-economics.md#time-discounting-and-present-bias)
 
 ### In Ecology
 - **Context:** Population levels vs. birth/death rates, biomass vs. productivity

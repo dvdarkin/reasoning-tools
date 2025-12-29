@@ -49,13 +49,13 @@ Prediction requires combining base rates, specific evidence, and model uncertain
 - **Feedback Loop Analysis**: Trace reinforcing and balancing loops to predict system behavior
   - Link: [domains/09-resource-allocation/operations-research.md](../../domains/09-resource-allocation/operations-research.md#positive-feedback-loops)
 
-### From Economics
+### From Economics Core
 
 - **Marginal Analysis**: Predict how outcomes change with small incremental changes in inputs
-  - Link: [domains/09-resource-allocation/economics.md](../../domains/09-resource-allocation/economics.md#marginal-thinking)
+  - Link: [domains/09-resource-allocation/economics-core.md](../../domains/09-resource-allocation/economics-core.md#marginal-thinking)
 
 - **Equilibrium Thinking**: Identify stable states where opposing forces balance
-  - Link: [domains/09-resource-allocation/economics.md](../../domains/09-resource-allocation/economics.md#equilibrium-as-analytical-tool)
+  - Link: [domains/09-resource-allocation/economics-core.md](../../domains/09-resource-allocation/economics-core.md#equilibrium-as-analytical-tool)
 
 ### From Machine Learning
 

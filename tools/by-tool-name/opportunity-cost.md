@@ -1,6 +1,6 @@
 # Opportunity Cost
 
-**Appears in:** Economics, Operations Research, Military Strategy
+**Appears in:** Economics Core, Operations Research, Military Strategy
 
 ## Core Concept
 
@@ -8,10 +8,10 @@ The true cost of any choice is the value of the best alternative you gave up - n
 
 ## Domain-Specific Variations
 
-### In Economics
+### In Economics Core
 - **Context:** Foundational concept for understanding trade-offs and allocation decisions
 - **Key operation:** For any choice, identify the realistic next-best use of the same resources as your benchmark
-- **Link:** [domains/09-resource-allocation/economics.md](../../domains/09-resource-allocation/economics.md#opportunity-cost)
+- **Link:** [domains/09-resource-allocation/economics-core.md](../../domains/09-resource-allocation/economics-core.md#opportunity-cost)
 
 ### In Operations Research
 - **Context:** Bottleneck analysis and constraint optimization

@@ -8,19 +8,19 @@ Resource allocation requires balancing efficiency (maximizing total value), equi
 
 ## Relevant Tools
 
-### From Economics
+### From Economics Core
 
 - **Opportunity Cost**: For every allocation, identify the value of the next-best alternative forgone
-  - Link: [domains/09-resource-allocation/economics.md](../../domains/09-resource-allocation/economics.md#opportunity-cost)
+  - Link: [domains/09-resource-allocation/economics-core.md](../../domains/09-resource-allocation/economics-core.md#opportunity-cost)
 
 - **Marginal Analysis**: Allocate resources where marginal benefit per unit cost is highest
-  - Link: [domains/09-resource-allocation/economics.md](../../domains/09-resource-allocation/economics.md#marginal-thinking)
+  - Link: [domains/09-resource-allocation/economics-core.md](../../domains/09-resource-allocation/economics-core.md#marginal-thinking)
 
 - **Diminishing Returns**: Recognize that additional units typically yield decreasing incremental value
   - Link: [domains/09-resource-allocation/operations-research.md](../../domains/09-resource-allocation/operations-research.md#diminishing-and-increasing-returns)
 
-- **Price Mechanisms**: Use prices or price-like signals to aggregate distributed information
-  - Link: [domains/09-resource-allocation/economics.md](../../domains/09-resource-allocation/economics.md#externalities)
+- **Externalities**: Account for costs and benefits imposed on parties outside the transaction
+  - Link: [domains/09-resource-allocation/economics-core.md](../../domains/09-resource-allocation/economics-core.md#externalities)
 
 ### From Operations Research
 

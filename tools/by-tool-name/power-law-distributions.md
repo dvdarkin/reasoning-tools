@@ -1,6 +1,6 @@
 # Power Law / Heavy-Tailed Distributions
 
-**Appears in:** Network Science, Economics, Evolutionary Biology, System Dynamics
+**Appears in:** Network Science, Behavioral Economics, Evolutionary Biology, System Dynamics
 
 ## Core Concept
 
@@ -13,10 +13,10 @@ Many real-world distributions have heavy tails where a few instances account for
 - **Key operation:** Check if removing top 10% most-connected nodes fragments the network
 - **Link:** [domains/04-complex-systems/network-science.md](../../domains/04-complex-systems/network-science.md#degree-distribution-analysis)
 
-### In Economics
+### In Behavioral Economics
 - **Context:** Wealth and income inequality, firm size distributions, city populations
 - **Key operation:** Recognize when systems exhibit increasing returns and preferential attachment
-- **Link:** [domains/09-resource-allocation/economics.md](../../domains/09-resource-allocation/economics.md#network-effects-and-tipping-points)
+- **Link:** [domains/09-resource-allocation/behavioral-economics.md](../../domains/09-resource-allocation/behavioral-economics.md#network-effects-and-tipping-points)
 
 ### In Evolutionary Biology
 - **Context:** Species abundance distributions, extinction rates, adaptation sizes

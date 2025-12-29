@@ -31,7 +31,7 @@ Persuasion requires understanding audience beliefs, framing arguments strategica
   - Link: [domains/02-persuasion-influence/social-psychology.md](../../domains/02-persuasion-influence/social-psychology.md#commitment-and-consistency-escalation)
 
 - **Framing Effects**: How options are presented dramatically affects choices
-  - Link: [domains/09-resource-allocation/economics.md](../../domains/09-resource-allocation/economics.md#framing-and-mental-accounting)
+  - Link: [domains/09-resource-allocation/behavioral-economics.md](../../domains/09-resource-allocation/behavioral-economics.md#framing-effects)
 
 ### From Game Theory (Signaling)
 
