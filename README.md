@@ -211,7 +211,7 @@ Available at: https://github.com/dvdarkin/reasoning-tools
 ---
 
 **Last Updated**: 2025-12-30
-**Version**: 1.3.0
+**Version**: 1.3.1
 **Total Domains**: 34
 **Total Tools**: 523 (see [glossary](tools/glossary.md) for full list)
 **Tools per Domain**: 11-23 (average ~15)

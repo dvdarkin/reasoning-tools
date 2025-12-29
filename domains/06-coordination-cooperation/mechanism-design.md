@@ -36,13 +36,13 @@ The tools are organized into four tiers:
 
 ---
 
-# Tier 1: Foundations
+## Tier 1: Foundations
 
 These are the atomic reasoning moves that underlie all mechanism design thinking.
 
 ---
 
-## Incentive Compatibility
+### Incentive Compatibility
 
 **What**: A mechanism is incentive compatible when telling the truth and following intended behavior is in each agent's self-interest, given that others do the same. The mechanism's structure makes desired actions individually rational, not just collectively beneficial.
 
@@ -60,7 +60,7 @@ These are the atomic reasoning moves that underlie all mechanism design thinking
 
 ---
 
-## Individual Rationality (Participation Constraints)
+### Individual Rationality (Participation Constraints)
 
 **What**: A mechanism must offer each participant outcomes at least as good as their best alternative (their "outside option"). If participating makes you worse off than walking away, you'll walk away. Individual rationality ensures voluntary participation.
 
@@ -78,7 +78,7 @@ These are the atomic reasoning moves that underlie all mechanism design thinking
 
 ---
 
-## Preference Revelation
+### Preference Revelation
 
 **What**: Mechanisms often need participants to report their private information - valuations, preferences, costs, quality. But participants may benefit from lying. Preference revelation is the problem of extracting truthful information when you can't verify it directly and agents have strategic reasons to misreport.
 
@@ -96,7 +96,7 @@ These are the atomic reasoning moves that underlie all mechanism design thinking
 
 ---
 
-## Direct vs Indirect Mechanisms
+### Direct vs Indirect Mechanisms
 
 **What**: Direct mechanisms ask participants to report information directly (valuations, preferences, types). Indirect mechanisms reveal information through actions - bids, choices, effort levels. The revelation principle says any indirect mechanism can be converted to an equivalent direct mechanism, but real-world considerations often favor indirect approaches.
 
@@ -114,13 +114,13 @@ These are the atomic reasoning moves that underlie all mechanism design thinking
 
 ---
 
-# Tier 2: Information and Revelation
+## Tier 2: Information and Revelation
 
 These tools handle settings where participants have private information that affects outcomes.
 
 ---
 
-## Information Asymmetry Diagnosis
+### Information Asymmetry Diagnosis
 
 **What**: Information asymmetry exists when different parties have different information relevant to a transaction or decision, and the uninformed party can't directly verify the informed party's claims. The uninformed party must either trust, screen, or structure incentives to reveal truth.
 
@@ -138,7 +138,7 @@ These tools handle settings where participants have private information that aff
 
 ---
 
-## Screening Mechanisms
+### Screening Mechanisms
 
 **What**: When you can't observe types directly (quality, productivity, risk level), offer a menu of options designed so different types self-select into choices that reveal their type. High types choose high-commitment options, low types choose low-commitment options. The choice itself is information.
 
@@ -156,7 +156,7 @@ These tools handle settings where participants have private information that aff
 
 ---
 
-## Signaling Structures
+### Signaling Structures
 
 **What**: When you have private information about your type and want others to believe you're high quality, take costly actions that low types would find unprofitable. The cost differential makes the signal credible - low types won't mimic because the cost exceeds the benefit, but high types will because their lower cost (or higher benefit) makes it worthwhile.
 
@@ -174,7 +174,7 @@ These tools handle settings where participants have private information that aff
 
 ---
 
-## Common Knowledge and Coordination
+### Common Knowledge and Coordination
 
 **What**: Common knowledge means everyone knows X, everyone knows everyone knows X, everyone knows everyone knows everyone knows X, ad infinitum. This differs from "everyone knows" (shared knowledge). Common knowledge enables coordination - you'll only take an action conditional on others taking it if you're confident they're confident you're confident...
 
@@ -192,13 +192,13 @@ These tools handle settings where participants have private information that aff
 
 ---
 
-# Tier 3: Implementation and Stability
+## Tier 3: Implementation and Stability
 
 These tools ensure mechanisms actually work when implemented and remain robust over time.
 
 ---
 
-## Implementation Theory
+### Implementation Theory
 
 **What**: A social choice function (what outcomes you want) is implementable if there exists a mechanism (a set of rules) whose equilibrium outcomes match your desired outcomes when agents play strategically. Not all desirable outcomes can be implemented - some require information you can't access or create incentive conflicts you can't resolve.
 
@@ -216,7 +216,7 @@ These tools ensure mechanisms actually work when implemented and remain robust o
 
 ---
 
-## Budget Balance and Subsidies
+### Budget Balance and Subsidies
 
 **What**: A mechanism is budget balanced if payments by participants sum to zero (or a constant) - money redistributes within the group without external injection or extraction. Many mechanisms require subsidies (burning money or external funding) to achieve other goals like efficiency or incentive compatibility.
 
@@ -234,7 +234,7 @@ These tools ensure mechanisms actually work when implemented and remain robust o
 
 ---
 
-## Collusion Resistance
+### Collusion Resistance
 
 **What**: A mechanism is collusion-resistant if participants can't improve their outcomes by coordinating their reports or actions. Collusion creates a "meta-player" that manipulates the mechanism. Resistance requires detecting or preventing coalitional deviations.
 
@@ -252,7 +252,7 @@ These tools ensure mechanisms actually work when implemented and remain robust o
 
 ---
 
-## Robustness to Strategic Sophistication
+### Robustness to Strategic Sophistication
 
 **What**: Mechanisms vary in how much strategic sophistication they require from participants. Some mechanisms work only if participants understand complex game trees and calculate optimal strategies. Others work even with naive participants. Robust mechanisms align incentives simply enough that straightforward reasoning leads to desired behavior.
 
@@ -270,13 +270,13 @@ These tools ensure mechanisms actually work when implemented and remain robust o
 
 ---
 
-# Tier 4: Advanced Structures
+## Tier 4: Advanced Structures
 
 These tools handle complex multi-stakeholder environments with dynamic considerations.
 
 ---
 
-## Multi-Sided Markets and Externalities
+### Multi-Sided Markets and Externalities
 
 **What**: Multi-sided markets involve multiple distinct participant groups where each group's benefit depends on the other groups' participation. Platforms must set prices/mechanisms for each side while managing cross-side externalities - participation by one side benefits (or harms) the other side.
 
@@ -294,7 +294,7 @@ These tools handle complex multi-stakeholder environments with dynamic considera
 
 ---
 
-## Dynamic Mechanism Design
+### Dynamic Mechanism Design
 
 **What**: Dynamic mechanisms operate over multiple periods where current actions affect future states, information is revealed gradually, and participants' types or preferences may change. The mechanism must account for intertemporal incentives - how today's choices affect tomorrow's options and information.
 
@@ -312,7 +312,7 @@ These tools handle complex multi-stakeholder environments with dynamic considera
 
 ---
 
-## Mechanism Composition
+### Mechanism Composition
 
 **What**: Complex systems often combine multiple mechanisms - hiring processes combine screening (resumes), signaling (credentials), and preference revelation (interviews). The mechanisms interact: one mechanism's outputs become another's inputs, and strategic behavior adapts to the entire system, not individual components.
 
@@ -330,7 +330,7 @@ These tools handle complex multi-stakeholder environments with dynamic considera
 
 ---
 
-## Approximate Mechanism Design
+### Approximate Mechanism Design
 
 **What**: Instead of demanding perfect incentive compatibility, efficiency, and budget balance, settle for approximately optimal mechanisms that perform well in practice even if not theoretically perfect. Use computational methods, heuristics, or simplified mechanisms that work "well enough" with much lower complexity.
 
@@ -391,7 +391,7 @@ These tools handle complex multi-stakeholder environments with dynamic considera
 
 # Usage Notes
 
-## Domain of Applicability
+### Domain of Applicability
 
 These tools work best in settings where:
 
@@ -417,7 +417,7 @@ These tools **cannot**:
 - Guarantee perfect outcomes (impossibility results prove certain combinations of goals are unachievable)
 - Work without enforcement (if you can't commit to following the mechanism's rules, it collapses)
 
-## Composition
+### Composition
 
 Tool combinations that work well:
 
@@ -431,7 +431,7 @@ Tool substitutes (use one or the other):
 - **Screening vs Signaling** - screening is designer-initiated (you offer menus), signaling is agent-initiated (they take costly actions). Which to use depends on who has design authority.
 - **Direct vs Indirect Mechanisms** - theoretically equivalent (by revelation principle) but practically different. Choose based on participant sophistication and cultural context.
 
-## Integration with Other Domains
+### Integration with Other Domains
 
 **Economics**: Mechanism design is applied economics - it uses economic reasoning (incentives, optimization, equilibrium) for design rather than just analysis. Tools compose naturally.
 
