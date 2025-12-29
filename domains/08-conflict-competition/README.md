@@ -4,9 +4,9 @@ Reasoning tools for strategic interaction and adversarial situations.
 
 ## Domains in This Category
 
-1. **Military Strategy** - Maneuver warfare, centers of gravity, fog of war, strategic surprise
-2. **Competitive Game Theory** - Nash equilibrium, mixed strategies, backward induction
-3. **Litigation Strategy** - Burden of proof, discovery, precedent, adversarial process
+1. [Military Strategy](military-strategy.md) - Maneuver warfare, centers of gravity, fog of war, strategic surprise
+2. [Competitive Game Theory](game-theory-competitive.md) - Nash equilibrium, mixed strategies, backward induction
+3. [Litigation Strategy](litigation-strategy.md) - Burden of proof, discovery, precedent, adversarial process
 
 ## Common Themes
 

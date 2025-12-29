@@ -4,10 +4,10 @@ Reasoning tools for distinguishing truth from falsehood and validating claims.
 
 ## Domains in This Category
 
-1. **Formal Verification** - Proofs, invariants, model checking, formal specifications
-2. **Experimental Design** - Control groups, randomization, blinding, statistical power
-3. **Investigative Journalism** - Source verification, triangulation, paper trails
-4. **Logic & Critical Thinking** - Valid inference, fallacy detection, argument structure
+1. [Formal Verification](formal-verification.md) - Proofs, invariants, model checking, formal specifications
+2. [Experimental Design](experimental-design.md) - Control groups, randomization, blinding, statistical power
+3. [Investigative Journalism](investigative-journalism.md) - Source verification, triangulation, paper trails
+4. [Logic & Critical Thinking](logic-critical-thinking.md) - Valid inference, fallacy detection, argument structure
 
 ## Common Themes
 

@@ -4,9 +4,9 @@ Reasoning tools for aligning incentives and enabling collective action.
 
 ## Domains in This Category
 
-1. **Mechanism Design** - Incentive compatibility, revelation principles, auction design
-2. **Organizational Behavior** - Team dynamics, organizational culture, decision rights
-3. **Constitutional Design** - Separation of powers, checks and balances, democratic institutions
+1. [Mechanism Design](mechanism-design.md) - Incentive compatibility, revelation principles, auction design
+2. [Organizational Behavior](organizational-behavior.md) - Team dynamics, organizational culture, decision rights
+3. [Constitutional Design](constitutional-design.md) - Separation of powers, checks and balances, democratic institutions
 
 ## Common Themes
 

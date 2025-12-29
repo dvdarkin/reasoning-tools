@@ -4,9 +4,9 @@ Reasoning tools for learning, practice, and expertise development.
 
 ## Domains in This Category
 
-1. **Learning Theory (Cognitive Science)** - Spacing effects, retrieval practice, interleaving, cognitive load
-2. **Sports Science** - Deliberate practice, motor learning, periodization, performance feedback
-3. **Expertise Studies** - Chunking, pattern recognition, mental models, 10,000 hour rule
+1. [Learning Theory (Cognitive Science)](learning-theory.md) - Spacing effects, retrieval practice, interleaving, cognitive load
+2. [Sports Science](sports-science.md) - Deliberate practice, motor learning, periodization, performance feedback
+3. [Expertise Studies](expertise-studies.md) - Chunking, pattern recognition, mental models, 10,000 hour rule
 
 ## Common Themes
 

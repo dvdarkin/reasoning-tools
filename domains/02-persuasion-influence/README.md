@@ -4,9 +4,9 @@ Reasoning tools for changing minds and shaping behavior.
 
 ## Domains in This Category
 
-1. **Game Theory (Signaling)** - Strategic communication, credible commitments, signaling costs
-2. **Social Psychology** - Cognitive biases, social proof, commitment/consistency
-3. **Classical Rhetoric** - Ethos, pathos, logos, rhetorical devices
+1. [Game Theory (Signaling)](game-theory-signaling.md) - Strategic communication, credible commitments, signaling costs
+2. [Social Psychology](social-psychology.md) - Cognitive biases, social proof, commitment/consistency
+3. [Classical Rhetoric](classical-rhetoric.md) - Ethos, pathos, logos, rhetorical devices
 
 ## Common Themes
 

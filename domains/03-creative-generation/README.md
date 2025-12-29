@@ -4,8 +4,8 @@ Reasoning tools for generating novel solutions and innovations.
 
 ## Domains in This Category
 
-1. **Design Thinking** - Human-centered design, rapid prototyping, iterative refinement
-2. **Evolutionary Biology** - Variation, selection, adaptation, exaptation
+1. [Design Thinking](design-thinking.md) - Human-centered design, rapid prototyping, iterative refinement
+2. [Evolutionary Biology](evolutionary-biology.md) - Variation, selection, adaptation, exaptation
 
 ## Common Themes
 

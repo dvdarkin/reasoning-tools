@@ -4,10 +4,10 @@ Reasoning tools for understanding interconnected, dynamic systems.
 
 ## Domains in This Category
 
-1. **System Dynamics** - Stock-flow thinking, feedback loops, delays, nonlinear effects
-2. **Network Science** - Network structure, centrality, cascades, small-world effects
-3. **Ecology** - Interdependence, trophic cascades, resilience, ecosystem services
-4. **Accident Investigation** - Root cause analysis, Swiss cheese model, systemic factors
+1. [System Dynamics](system-dynamics.md) - Stock-flow thinking, feedback loops, delays, nonlinear effects
+2. [Network Science](network-science.md) - Network structure, centrality, cascades, small-world effects
+3. [Ecology](ecology.md) - Interdependence, trophic cascades, resilience, ecosystem services
+4. [Accident Investigation](accident-investigation.md) - Root cause analysis, Swiss cheese model, systemic factors
 
 ## Common Themes
 

@@ -45,56 +45,56 @@ See [matrix.md](matrix.md) for the full hybrid matrix showing problem domains ×
 ## What's Included (32 Domains)
 
 **Decision Under Uncertainty (4):**
-- Bayesian Statistics - Rigorous framework for updating beliefs with evidence
-- Meteorology - Ensemble forecasting, confidence intervals, model averaging
-- Intelligence Analysis - Structured analytic techniques, red teaming, hypothesis testing
-- Emergency Medicine - Triage protocols, rapid assessment under pressure
+- [Bayesian Statistics](domains/01-decision-under-uncertainty/bayesian-statistics.md) - Rigorous framework for updating beliefs with evidence
+- [Meteorology](domains/01-decision-under-uncertainty/meteorology.md) - Ensemble forecasting, confidence intervals, model averaging
+- [Intelligence Analysis](domains/01-decision-under-uncertainty/intelligence-analysis.md) - Structured analytic techniques, red teaming, hypothesis testing
+- [Emergency Medicine](domains/01-decision-under-uncertainty/emergency-medicine.md) - Triage protocols, rapid assessment under pressure
 
 **Persuasion & Influence (3):**
-- Game Theory (Signaling) - Costly signals, credible commitments, information revelation
-- Social Psychology - Cognitive biases, attitude change, group dynamics
-- Classical Rhetoric - Persuasive argumentation, audience analysis, rhetorical appeals
+- [Game Theory (Signaling)](domains/02-persuasion-influence/game-theory-signaling.md) - Costly signals, credible commitments, information revelation
+- [Social Psychology](domains/02-persuasion-influence/social-psychology.md) - Cognitive biases, attitude change, group dynamics
+- [Classical Rhetoric](domains/02-persuasion-influence/classical-rhetoric.md) - Persuasive argumentation, audience analysis, rhetorical appeals
 
 **Creative Generation (2):**
-- Design Thinking - Human-centered problem solving, prototyping, iteration
-- Evolutionary Biology - Variation, selection, adaptation, convergent evolution
+- [Design Thinking](domains/03-creative-generation/design-thinking.md) - Human-centered problem solving, prototyping, iteration
+- [Evolutionary Biology](domains/03-creative-generation/evolutionary-biology.md) - Variation, selection, adaptation, convergent evolution
 
 **Complex System Analysis (4):**
-- System Dynamics - Stock-flow thinking, feedback loops, delays
-- Network Science - Graph structure, centrality, clustering, cascades
-- Ecology - Niche construction, trophic levels, succession, resilience
-- Accident Investigation - Root cause analysis, Swiss cheese model, contributing factors
+- [System Dynamics](domains/04-complex-systems/system-dynamics.md) - Stock-flow thinking, feedback loops, delays
+- [Network Science](domains/04-complex-systems/network-science.md) - Graph structure, centrality, clustering, cascades
+- [Ecology](domains/04-complex-systems/ecology.md) - Niche construction, trophic levels, succession, resilience
+- [Accident Investigation](domains/04-complex-systems/accident-investigation.md) - Root cause analysis, Swiss cheese model, contributing factors
 
 **Skill Acquisition & Mastery (3):**
-- Learning Theory (Cognitive Science) - Spaced repetition, retrieval practice, transfer
-- Sports Science - Deliberate practice, periodization, skill acquisition
-- Expertise Studies - Pattern recognition, chunking, mental models
+- [Learning Theory (Cognitive Science)](domains/05-skill-mastery/learning-theory.md) - Spaced repetition, retrieval practice, transfer
+- [Sports Science](domains/05-skill-mastery/sports-science.md) - Deliberate practice, periodization, skill acquisition
+- [Expertise Studies](domains/05-skill-mastery/expertise-studies.md) - Pattern recognition, chunking, mental models
 
 **Coordination & Cooperation (3):**
-- Mechanism Design - Incentive compatibility, revelation principle, implementation
-- Organizational Behavior - Team dynamics, culture, motivation, structure
-- Constitutional Design - Separation of powers, checks and balances, amendment rules
+- [Mechanism Design](domains/06-coordination-cooperation/mechanism-design.md) - Incentive compatibility, revelation principle, implementation
+- [Organizational Behavior](domains/06-coordination-cooperation/organizational-behavior.md) - Team dynamics, culture, motivation, structure
+- [Constitutional Design](domains/06-coordination-cooperation/constitutional-design.md) - Separation of powers, checks and balances, amendment rules
 
 **Truth-Seeking & Verification (4):**
-- Formal Verification - Proofs, invariants, model checking, specification
-- Experimental Design - Controls, randomization, blinding, replication
-- Investigative Journalism - Source verification, documentary evidence, corroboration
-- Logic & Critical Thinking - Valid inference, fallacy detection, argument analysis
+- [Formal Verification](domains/07-truth-seeking/formal-verification.md) - Proofs, invariants, model checking, specification
+- [Experimental Design](domains/07-truth-seeking/experimental-design.md) - Controls, randomization, blinding, replication
+- [Investigative Journalism](domains/07-truth-seeking/investigative-journalism.md) - Source verification, documentary evidence, corroboration
+- [Logic & Critical Thinking](domains/07-truth-seeking/logic-critical-thinking.md) - Valid inference, fallacy detection, argument analysis
 
 **Conflict & Competition (3):**
-- Military Strategy - Force concentration, interior lines, maneuver warfare
-- Competitive Game Theory - Nash equilibrium, minimax, backward induction
-- Litigation Strategy - Discovery, burden of proof, adversarial system
+- [Military Strategy](domains/08-conflict-competition/military-strategy.md) - Force concentration, interior lines, maneuver warfare
+- [Competitive Game Theory](domains/08-conflict-competition/game-theory-competitive.md) - Nash equilibrium, minimax, backward induction
+- [Litigation Strategy](domains/08-conflict-competition/litigation-strategy.md) - Discovery, burden of proof, adversarial system
 
 **Resource Allocation (4):**
-- Economics - Opportunity cost, marginal analysis, comparative advantage
-- Operations Research - Optimization, queuing theory, linear programming
-- Portfolio Management - Diversification, risk-adjusted returns, rebalancing
-- Distributive Justice - Fairness principles, allocation criteria, trade-offs
+- [Economics](domains/09-resource-allocation/economics.md) - Opportunity cost, marginal analysis, comparative advantage
+- [Operations Research](domains/09-resource-allocation/operations-research.md) - Optimization, queuing theory, linear programming
+- [Portfolio Management](domains/09-resource-allocation/portfolio-management.md) - Diversification, risk-adjusted returns, rebalancing
+- [Distributive Justice](domains/09-resource-allocation/distributive-justice.md) - Fairness principles, allocation criteria, trade-offs
 
 **Pattern Recognition (2):**
-- Machine Learning - Bias-variance tradeoff, regularization, cross-validation
-- Medical Diagnostics - Differential diagnosis, base rates, likelihood ratios
+- [Machine Learning](domains/10-pattern-recognition/machine-learning.md) - Bias-variance tradeoff, regularization, cross-validation
+- [Medical Diagnostics](domains/10-pattern-recognition/medical-diagnostics.md) - Differential diagnosis, base rates, likelihood ratios
 
 ## Cross-Domain Tools
 

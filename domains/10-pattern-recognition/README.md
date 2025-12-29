@@ -4,8 +4,8 @@ Reasoning tools for identifying patterns, making classifications, and generating
 
 ## Domains in This Category
 
-1. **Machine Learning** - Feature engineering, overfitting, bias-variance tradeoff, cross-validation
-2. **Medical Diagnostics** - Differential diagnosis, Bayesian reasoning, decision trees, heuristics
+1. [Machine Learning](machine-learning.md) - Feature engineering, overfitting, bias-variance tradeoff, cross-validation
+2. [Medical Diagnostics](medical-diagnostics.md) - Differential diagnosis, Bayesian reasoning, decision trees, heuristics
 
 ## Common Themes
 
